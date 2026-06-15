@@ -1,0 +1,647 @@
+Date: 2026-06-15T20:48:07.222Z
+From: {"address":"publishing@email.mckinsey.com","name":"McKinsey & Company"}
+To: {"address":"ai.kontiovaara@ala-harja.com","name":""}
+Content-Type: text/html; charset=utf-8
+
+Subject: How rewired enterprises move faster
+
+
+
+<!-- XSS REPLACEMENTS START-->
+<!-- XSS REPLACEMENTS END--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial scale=1.0" />
+<meta name="robots" content="no index" />
+<meta name="format-detection" content="telephone=no" />
+<meta name="format-detection" content="address=no" />
+
+<!--[if !mso]><!-->
+
+
+<!--<![endif]-->
+
+<title></title>
+<style type="text/css">
+.ReadMsgBody {
+    width: 100%;
+}
+.ExternalClass {
+    width: 100%;
+}
+.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {
+    line-height: 100%;
+}
+body {
+    -webkit-text-size-adjust: none;
+    -ms-text-size-adjust: none;
+    margin: 0 auto !important;
+    padding: 0;
+    min-width: 100% !important;
+}
+td {
+    mso-line-height-rule: exactly;
+    mso-table-lspace: 0pt;
+    mso-table-rspace: 0pt;
+}
+img {
+    margin: 0 !important;
+}
+/* Forces Outlook to honor line-height */
+div, p, a, li, td, span {
+    -webkit-text-size-adjust: none;
+}
+/* Hides preheader on Outlook */
+.set_outlook_hidden {
+    display: none !important;
+}
+/* Overrides blue links */
+a[href^=tel], #MessageViewBody a, a[x-apple-data-detectors], #body a, .link {
+    color: inherit;
+    text-decoration: none;
+    font-size: inherit;
+    font-family: inherit;
+    font-weight: inherit;
+    line-height: inherit;
+}
+/* Wraps bullet proof button */
+a.button {
+    border-left: 0px !important;
+    border-right: 0px !important;
+    display: block !important;
+    width: 100% !important;
+}
+[data-outlook-cycle] [x-apple-data-detectors-type="calendar-event"] {
+    color: inherit !important;
+    -webkit-text-decoration-color: inherit !important;
+    text-decoration: none !important;
+}
+/*Stops Outlook iOS blue dates*/
+#body [x-apple-data-detectors=true],
+a[x-apple-data-detectors=true] {
+    color: inherit !important;
+    -webkit-text-decoration-color: inherit !important;
+    text-decoration: inherit !important;
+}
+/* Default superscript code */
+sup {
+    -webkit-text-size-adjust: none;
+    vertical-align: text-top .6em;
+    line-height: .6em;
+    font-size: 60%;
+}
+/* Default subscript code */
+sub {
+    -webkit-text-size-adjust: none;
+    vertical-align: text-bottom .9em;
+    line-height: .9em;
+    font-size: 60%;
+}
+.yshortcuts a {
+    border-bottom: none !important;
+}
+/* Renders TH on yahoo */
+.undoreset th {
+    padding: 1px !important;
+}
+/* Extra classes */
+.nowrap {
+    white-space: nowrap !important;
+}
+strong {
+    font-weight: bold;
+}
+em {
+    font-style: italic;
+}
+td, p, span {
+mso-hyphenate: none !important;
+}
+/* STYLES FOR ROUNDED BORDER BUTTONS */
+@media screen and (max-device-width: 600px), screen and (max-width: 600px) {
+  .wrapto100pc {
+      width: 100% !important;
+      height: auto !important;
+  }
+  .nomob_rounded {
+      display: none !important;
+      width: 0px !important;
+      height: 0px !important;
+  }
+}
+u + #body a {
+    color: inherit;
+    text-decoration: none;
+    font-size: inherit;
+    font-family: inherit;
+    font-weight: inherit;
+    line-height: inherit;
+}
+u + #body .nomob_rounded {
+    display: none!important;
+    width: 0px!important;
+    height: 0px!important;
+}
+u + #body .gmailbutton {
+    width: 100% !important;
+}
+
+/* STYLES FOR RESPONSIVE */
+@media only screen and (max-width: 480px) {
+  /* SHOW ON RESPONSIVE */
+  .mobile_show {
+      display: block !important;
+      width: auto !important;
+      overflow: visible !important;
+      float: none !important;
+      max-height: none !important;
+      line-height: normal !important;
+      height: auto !important;
+  }
+  /* HIDE ON RESPONSIVE */
+  .nomob, .hide {
+      display: none !important;
+  }
+  /* RESPONSIVE BACKGROUND IMAGE */
+  .bgAdjust {
+      background-position: top center;
+  }
+  .hide_bgimage {
+      background-image: none !important;
+      height: auto !important;
+      width: 100% !important;
+  }
+  /* ALIGNS OBJECTS ON RESPONSIVE */
+  .center {
+      text-align: center !important;
+  }
+  .left {
+      text-align: left !important;
+  }
+  .right {
+      text-align: right !important;
+  }
+  /* ALIGN BLOCK ELEMENTS ON RESPONSIVE */
+  .margin0 {
+      margin: 0 auto !important;
+  }
+  .margin-left {
+      margin-right: auto;
+      margin-left: 0;
+  }
+  .margin-right {
+      margin-right: 0;
+      margin-left: auto;
+  }
+  /* WRAP & RESIZE ON RESPONSIVE */
+  .wrap {
+      width: 100% !important;
+      height: auto !important;
+      min-width: 100% !important;
+  }
+  .wrap-existing-content {
+      height: auto !important;
+      display: block;
+  }
+  .resize280 {
+      width: 280px !important;
+      height: auto !important;
+  }
+  /* SPLIT COLUMNS ON RESPONSIVE */
+  .colsplit {
+      width: 100% !important;
+      float: inherit !important;
+      display: block !important;
+      background-position: top center !important;
+  }
+  /* STACK IMAGE TOP OR BOTTOM ON RESPONSIVE */
+  th.topstack {
+      display: table-header-group !important;
+  }
+  th.botstack {
+      display: table-footer-group !important;
+  }
+  /* Inlines objects on responsive */
+  .inline {
+      display: inline-block !important;
+  }
+  /* RESPONSIVE PADDING STYLES - 0 or 20 */
+  .pad0 {
+      padding: 0px !important;
+  }
+  .pad0t {
+      padding-top: 0px !important;
+  }
+  .pad0r {
+      padding-right: 0px !important;
+  }
+  .pad0b {
+      padding-bottom: 0px !important;
+  }
+  .pad0l {
+      padding-left: 0px !important;
+  }
+  .pad0rl {
+      padding-right: 0px !important;
+      padding-left: 0px !important;
+  }
+  .pad0tb {
+      padding-top: 0px !important;
+      padding-bottom: 0px !important;
+  }
+  .pad20 {
+      padding: 20px !important;
+  }
+  .pad20t {
+      padding-top: 20px !important;
+  }
+  .pad20r {
+      padding-right: 20px !important;
+  }
+  .pad20b {
+      padding-bottom: 20px !important;
+  }
+  .pad20l {
+      padding-left: 20px !important;
+  }
+  .pad20rl {
+      padding-right: 20px !important;
+      padding-left: 20px !important;
+  }
+  .pad20tb {
+      padding-top: 20px !important;
+      padding-bottom: 20px !important;
+  }
+}
+
+/* REMOVES RIGHT GUTTER IN GMAIL IOS APP */
+@media only screen and (min-device-width: 320px) and (max-device-width: 374px) {
+  /* iPhone 5 and 5S */
+  .email-container {
+      min-width: 320px !important;
+  }
+}
+
+@media only screen and (min-device-width: 375px) and (max-device-width: 413px) {
+/* iPhone 6 and 6+ */
+  .email-container {
+      min-width: 375px !important;
+  }
+}
+
+/* STYLES FOR RESPONSIVE FONT SIZES */
+
+/* MCK-001: Script Mark + Share */
+@media only screen and (max-width: 480px) {
+.pad12b {
+padding-bottom: 12px !important;
+}
+}
+
+
+/* MCK-008: Footer | Logo + Social Icons */
+@media only screen and (max-width: 480px) {
+.pad15l {
+padding-left: 15px !important;
+}
+.pad16b {
+padding-bottom: 16px !important;
+}
+}
+
+
+@media only screen and (max-width: 480px) {
+    td .mobile_h1, td .mobile_h1 span {
+font-size: 36px !important;
+line-height: 120% !important;
+}
+td .mobile_h2, td .mobile_h2 span {
+font-size: 24px !important;
+line-height: 120% !important;
+}
+td .mobile_h3, td .mobile_h3 span {
+font-size: 24px !important;
+line-height: 120% !important;
+}
+td .mobile_h4, td .mobile_h4 span {
+font-size: 20px !important;
+line-height: 120% !important;
+}
+td .mobile_p1, td .mobile_p1 span {
+font-size: 16px !important;
+line-height: 150% !important;
+}
+td .mobile_p2, td .mobile_p2 span {
+font-size: 14px !important;
+line-height: 150% !important;
+}
+td .mobile_p3, td .mobile_p3 span {
+font-size: 12px !important;
+line-height: 150% !important;
+}
+td .mobile_cta, td .mobile_cta span {
+font-size: 16px !important;
+line-height: 150% !important;
+}
+}
+
+@media only screen and (max-width:480px) {
+    [data-personalization_mapping] {
+    position: relative;
+}
+[data-personalization_mapping] .personalization-placeholder-value, [data-personalization_mapping] .personalization-placeholder-value * {
+    color: inherit;
+    font-weight: inherit;
+    background-color: rgba(56, 240, 115, 0.14902);
+}
+[data-personalization_mapping] .personalization-script-value, [data-personalization_mapping] .personalization-styling-el {
+    display: none;
+}
+[data-personalization_mapping] .personalization-tooltip-el {
+    display: none;
+    width: max-content;
+    position: absolute;
+    left: 10%;
+    top: 100%;
+    z-index: 10000;
+    padding: 8px;
+    background: #fff;
+    border-radius: 2px;
+    box-shadow: 0 1px 8px 0 rgba(122, 133, 148, 0.3);
+}
+[data-personalization_mapping] .personalization-tooltip-el .personalization-tooltip-el-row {
+    font-size: 12px;
+    display: block;
+    padding-bottom: 8px;
+    clear: both;
+    line-height: 18px;
+}
+[data-personalization_mapping] .personalization-tooltip-el .personalization-tooltip-el-row .personalization-tooltip-label {
+    color: #7a8594;
+    display: inline;
+    float: left;
+    font-size: 12px !important;
+    line-height: 18px !important;
+}
+[data-personalization_mapping] .personalization-tooltip-el .personalization-tooltip-el-row .personalization-tooltip-friendly-name, [data-personalization_mapping] .personalization-tooltip-el .personalization-tooltip-el-row .personalization-tooltip-default-value {
+    font-weight: 600;
+    color: #333;
+    display: inline;
+    float: left;
+    font-size: 12px !important;
+    line-height: 18px !important;
+}
+[data-personalization_mapping]:hover .personalization-tooltip-el {
+    display: inherit;
+}
+}
+</style>
+<!--[if mso | ie]>
+<style>
+.sup {
+  vertical-align: 1px !important;
+  font-size: 100% !important;
+}
+</style>
+<![endif]-->
+
+<!--[if ie]>
+<style>
+  .sup {
+    vertical-align: 5px !important;
+    font-size: 77% !important;
+  }
+</style>
+<![endif]-->
+
+<!--[if gt mso 15]>
+<style type="text/css" media="all">
+  /* Outlook 2016 Height Fix */
+  .email-container table, 
+  .email-container tr, 
+   .email-container th, 
+   .email-container td {
+       border-collapse: collapse;
+}
+  .email-container tr { 
+     font-size:0px; 
+     line-height:0px; 
+     border-collapse: collapse; 
+}
+th, td {font-size: 16px;}
+</style>
+<![endif]-->
+
+<!--[if gte mso 9]><xml>
+<o:OfficeDocumentSettings>
+  <o:AllowPNG/>
+  <o:PixelsPerInch>96</o:PixelsPerInch>
+</o:OfficeDocumentSettings>
+</xml><![endif]-->
+
+<style id='tinyMceFallBack'>.mce-offscreen-selection { display:none; }</style>
+</head>
+<body id="body"  background="" style="margin:0 !important; padding:0 !important; width: 100% !important; background-color: #FFFFFF; background-size: auto; background-repeat: repeat; " class="body">
+
+	<!--START -- Hidden Preheader -->
+		<!--[if !mso 9]><!-->
+		<div style="display: none !important; font-size: 1px; color: #FFFFFF; line-height: 1px; font-family: Arial,Helvetica,sans-serif; max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden; mso-hide: all;">Watch the video&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
+		&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
+		&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
+		&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
+		&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
+		&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
+		&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
+		&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
+		&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;</div>
+		<!--<![endif]-->
+		<!--END -- Hidden Preheader -->
+
+    
+
+   <!--START -- Page Overflow Color Table -->
+<div style="background-color: #FFFFFF;">
+
+<!--[if gte mso 9]>
+	<v:background xmlns:v="urn:schemas-microsoft-com:vml" fill="t">
+	<v:fill type="tile" src="" color="#FFFFFF"/>
+	</v:background>
+	<![endif]-->
+
+    <table role="presentation" height="100%" width="100%" cellpadding="0"  cellspacing="0" border="0" align="center" class="email-container">
+        <tr>
+            <td align="left" background="" style="vertical-align: top; background-size: auto; background-repeat: repeat;" valign="top">
+
+				<!--START -- Email Background Color Table  -->
+
+                <table role="presentation" width="640" border="0" align="center" cellpadding="0" cellspacing="0"  class="wrap">
+                    <tr>
+						<td align="center" data-wrapper>
+
+					    	<!--START Email Size Wrapper Table -->
+
+                            <table role="presentation" width="100%" border="0" align="center" cellpadding="0" cellspacing="0" class="wrap"><tbody><tr><td align="center" style="font-size:14px"><!-- START: Single Bot Click Interceptor Pixel -->
+<a href="https://email.mckinsey.com/T/v710000019ecd0a8871a537cb6e96c660f0/e522db2795044a9a0000021ef3a0bcc2/e522db27-9504-4a9a-a3ed-bc6b01c9ec7f?__dU__=v0G4RBKTXg2GsTlMa8YbE0npiPHb7Gzq29ujr-mrJsl6bcn0E30HNSquNCCrd1XNAz&__F__=v0fUYvjHMDjRPMSh3tviDHXIoXcPxvDgUUCCPvXMWoX_0JoZLAZABQFzGdi2cn1iU7KJEa5whIrwYFLmjwNbDvNYUFCfX81-jKKF7Og39FLdhpZM4ZNQ2HqfoOEskA3iTTt0Dz3knnLqKPt2sG63kYxlvCv-NgS3QXFQGK1UO87aEX3fNv6rNoySYQvw57HzjGRT94InxccQ2duqfnCYq-tlR-iKNF6DLrPMIQqTzq1POv9oKJNmr-Xud11g8Y9jnGk2eLQxgwHbEdm6r7wo0filCxxQ0z2JknBBmvzv91TV8=" target="_blank" style="text-decoration: none; border: 0; outline: none; color: transparent;" tabindex="-1" aria-hidden="true">
+  <img src="https://images.harmony.epsilon.com/ContentHandler/images/35e1ee1d-2112-4462-94ae-fec31727d5ea/z_Operational/spacer_transparent.png" width="1" height="1" alt="" border="0" style="display: block; border: 0; outline: none; text-decoration: none; margin: 0; padding: 0;" />
+</a>
+<!-- END: Single Bot Click Interceptor Pixel -->
+<!-- START: Single Bot Click Interceptor Pixel -->
+<a href="https://email.mckinsey.com/T/v710000019ecd0a8871a537cb6e96c660f0/e522db2795044a9a0000021ef3a0bcc3/e522db27-9504-4a9a-a3ed-bc6b01c9ec7f?__dU__=v0G4RBKTXg2GsTlMa8YbE0npiPHb7Gzq29ujr-mrJsl6bcn0E30HNSquNCCrd1XNAz&__F__=v0fUYvjHMDjRPMSh3tviDHXIoXcPxvDgUUCCPvXMWoX_0JoZLAZABQFzGdi2cn1iU7KJEa5whIrwYFLmjwNbDvNYUFCfX81-jKKF7Og39FLdhpZM4ZNQ2HqfoOEskA3iTTt0Dz3knnLqKPt2sG63kYxlvCv-NgS3QXFQGK1UO87aEX3fNv6rNoySYQvw57HzjGRT94InxccQ2duqfnCYq-tlR-iKNF6DLrPMIQqTzq1PP8qElmOzJxX0iFbgPpkzn3QNY3JU5u5nle621UrOimGesTrjdO4zHwBBmvzv91TV8=" target="_blank" style="text-decoration: none; border: 0; outline: none; color: transparent;" tabindex="-1" aria-hidden="true">
+  <img src="https://images.harmony.epsilon.com/ContentHandler/images/35e1ee1d-2112-4462-94ae-fec31727d5ea/z_Operational/spacer_transparent.png" width="1" height="1" alt="" border="0" style="display: block; border: 0; outline: none; text-decoration: none; margin: 0; padding: 0;" />
+</a>
+<!-- END: Single Bot Click Interceptor Pixel -->
+<!-- START: Single Bot Click Interceptor Pixel -->
+<a href="https://email.mckinsey.com/T/v710000019ecd0a8871a537cb6e96c660f0/e522db2795044a9a0000021ef3a0bcc4/e522db27-9504-4a9a-a3ed-bc6b01c9ec7f?__dU__=v0G4RBKTXg2GsTlMa8YbE0npiPHb7Gzq29ujr-mrJsl6bcn0E30HNSquNCCrd1XNAz&__F__=v0fUYvjHMDjRPMSh3tviDHXIoXcPxvDgUUCCPvXMWoX_0JoZLAZABQFzGdi2cn1iU7KJEa5whIrwYFLmjwNbDvNYUFCfX81-jKKF7Og39FLdhpZM4ZNQ2HqfoOEskA3iTTt0Dz3knnLqKPt2sG63kYxlvCv-NgS3QXFQGK1UO87aEX3fNv6rNoySYQvw57HzjGRT94InxccQ2duqfnCYq-tlR-iKNF6DLrPMIQqTzq1PNsZUnLEWlPxaYsKjICrQ7OXeZo5q9N48M1OhdA2B2rAlXM7TcwK_ZEBBmvzv91TV8=" target="_blank" style="text-decoration: none; border: 0; outline: none; color: transparent;" tabindex="-1" aria-hidden="true">
+  <img src="https://images.harmony.epsilon.com/ContentHandler/images/35e1ee1d-2112-4462-94ae-fec31727d5ea/z_Operational/spacer_transparent.png" width="1" height="1" alt="" border="0" style="display: block; border: 0; outline: none; text-decoration: none; margin: 0; padding: 0;" />
+</a>
+<!-- END: Single Bot Click Interceptor Pixel -->
+<!-- START: Single Bot Click Interceptor Pixel -->
+<a href="https://email.mckinsey.com/T/v710000019ecd0a8871a537cb6e96c660f0/e522db2795044a9a0000021ef3a0bcc5/e522db27-9504-4a9a-a3ed-bc6b01c9ec7f?__dU__=v0G4RBKTXg2GsTlMa8YbE0npiPHb7Gzq29ujr-mrJsl6bcn0E30HNSquNCCrd1XNAz&__F__=v0fUYvjHMDjRPMSh3tviDHXIoXcPxvDgUUCCPvXMWoX_0JoZLAZABQFzGdi2cn1iU7KJEa5whIrwYFLmjwNbDvNYUFCfX81-jKKF7Og39FLdhpZM4ZNQ2HqfoOEskA3iTTt0Dz3knnLqKPt2sG63kYxlvCv-NgS3QXFQGK1UO87aEX3fNv6rNoySYQvw57HzjGRT94InxccQ2duqfnCYq-tlR-iKNF6DLrPMIQqTzq1PMT1ZL3deVQXhavkToWIC09rv_yWm-N9POA0xHMdLBxhV9A7WfQtLtHBBmvzv91TV8=" target="_blank" style="text-decoration: none; border: 0; outline: none; color: transparent;" tabindex="-1" aria-hidden="true">
+  <img src="https://images.harmony.epsilon.com/ContentHandler/images/35e1ee1d-2112-4462-94ae-fec31727d5ea/z_Operational/spacer_transparent.png" width="1" height="1" alt="" border="0" style="display: block; border: 0; outline: none; text-decoration: none; margin: 0; padding: 0;" />
+</a>
+<!-- END: Single Bot Click Interceptor Pixel -->
+<!-- START: Single Bot Click Interceptor Pixel -->
+<a href="https://email.mckinsey.com/T/v710000019ecd0a8871a537cb6e96c660f0/e522db2795044a9a0000021ef3a0bcc6/e522db27-9504-4a9a-a3ed-bc6b01c9ec7f?__dU__=v0G4RBKTXg2GsTlMa8YbE0npiPHb7Gzq29ujr-mrJsl6bcn0E30HNSquNCCrd1XNAz&__F__=v0fUYvjHMDjRPMSh3tviDHXIoXcPxvDgUUCCPvXMWoX_0JoZLAZABQFzGdi2cn1iU7KJEa5whIrwYFLmjwNbDvNYUFCfX81-jKKF7Og39FLdhpZM4ZNQ2HqfoOEskA3iTTt0Dz3knnLqKPt2sG63kYxlvCv-NgS3QXFQGK1UO87aEX3fNv6rNoySYQvw57HzjGRT94InxccQ2duqfnCYq-tlR-iKNF6DLrPMIQqTzq1PMl6KM2gMvGk1dIDdHX87lNOcmTa2PCSpMkGtj7MSxh0U7kSD-VYXuJBBmvzv91TV8=" target="_blank" style="text-decoration: none; border: 0; outline: none; color: transparent;" tabindex="-1" aria-hidden="true">
+  <img src="https://images.harmony.epsilon.com/ContentHandler/images/35e1ee1d-2112-4462-94ae-fec31727d5ea/z_Operational/spacer_transparent.png" width="1" height="1" alt="" border="0" style="display: block; border: 0; outline: none; text-decoration: none; margin: 0; padding: 0;" />
+</a>
+<!-- END: Single Bot Click Interceptor Pixel -->
+<!-- START: Single Bot Click Interceptor Pixel -->
+<a href="https://email.mckinsey.com/T/v710000019ecd0a8871a537cb6e96c660f0/e522db2795044a9a0000021ef3a0bcc7/e522db27-9504-4a9a-a3ed-bc6b01c9ec7f?__dU__=v0G4RBKTXg2GsTlMa8YbE0npiPHb7Gzq29ujr-mrJsl6bcn0E30HNSquNCCrd1XNAz&__F__=v0fUYvjHMDjRPMSh3tviDHXIoXcPxvDgUUCCPvXMWoX_0JoZLAZABQFzGdi2cn1iU7KJEa5whIrwYFLmjwNbDvNYUFCfX81-jKKF7Og39FLdhpZM4ZNQ2HqfoOEskA3iTTt0Dz3knnLqKPt2sG63kYxlvCv-NgS3QXFQGK1UO87aEX3fNv6rNoySYQvw57HzjGRT94InxccQ2duqfnCYq-tlR-iKNF6DLrPMIQqTzq1PMddxeNdaCPl15uGV8KtgOpuUbgvWDfNfxAAPhO9INH4z--QeXN3kRlBBmvzv91TV8=" target="_blank" style="text-decoration: none; border: 0; outline: none; color: transparent;" tabindex="-1" aria-hidden="true">
+  <img src="https://images.harmony.epsilon.com/ContentHandler/images/35e1ee1d-2112-4462-94ae-fec31727d5ea/z_Operational/spacer_transparent.png" width="1" height="1" alt="" border="0" style="display: block; border: 0; outline: none; text-decoration: none; margin: 0; padding: 0;" />
+</a>
+<!-- END: Single Bot Click Interceptor Pixel -->
+<!-- START: Single Bot Click Interceptor Pixel -->
+<a href="https://email.mckinsey.com/T/v710000019ecd0a8871a537cb6e96c660f0/e522db2795044a9a0000021ef3a0bcc8/e522db27-9504-4a9a-a3ed-bc6b01c9ec7f?__dU__=v0G4RBKTXg2GsTlMa8YbE0npiPHb7Gzq29ujr-mrJsl6bcn0E30HNSquNCCrd1XNAz&__F__=v0fUYvjHMDjRPMSh3tviDHXIoXcPxvDgUUCCPvXMWoX_0JoZLAZABQFzGdi2cn1iU7KJEa5whIrwYFLmjwNbDvNYUFCfX81-jKKF7Og39FLdhpZM4ZNQ2HqfoOEskA3iTTt0Dz3knnLqKPt2sG63kYxlvCv-NgS3QXFQGK1UO87aEX3fNv6rNoySYQvw57HzjGRT94InxccQ2duqfnCYq-tlR-iKNF6DLrPMIQqTzq1POtoHh3PFJDh9XTtt59fhZaayAtEG-8AmPcViKQGsjsfvpnp4tDYHbhBBmvzv91TV8=" target="_blank" style="text-decoration: none; border: 0; outline: none; color: transparent;" tabindex="-1" aria-hidden="true">
+  <img src="https://images.harmony.epsilon.com/ContentHandler/images/35e1ee1d-2112-4462-94ae-fec31727d5ea/z_Operational/spacer_transparent.png" width="1" height="1" alt="" border="0" style="display: block; border: 0; outline: none; text-decoration: none; margin: 0; padding: 0;" />
+</a>
+<!-- END: Single Bot Click Interceptor Pixel -->
+<!-- START: Single Bot Click Interceptor Pixel -->
+<a href="https://email.mckinsey.com/T/v710000019ecd0a8871a537cb6e96c660f0/e522db2795044a9a0000021ef3a0bcc9/e522db27-9504-4a9a-a3ed-bc6b01c9ec7f?__dU__=v0G4RBKTXg2GsTlMa8YbE0npiPHb7Gzq29ujr-mrJsl6bcn0E30HNSquNCCrd1XNAz&__F__=v0fUYvjHMDjRPMSh3tviDHXIoXcPxvDgUUCCPvXMWoX_0JoZLAZABQFzGdi2cn1iU7KJEa5whIrwYFLmjwNbDvNYUFCfX81-jKKF7Og39FLdhpZM4ZNQ2HqfoOEskA3iTTt0Dz3knnLqKPt2sG63kYxlvCv-NgS3QXFQGK1UO87aEX3fNv6rNoySYQvw57HzjGRT94InxccQ2duqfnCYq-tlR-iKNF6DLrPMIQqTzq1PPDEVrv3ZlB4iZpXpwDrOUD5lv-2W7fsmvvlUE7QReGU4B0fVC1kB_3BBmvzv91TV8=" target="_blank" style="text-decoration: none; border: 0; outline: none; color: transparent;" tabindex="-1" aria-hidden="true">
+  <img src="https://images.harmony.epsilon.com/ContentHandler/images/35e1ee1d-2112-4462-94ae-fec31727d5ea/z_Operational/spacer_transparent.png" width="1" height="1" alt="" border="0" style="display: block; border: 0; outline: none; text-decoration: none; margin: 0; padding: 0;" />
+</a>
+<!-- END: Single Bot Click Interceptor Pixel -->
+<!-- START: Single Bot Click Interceptor Pixel -->
+<a href="https://email.mckinsey.com/T/v710000019ecd0a8871a537cb6e96c660f0/e522db2795044a9a0000021ef3a0bcca/e522db27-9504-4a9a-a3ed-bc6b01c9ec7f?__dU__=v0G4RBKTXg2GsTlMa8YbE0npiPHb7Gzq29ujr-mrJsl6bcn0E30HNSquNCCrd1XNAz&__F__=v0fUYvjHMDjRPMSh3tviDHXIoXcPxvDgUUCCPvXMWoX_0JoZLAZABQFzGdi2cn1iU7KJEa5whIrwYFLmjwNbDvNYUFCfX81-jKKF7Og39FLdhpZM4ZNQ2HqfoOEskA3iTTt0Dz3knnLqKPt2sG63kYxlvCv-NgS3QXFQGK1UO87aEX3fNv6rNoySYQvw57HzjGRT94InxccQ2duqfnCYq-tlR-iKNF6DLrPMIQqTzq1PPeGtoblDbAk3-ryisdksRswoxuf9PUovxjNobpOQmuCD4DU_VUTAS7BBmvzv91TV8=" target="_blank" style="text-decoration: none; border: 0; outline: none; color: transparent;" tabindex="-1" aria-hidden="true">
+  <img src="https://images.harmony.epsilon.com/ContentHandler/images/35e1ee1d-2112-4462-94ae-fec31727d5ea/z_Operational/spacer_transparent.png" width="1" height="1" alt="" border="0" style="display: block; border: 0; outline: none; text-decoration: none; margin: 0; padding: 0;" />
+</a>
+<!-- END: Single Bot Click Interceptor Pixel -->
+<!-- START: Single Bot Click Interceptor Pixel -->
+<a href="https://email.mckinsey.com/T/v710000019ecd0a8871a537cb6e96c660f0/e522db2795044a9a0000021ef3a0bccb/e522db27-9504-4a9a-a3ed-bc6b01c9ec7f?__dU__=v0G4RBKTXg2GsTlMa8YbE0npiPHb7Gzq29ujr-mrJsl6bcn0E30HNSquNCCrd1XNAz&__F__=v0fUYvjHMDjRPMSh3tviDHXIoXcPxvDgUUCCPvXMWoX_0JoZLAZABQFzGdi2cn1iU7KJEa5whIrwYFLmjwNbDvNYUFCfX81-jKKF7Og39FLdhpZM4ZNQ2HqfoOEskA3iTTt0Dz3knnLqKPt2sG63kYxlvCv-NgS3QXFQGK1UO87aEX3fNv6rNoySYQvw57HzjGRT94InxccQ2duqfnCYq-tlR-iKNF6DLrPMIQqTzq1PMY5U0H3fUnB-KqRuu-6992KSn4PnY62r2eFBNNOowoCaDPD_k8qFGhBBmvzv91TV8=" target="_blank" style="text-decoration: none; border: 0; outline: none; color: transparent;" tabindex="-1" aria-hidden="true">
+  <img src="https://images.harmony.epsilon.com/ContentHandler/images/35e1ee1d-2112-4462-94ae-fec31727d5ea/z_Operational/spacer_transparent.png" width="1" height="1" alt="" border="0" style="display: block; border: 0; outline: none; text-decoration: none; margin: 0; padding: 0;" />
+</a>
+<!-- END: Single Bot Click Interceptor Pixel -->
+</td></tr><tr><td><table role="presentation" bgcolor="#FFFFFF" width="640" border="0" align="center" cellpadding="0" cellspacing="0" class="wrap"><tbody><tr><td align="center" style="font-size:14px"><table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody>
+    <tr>
+      <td border="0" style="display: block; margin: 0; padding: 0;">
+<img src='https://email.mckinsey.com/O/v710000019ecd0a8871a537cb6e96c660f0/e522db2795044a9a00004c5a42963aa1' style="display:none; max-height: 0px; font-size: 0px; overflow: hidden; mso-hide: all"/>      </td>
+    </tr>
+  </tbody>
+</table></td></tr><style data-ignore-inlining="">@media (prefers-color-scheme: dark) { #_t::before {content:url('https://2yepp37l.emltrk.com/v2/2yepp37l?rd&i=17208988&t=2026-06-15e');}} @media (prefers-color-scheme: light) { #_t::before {content:url('https://2yepp37l.emltrk.com/v2/2yepp37l?rl&i=17208988&t=2026-06-15e');}} @media print{ #_t {background-image:url('https://2yepp37l.emltrk.com/v2/2yepp37l?p&i=17208988&t=2026-06-15e');}} div.OutlookMessageHeader {background-image:url('https://2yepp37l.emltrk.com/v2/2yepp37l?f&i=17208988&t=2026-06-15e')} table.moz-email-headers-table {background-image:url('https://2yepp37l.emltrk.com/v2/2yepp37l?f&i=17208988&t=2026-06-15e')} blockquote #_t {background-image:url('https://2yepp37l.emltrk.com/v2/2yepp37l?f&i=17208988&t=2026-06-15e')} #MailContainerBody #_t {background-image:url('https://2yepp37l.emltrk.com/v2/2yepp37l?f&i=17208988&t=2026-06-15e')}</style><div id="_t"></div>
+<img src="https://2yepp37l.emltrk.com/v2/2yepp37l?i=17208988&t=2026-06-15e" width="1" height="1" border="0" alt=""></tbody></table></td></tr><tr><td><table role="presentation" bgcolor="#FFFFFF" width="640" border="0" align="center" cellpadding="0" cellspacing="0" class="wrap"><tbody><tr><td bgcolor="#ffffff"><!-- Start MCK-001: Script Mark + Share -->
+<section id="MCK001" layout-row="true"> <div layout-row="true"> <table layout-row="true" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff" class="wrap"> <tbody><tr layout-row="true"> <td><table role="presentation" align="center" width="100%" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> <td align="center" style="vertical-align: top; padding: 18px 20px 17px 20px; background-color: #ffffff;" bgcolor="#ffffff" class="pad20rl pad12b"><table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> <td align="center" valign="top"><table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> <td align="left" valign="middle" style="vertical-align: middle; padding: 0px 0px 0px 0px; font-weight: normal;"><table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> <td align="left" valign="top" data-groupid="mck_logo"><a data-managed-link="mck_logo_link_url" href="https://email.mckinsey.com/homefeed?__hScId__=v710000019ecd0a8871a537cb6e96c660f0&__hRlId__=e522db2795044a9a0000021ef3a0bccc&__hDId__=e522db27-9504-4a9a-a3ed-bc6b01c9ec7f&__hSD__=d3d3Lm1ja2luc2V5LmNvbQ==&cid=mgp_rew26-eml-alt-pub-mgp-glb--&hlkid=21fc70b4fdca45e2ae920b964fb61283&hctky=17208988&hdpid=e522db27-9504-4a9a-a3ed-bc6b01c9ec7f" target="_blank" style="text-decoration: none; outline: none" data-link-id="13625e10aba511eca612f91d67182026"><img src="https://images.harmony.epsilon.com/ContentHandler/images?id=3471f65a-13c6-4f67-af56-8135371fa1ba" width="146" alt="McKinsey &amp; Company" border="0" style="display: block; margin: 0; padding: 0;"></a></td> </tr> </tbody></table></td> <!--[if mso]><td width="20" bgcolor="#ffffff">&nbsp;</td><![endif]--> <td align="right" valign="middle" style="vertical-align: middle; padding: 0px 0px 0px 0px; font-weight: normal;"><table role="presentation" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> <th align="left" valign="middle" style="padding: 0; font-weight: normal;" class="colsplit"><table border="0" cellspacing="0" cellpadding="0" role="presentation"> <tbody><tr> <td align="left" valign="middle" style="vertical-align: middle; text-align: left; padding: 0px 12px 0px 0px;color: #000001;"><p style="margin:0; color: #000001; font-size: 14px; font-family: Helvetica, Arial, sans-serif; line-height:120% !important;"><strong>Share this email</strong></p></td> </tr> </tbody></table> </th> <!-- START Header - (Share) SOCIAL ICONS Module 2 --> <th align="left" valign="middle" style="padding: 0; font-weight: normal;" class="colsplit"><table border="0" cellspacing="0" cellpadding="0" role="presentation"> <tbody><tr> <td align="left" valign="middle" style="padding: 0px 10px 0px 0px" data-groupid="linked_logo"><a data-managed-link="linked_logo_link_url" href="https://email.mckinsey.com/T/v710000019ecd0a8871a537cb6e96c660f0/e522db2795044a9a0000021ef3a0bccd/e522db27-9504-4a9a-a3ed-bc6b01c9ec7f?__dU__=v0G4RBKTXg2GsTlMa8YbE0npiPHb7Gzq29ujr-mrJsl6bcn0E30HNSquNCCrd1XNAz&__F__=v0fUYvjHMDjRPMSh3tviDHXIoXcPxvDgUUCCPvXMWoX_0JoZLAZABQF0G1259ZAW1Zj_UalJpFN4g0CVYHdqChyFdf-n7pQGfZarYdeOZd03YgNJpyW_c9PymLRIVcStYuZb4GXULe8EAmblgU6OwsE9HtCAdAQqVQDfqDa9VmcDnq6eAKbBlLa6qWdlNB49cP9rhVOBFvkeay5M_nLAcbDStdL8dLXXWO_qTIdT9quyFgrhrf8nR2dXxlGOTpYKeyEf_DZoh3E4-AHHN6O3hAiku4a3IOHp8lEuWMS797wuWdfeCYHTVn5LSEWejcKq6kHvQBZg1oZwFdJTh0zTarcVFzT38OD6IKcCFFywzWrRdF1pdRXu1r-MKbJdKUIgZlcUtMYBshJgvi1YX8_X9SQE89KmtSbHLdQbAB4Ph0V_HD_nExiRXgEZSlBac16Ymp8GlM7EUKYxljKVm-sWKhZVuI3MoJBZ2Z7t6h6EbjW69c2Li_mHFgdoplrUyneJn8Ub8dyalzv4KJlS-KKoZl9rNMGXZIBHLx-BRj6IJa2XJMrQfUUN0uahiCn59TaOaHxi38qTo1e0qy4VI0qX-UK5lYC84gX2V6gzPCZxRb7Ybq-avq7EfSIzFHDdVksz8ini3-yOkxR6CSRyCXi39GstcEenZaYjZTCw7O8uucZlT14QZao114L5uMWobsh_Fu1rVNQewrmuQ=" target="_blank" style="text-decoration: none; outline: none; color: #000001" data-link-id="a7e130c0ab9611eca8326bc2653f9b70"><img src="https://images.harmony.epsilon.com/ContentHandler/images?id=61db3abb-5906-44c8-a258-8ab3de689535" width="32" alt="LinkedIn" border="0" style="display: block; margin: 0; padding: 0;"></a></td> <td align="left" valign="middle" style="padding: 0px 10px 0px 0px" data-groupid="twitter_logo"><a data-managed-link="twitter_logo_link_url" href="https://email.mckinsey.com/T/v710000019ecd0a8871a537cb6e96c660f0/e522db2795044a9a0000021ef3a0bcce/e522db27-9504-4a9a-a3ed-bc6b01c9ec7f?__dU__=v0G4RBKTXg2GsTlMa8YbE0npiPHb7Gzq29ujr-mrJsl6bcn0E30HNSquNCCrd1XNAz&__F__=v0fUYvjHMDjRPMSh3tviDHXIoXcPxvDgUUCCPvXMWoX_3jidK9OmucnGtLvlqQ7V0p7ukgHDW1QqnoNHXUktVWJAiiYw0k_Eww1npTaYPNJvoiBSXaRcCHzYdV3HJ9oBNll4IXL9ZTbgHpGO5jLs_1WoXdWngBPRo0CU3cY0toK1zxNMERz7EQ-NM6wOg9DD1AFHz9LvM3gYQ0Gt9nhKaJQ0sHPCuDnwdZotqZNLgwdximc2y3c5I5OqU-vVdkW_Qzyb6OFzluAOD7RzxhAYmynP_k8GP3zWiRyrBJGhEWd14QD3CMEf6gZi06CyeU3NmQQ7i_8xmC_9OxsqjNqK53F8R5OikRrnxicpfJie-cXTOFqIHzLLowa7lbMluymlzH58wHZJZ9lK94P8ZTqNUwjjIL-WshzDQF4u5Yh_jQySR3iFgfczsTKWg2-0NlOUiwEzQBtr_b9khROoFDBhrUUZr6O3emVySIxkii1VUuKc7ewgQCbwel0yMDr2TQVKyWORDLRqNpo9UyA3L2s6U27mrGlJWmeyAHSxcQZ9ZtlLkOkM190PgRzw9QzEqmCzXx69eZrXFPJjTOrQ-0nivCc4EmdyFrPEBr" target="_blank" style="text-decoration: none; outline: none; color: #000001" data-link-id="a24d45e0ab9611eca8326bc2653f9b70"><img src="https://images.harmony.epsilon.com/ContentHandler/images?id=635dc295-1b62-47cc-b9ae-f84b32d8f240" width="32" alt="X" border="0" style="display: block; margin: 0; padding: 0;"></a></td> <td align="left" valign="middle" style="padding: 0px 0px 0px 0px" data-groupid="fb_logo"><a data-managed-link="fb_logo_link_url" href="https://email.mckinsey.com/T/v710000019ecd0a8871a537cb6e96c660f0/e522db2795044a9a0000021ef3a0bccf/e522db27-9504-4a9a-a3ed-bc6b01c9ec7f?__dU__=v0G4RBKTXg2GsTlMa8YbE0npiPHb7Gzq29ujr-mrJsl6bcn0E30HNSquNCCrd1XNAz&__F__=v0fUYvjHMDjRPMSh3tviDHXIoXcPxvDgUUCCPvXMWoX_0JoZLAZABQF9OJQbzKjWJqjvxdDSaKpQYmyKJUlGymgii3yiV0r-WidEmIkYHs36sRHNOgeG3Y3BUzVvZcmxXte8pp_aN5JyNVMw5SQ4O8xGdVmAwYJeOEG-e82kRJvE0VNHWZNouOOOGrCK6z7HTxj8uufHmDEiBKkCuAQZ11ArAqmIVFQOEuU8LPcVgcQkqP6HWcE51O3TQa32eEpolDSwc8K4OfB1mi2pk0uDB3GKZzbLdzkjk6pT69V2Rb9DPJvo4XOW4A4PtHPGEBibKc_-TwY_fNaJHKsEkaERZ3XhAPcIwR_qBmLToLJ5Tc2ZBDuL_zGYL_0y4t6l_SYTBB_dcpVwNZJ1r48tDP05AXC7fPsAncLhISuVsyW7KaXMfnzAdkln2Ur3g_xlOo1TCOMgv5ayHMNAXi7liH-NDJJHeIWB9zOxMpaDb7Q2U5SLATNAG2v9v2SFE6gUMGGtRRmvo7d6ZXJIjGSKLVVS4pzt7CBAJvB6XTIwOvZNBUrJY5EMtGo2mj1TIDcvazpTbuasaUlaZ7IAcGYF1tdtsMh2vMD35HLqGa0GurCgAx-v3uXPmt4uDAlpXyycpXyHOpgSZ3IWs8QGs=" target="_blank" style="text-decoration: none; outline: none; color: #000001" data-link-id="9d711240ab9611eca8326bc2653f9b70"><img src="https://images.harmony.epsilon.com/ContentHandler/images?id=05b3d1f4-748b-4451-be05-2527eafa544d" width="32" alt="Facebook" border="0" style="display: block; margin: 0; padding: 0;"></a></td> </tr> </tbody></table> </th> </tr> </tbody></table></td> </tr> </tbody></table></td> </tr> </tbody></table></td> </tr> </tbody></table> <!-- Border --> <table width="100%" border="0" cellpadding="0" cellspacing="0" class="menu-border_share" style="border:0 none; vertical-align: top"> <tbody><tr> <td height="1" align="left" valign="top" bgcolor="#000000" style="font-size:2px; line-height:0px; padding:0px 0px 0px 0px; vertical-align:top; border: 0; height: 1px; background-color: #000000"><img style="display:block; background-color: #000000" src="https://images.harmony.epsilon.com/ContentHandler/images?id=1b403abf-0497-43e1-bf26-1ca52074a95c" alt="" width="1" height="1" border="0"></td> </tr> </tbody></table> <!-- END Header - (Follow) Module 1 --></td> </tr> </tbody></table> </div> </section>
+<!-- End MCK-001: Script Mark + Share --> </td></tr><tr><td bgcolor="#FFFFFF"><!-- Start 1-000: Spacer --><section id="1000" layout-row="true"><div layout-row="true"><table layout-row="true" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF"> <tbody><tr layout-row="true"> <td> <table role="presentation" width="100%" border="0" cellspacing="0"> <tbody><tr> <td height="20" align="left" valign="top" bgcolor="#FFFFFF" style="line-height: 0px; padding: 0px;"><img src="https://images.harmony.epsilon.com/ContentHandler/images?id=3f67ada7-a01e-4c02-ab71-8b46fd3106ae" height="20" style="display: block; height: 20px" border="0" alt=""></td> </tr> </tbody></table> </td> </tr> </tbody></table> </div> </section> <!-- End 1-000: Spacer --> </td></tr></tbody></table></td></tr><tr><td align="center" style="font-size:14px"></td></tr><tr><td bgcolor="#FFFFFF"><!-- Start 1-000: Spacer --><section id="1000" layout-row="true"><div layout-row="true"><table layout-row="true" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF"> <tbody><tr layout-row="true"> <td> <table role="presentation" width="100%" border="0" cellspacing="0"> <tbody><tr> <td height="20" align="left" valign="top" bgcolor="#FFFFFF" style="line-height: 0px; padding: 0px;"><img src="https://images.harmony.epsilon.com/ContentHandler/images?id=3f67ada7-a01e-4c02-ab71-8b46fd3106ae" height="20" style="display: block; height: 20px" border="0" alt=""></td> </tr> </tbody></table> </td> </tr> </tbody></table> </div> </section> <!-- End 1-000: Spacer --> </td></tr><tr><td><table role="presentation" bgcolor="#FFFFFF" width="640" border="0" align="center" cellpadding="0" cellspacing="0" class="wrap"><tbody><tr><td align="center" style="font-size:14px"><section id="1008_p1" layout-row="true">
+          <div layout-row="true">
+            <table layout-row="true" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" class="wrap" bgcolor="#FFFFFF">
+              <tbody><tr layout-row="true">
+                <td align="left" valign="top"><table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" class="wrap">
+                    <tbody><tr>
+                      <td align="left" style="padding: 0px 20px 16px 20px" class="pad20rl match"><p style="font-size: 14px; mso-line-height-rule: exactly; line-height: 150%; margin: 0px; font-weight: normal; letter-spacing: 0px; text-transform: none; color: #333333; font-family: Helvetica, Arial, sans-serif" enable-personalization="true" data-richtext="p1_text" data-groupid="p1" class="mobile_match"><span style="font-size: 16px; line-height: 150%;">New from McKinsey &amp; Company</span></p></td>
+                    </tr>
+                  </tbody></table></td>
+              </tr>
+            </tbody></table>
+          </div>
+        </section></td></tr></tbody></table></td></tr><tr><td><table role="presentation" bgcolor="#FFFFFF" width="640" border="0" align="center" cellpadding="0" cellspacing="0" class="wrap"><tbody><tr><td bgcolor="#FFFFFF"><!-- Start 1-011: Scaled Image -->
+<section id="1011_scaled_image" layout-row="true"><div layout-row="true"><table layout-row="true" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF"> <tbody><tr layout-row="true"> <td valign="top" align="center" style="padding: 0px 20px 0px 20px"> <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF"> <tbody><tr> <td align="center" style="padding: 0px 0px 20px 0px" data-groupid="scaled"><a href="https://email.mckinsey.com/featured-insights/mckinsey-on-books/rewired?__hScId__=v710000019ecd0a8871a537cb6e96c660f0&__hRlId__=e522db2795044a9a0000021ef3a0bcd0&__hDId__=e522db27-9504-4a9a-a3ed-bc6b01c9ec7f&__hSD__=d3d3Lm1ja2luc2V5LmNvbQ==&cid=mgp_rew26-eml-alt-pub-mgp-glb--&hlkid=b6aa45d18970429293d9e98748c7c0c7&hctky=17208988&hdpid=e522db27-9504-4a9a-a3ed-bc6b01c9ec7f#win-with-technology" data-managed-link="scaled_link_url" target="_blank" data-link-id="227a0111aba411eca612f91d67182026"><img agilecontent="true" src="https://images.harmony.epsilon.com/ContentHandler/images?id=f8138b40-68d1-11f1-a7f7-99079d0a2de4" alt="Photo of the authors of the Rewired book, Eric Lamarre, Robert Levin, and Kate Smaje, sitting together" width="600" height="auto" style="display: block; vertical-align: top" border="0" class="wrap"></a></td> </tr> </tbody></table> </td> </tr> </tbody></table> </div> </section> <!-- End 1-011: Scaled Image --> </td></tr><tr><td bgcolor="#FFFFFF"><!-- Start 1-005: Headline | H2 --><section id="1005_h2" layout-row="true"><div layout-row="true"><table layout-row="true" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF"> <tbody><tr layout-row="true"> <td valign="top" align="left"> <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" class="wrap"> <tbody><tr> <td align="left" style="padding: 0px 20px 16px 20px" class="pad20rl match"><h2 style="font-size: 14px; mso-line-height-rule: exactly; line-height: 120%; margin: 0px; font-weight: normal; letter-spacing: 0px; text-transform: none; color: #000000; font-family: Georgia, Cambria, Times, Times New Roman, serif" enable-personalization="true" data-richtext="h2_text" data-groupid="h2" class="mobile_match"><a style="color: #000000; text-decoration: none; font-weight: inherit;" href="https://email.mckinsey.com/featured-insights/mckinsey-on-books/rewired?__hScId__=v710000019ecd0a8871a537cb6e96c660f0&__hRlId__=e522db2795044a9a0000021ef3a0bcd1&__hDId__=e522db27-9504-4a9a-a3ed-bc6b01c9ec7f&__hSD__=d3d3Lm1ja2luc2V5LmNvbQ==&cid=mgp_rew26-eml-alt-pub-mgp-glb--&hlkid=487600e511ff4acfa8b951bc9fea5963&hctky=17208988&hdpid=e522db27-9504-4a9a-a3ed-bc6b01c9ec7f#win-with-technology" target="_blank" rel="noopener" data-link-id="22763081aba411eca612f91d67182026"><span style="font-size: 24px; line-height: 120%;"><strong>﻿How rewired enterprises move faster</strong></span></a></h2> </td> </tr> </tbody></table> </td> </tr> </tbody></table> </div> </section> <!-- End 1-005: Headline | H2 --> </td></tr><tr><td bgcolor="#FFFFFF"><!-- Start 1-008: Paragraph | P1 --><section id="1008_p1" layout-row="true"><div layout-row="true"><table layout-row="true" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF"> <tbody><tr layout-row="true"> <td valign="top" align="left"> <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" class="wrap"> <tbody><tr> <td align="left" style="padding: 0px 20px 16px 20px" class="pad20rl match"><p style="font-size: 14px; mso-line-height-rule: exactly; line-height: 150%; margin: 0px; font-weight: normal; letter-spacing: 0px; text-transform: none; color: #333333; font-family: Helvetica, Arial, sans-serif" enable-personalization="true" data-richtext="p1_text" data-groupid="p1" class="mobile_match"><span style="font-size: 16px; line-height: 150%;">What separates the fastest-moving organizations from the rest? The answer is not a new org chart; it’s an operating model designed to reduce friction, minimize dependencies, and increase speed.&nbsp;<br><br>“Dependencies slow down organizations,” explains <span style="text-decoration: underline; line-height: 150%; color: rgb(34, 81, 255);"><a href="https://email.mckinsey.com/T/v710000019ecd0a8871a537cb6e96c660f0/e522db2795044a9a0000021ef3a0bcd2/e522db27-9504-4a9a-a3ed-bc6b01c9ec7f?__dU__=v0G4RBKTXg2GsTlMa8YbE0npiPHb7Gzq29ujr-mrJsl6bcn0E30HNSquNCCrd1XNAz&__F__=v0fUYvjHMDjRPMSh3tviDHXIoXcPxvDgUUCCPvXMWoX_0JoZLAZABQFzGdi2cn1iU7KJEa5whIrwYtzM-cxLg6GRasgakp0CpaHYgCwt43BfkrrZ6A8sOcssRCu5P25VRL0lKL5NT6meymaTskNOlQqecDiG5J8uk_PjTzCufFDBkEeccUsXGV6_6Z9haD6Y5bkgdafRPQjl6ZIY7riRSTgEYZvq8d_2vTvifkL97h6_e52GgQQBnHUb7XpnZhRtw9KeCZUgS7wLj2GqLqelYjmqy7ymTjcwLDZWEHzTBBrxKyu5IpKYIPW4lE7VzZDjmTvWoVcTMi8z8-9hmblSLHJ5CBJwbltX5XBXHx1qcoyOPfp07yZU5SSRqQsz5aNPr7FQGK1UO87aEX3fNv6rNoySYQvw57HzjGRT94InxccQ2duqfnCYq-tlR-iKNF6DLrPMIQqTzq1POyaxFXfiAsRRslDxx1QCqcxc8fc-nPR5v492ReF1O6rRaMg0V93DGBH3P-d5mF3kc=" target="_blank" rel="noopener" style="color: rgb(34, 81, 255); font-weight: inherit; background: none; text-decoration: underline;" data-link-id="8d0719f068dd11f195f365f4371ebe85">Eric Lamarre</a></span>, McKinsey special adviser and coauthor of <span style="text-decoration: underline; line-height: 150%; color: rgb(34, 81, 255);"><a href="https://email.mckinsey.com/featured-insights/mckinsey-on-books/rewired?__hScId__=v710000019ecd0a8871a537cb6e96c660f0&__hRlId__=e522db2795044a9a0000021ef3a0bcd3&__hDId__=e522db27-9504-4a9a-a3ed-bc6b01c9ec7f&__hSD__=d3d3Lm1ja2luc2V5LmNvbQ==&cid=mgp_rew26-eml-alt-pub-mgp-glb--&hlkid=54d1303bf2ab4bb990c541a284e20add&hctky=17208988&hdpid=e522db27-9504-4a9a-a3ed-bc6b01c9ec7f" target="_blank" rel="noopener" style="color: rgb(34, 81, 255); font-weight: inherit; background: none; text-decoration: underline;" data-link-id="b416cbd068dd11f195f365f4371ebe85"><em>Rewired: How Leading Companies Win with Technology and AI</em></a></span> (Wiley, April 2026). “When you become a rewired enterprise, you have basically worked through the building blocks of minimizing those dependencies.”<br><br>For more on how rewired organizations minimize bottlenecks, accelerate decision-making, and empower cross-functional teams, check out the final installment of our seven-part video series featuring Lamarre and his <em>Rewired</em> coauthors, McKinsey Senior Partners <span style="text-decoration: underline; line-height: 150%; color: rgb(34, 81, 255);"><a href="https://email.mckinsey.com/T/v710000019ecd0a8871a537cb6e96c660f0/e522db2795044a9a0000021ef3a0bcd4/e522db27-9504-4a9a-a3ed-bc6b01c9ec7f?__dU__=v0G4RBKTXg2GsTlMa8YbE0npiPHb7Gzq29ujr-mrJsl6bcn0E30HNSquNCCrd1XNAz&__F__=v0fUYvjHMDjRPMSh3tviDHXIoXcPxvDgUUCCPvXMWoX_0JoZLAZABQFzGdi2cn1iU7KJEa5whIrwYtzM-cxLg6GUvg70MXDUyAwUhHcYwpf61pzsLuXV8nVEkYWSLk_aB5Mjk5JWsib1R2W5zynfaht9wl0JY717r01K7MigX7fZP1Coz5BgG49dgEuLq8_7crc7b3Igof2js1Vx976UEM2C2Aj22TKfuqhxwDrV8KZOg8oYWyIIgWs4IXtWbiumjVtBnAS2bkPHuwVmL7mCcfi0txsZD61A-OwVqVQsmOjRAI_fzorUWOh_EO_n6cV6G8DiXFEBHBmVCxPvsoG3ruAKc16YzWKPsmK-qrj4srALNznmjEYqEUri4FLktZZhOjWU2-DhU2JDReJDbvWHBjGjLZ5ycOdRKmgUVe6kBshNJ_2CQCpVGvWBqQsz5aNPr7bz-gjOS1Kghlr2_N4JKZuo3KdPBkGfYDEol08ejodFGEV_nbirkwnJnZySSzTFZZv2AfFsaqKSo=" target="_blank" rel="noopener" style="color: rgb(34, 81, 255); font-weight: inherit; background: none; text-decoration: underline;" data-link-id="992f48b068dd11f195f365f4371ebe85">Kate Smaje</a></span> and <span style="text-decoration: underline; line-height: 150%; color: rgb(34, 81, 255);"><a href="https://email.mckinsey.com/T/v710000019ecd0a8871a537cb6e96c660f0/e522db2795044a9a0000021ef3a0bcd5/e522db27-9504-4a9a-a3ed-bc6b01c9ec7f?__dU__=v0G4RBKTXg2GsTlMa8YbE0npiPHb7Gzq29ujr-mrJsl6bcn0E30HNSquNCCrd1XNAz&__F__=v0fUYvjHMDjRPMSh3tviDHXIoXcPxvDgUUCCPvXMWoX_0JoZLAZABQFzGdi2cn1iU7KJEa5whIrwYtzM-cxLg6GQRsp29vqwTAQVwGcUcwHWwrrZ6A8sOcssRCu5P25VRL0lKL5NT6meymaTskNOlQqecDiG5J8uk_PjTzCufFDBkEeccUsXGV6_6Z9haD6Y5bkgdafRPQjl6ZIY7riRSTgEYZvq8d_2vTvifkL97h6_cDy8XLR-c-ApY-yAaDh96MIkFUBdpFaCB8mqgOMYgwHvQ02_Fg1oQPZWEHzTBBrxKyu5IpKYIPW4lE7VzZDjmTvWoVcTMi8z8-9hmblSLHJ5CBJwbltX5XBXHx1qcoyOPfp07yZU5SSRqQsz5aNPr7FQGK1UO87aEX3fNv6rNoySYQvw57HzjGRT94InxccQ2duqfnCYq-tlR-iKNF6DLrPMIQqTzq1PM7Pv1LFaRi7wBpeqB-HaG3IUrwQ9RXU6SQdHFuhzkhxMkwCc3wpBO2H3P-d5mF3kc=" target="_blank" rel="noopener" style="color: rgb(34, 81, 255); font-weight: inherit; background: none; text-decoration: underline;" data-link-id="a40afa4068dd11f195f365f4371ebe85">Robert Levin</a></span>.</span></p></td> </tr> </tbody></table> </td> </tr> </tbody></table> </div> </section> <!-- End 1-008: Paragraph | P1 --> </td></tr><tr><td bgcolor="#FFFFFF"><!-- start 1-016: CTA --><section id="1016_cta" layout-row="true"><div layout-row="true"><table layout-row="true" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF"> <tbody><tr layout-row="true"> <td valign="top" align="left"> <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" class="wrap"> <tbody><tr> <td align="left" valign="top"> <!-- Start CTA Table --> <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> <td align="center" valign="top" style="padding: 0px 0px 20px 0px" class="pad20rl"> <!-- Start CTA Block -->  <!-- Start Button CTA --> <table role="presentation" border="0" cellspacing="0" cellpadding="0" width="280" class="wrap">  <tbody><tr>   <td align="center" valign="top" bgcolor="#2251FF"> <!-- Start CTA Text Block --> <table role="presentation" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> <td align="left" valign="top" style="padding: 8px 20px"> <!-- Start Inner CTA --> <table role="presentation" border="0" cellspacing="0" cellpadding="0" width="100%"> <tbody><tr> <td dir="ltr" class="wrap cta" align="center" valign="middle" style="font-weight: normal; letter-spacing: 0px; text-transform: none"><span style="color: #ffffff; font-family: Helvetica, Arial, sans-serif; font-size: 14px; mso-line-height-rule: exactly; line-height: 150%" enable-personalization="true" richtext-mode="simple" data-richtext="cta_text" data-groupid="cta"><a href="https://email.mckinsey.com/featured-insights/mckinsey-on-books/rewired?__hScId__=v710000019ecd0a8871a537cb6e96c660f0&__hRlId__=e522db2795044a9a0000021ef3a0bcd6&__hDId__=e522db27-9504-4a9a-a3ed-bc6b01c9ec7f&__hSD__=d3d3Lm1ja2luc2V5LmNvbQ==&cid=mgp_rew26-eml-alt-pub-mgp-glb--&hlkid=f40d3c1b84824b07a4209e7b5556a224&hctky=17208988&hdpid=e522db27-9504-4a9a-a3ed-bc6b01c9ec7f#win-with-technology" data-managed-link="cta_link_url" target="_blank" style="color: #ffffff; text-decoration: none; font-weight: normal" data-link-id="227f3131aba411eca612f91d67182026"><span style="font-size: 16px; line-height: 150%;">﻿Watch the video</span></a></span></td>  </tr> </tbody></table> <!-- End Inner CTA --> </td> </tr> </tbody></table> <!-- End CTA Text Block --> </td>   </tr>  </tbody></table> <!-- End Button CTA -->  <!-- End CTA Block --> </td> </tr> </tbody></table> <!-- End CTA Table --> </td> </tr> </tbody></table> </td> </tr> </tbody></table> </div> </section> <!-- end 1-016: CTA --> </td></tr><tr><td bgcolor="#FFFFFF"><!-- Start 1-021: Icons --><section id="1021_icons" layout-row="true"><div layout-row="true"><table layout-row="true" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF"> <tbody><tr layout-row="true"> <td valign="top" align="left"> <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" class="wrap"> <tbody><tr> <th align="left" valign="top" style="padding: 0px 20px 20px 20px; font-size: normal" class=""> <table role="presentation" border="0" cellspacing="0" cellpadding="0" class="center inline" style="text-align: center"> <tbody><tr> <!-- Start Icon 1--> <th align="left" valign="top" style="vertical-align: top; padding: 0px; font-weight: normal" class="pad0l"> <table role="presentation" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> <td style="padding: 0px 5px 0px 5px" data-groupid="icon1" align="left" valign="top"><a href="https://email.mckinsey.com/T/v710000019ecd0a8871a537cb6e96c660f0/e522db2795044a9a0000021ef3a0bcd7/e522db27-9504-4a9a-a3ed-bc6b01c9ec7f?__dU__=v0G4RBKTXg2GsTlMa8YbE0npiPHb7Gzq29ujr-mrJsl6bcn0E30HNSquNCCrd1XNAz&__F__=v0fUYvjHMDjRPMSh3tviDHXIoXcPxvDgUUCCPvXMWoX_0JoZLAZABQF0G1259ZAW1Zj_UalJpFN4g0CVYHdqChyFdf-n7pQGfZarYdeOZd03YgNJpyW_c9PymLRIVcStYuZb4GXULe8EAmblgU6OwsE9HtCAdAQqVQDfqDa9VmcDnq6eAKbBlLa6qWdlNB49cP9rhVOBFvkeay5M_nLAcbDStdL8dLXXWO_qTIdT9quyFgrhrf8nR2dXxlGOTpYKeyEf_DZoh3E4-AHHN6O3hAiku4a3IOHp8lEuWMS797wuWdfeCYHTVn5LSEWejcKq6kHvQBZg1oZwFdJTh0zTarcVFzT38OD6IKcCFFywzWrRdF1pdRXu1r-MKbJdKUIgZlcUtMYBshJgvi1YX8_X9SQE89KmtSbHLdQbAB4Ph0V_HD_nExiRXgEaYPox5jnNCBuYgAOG6PzP30nW4WkcxHarT3sLfLQe_A7t6h6EbjW69c2Li_mHFgdoplrUyneJn8Ub8dyalzv4KJlS-KKoZl9rNMGXZIBHLx-BRj6IJa2XJMrQfUUN0uahiCn59TaOaHxi38qTo1e0qy4VI0qX-UK5lYC84gX2V6gzPCZxRb7Ybq-avq7EfSIzFHDdVksz8ini3-yOkxR6BSUmJVIpbR2FKBGjX96bp_6kpUkiwf4qEDt7hd0HpS14jEFC74IfK71rVNQewrmuQ=" data-managed-link="icon1_link_url" target="_blank" data-link-id="228301c0aba411eca612f91d67182026"><img src="https://images.harmony.epsilon.com/ContentHandler/images?id=61db3abb-5906-44c8-a258-8ab3de689535" alt="LinkedIn" width="32" height="auto" style="display: block" border="0"></a></td> </tr> </tbody></table> </th> <!-- End Icon 1-->  <!-- Start Icon 2--> <th align="left" valign="top" style="vertical-align: top; padding: 0px; font-weight: normal"> <table role="presentation" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> <td style="padding: 0px 5px 0px 5px" align="left" valign="top" data-groupid="icon2"><a href="https://email.mckinsey.com/T/v710000019ecd0a8871a537cb6e96c660f0/e522db2795044a9a0000021ef3a0bcd8/e522db27-9504-4a9a-a3ed-bc6b01c9ec7f?__dU__=v0G4RBKTXg2GsTlMa8YbE0npiPHb7Gzq29ujr-mrJsl6bcn0E30HNSquNCCrd1XNAz&__F__=v0fUYvjHMDjRPMSh3tviDHXIoXcPxvDgUUCCPvXMWoX_3jidK9OmucnGtLvlqQ7V0p7ukgHDW1QqnoNHXUktVWJAiiYw0k_Eww1npTaYPNJvoiBSXaRcCHzYdV3HJ9oBNll4IXL9ZTbgHpGO5jLs_1WoXdWngBPRo0CU3cY0toK1zxNMERz7EQ-NM6wOg9DD1AFHz9LvM3gYQ0Gt9nhKaJQ0sHPCuDnwdZotqZNLgwdximc2y3c5I5OqU-vVdkW_Qzyb6OFzluAOD7RzxhAYmynP_k8GP3zWiRyrBJGhEWd14QD3CMEf6gZi06CyeU3NmQQ7i_8xmC_9P1dk92wI3B5-exc2NgaNy9EWZK7nBnXBR5LXkxpUJhNrlbMluymlzH58wHZJZ9lK94P8ZTqNUwjjIL-WshzDQF4u5Yh_jQySR3iFgfczsTKWg2-0NlOUiwEzQBtr_b9khROoFDBhrUUZr6O3emVySIxkii1VUuKc7ewgQCbwel0yMDr2TQVKyWORDLRqNpo9UyA3L2s6U27mrGlJWmeyAH4uzngV5HJmWIXDneRJbgdZokmrsFpacHx-ujrPeznM_OAsJ0nhPL5YEmdyFrPEBr" data-managed-link="icon2_link_url" target="_blank" data-link-id="228301c1aba411eca612f91d67182026"><img src="https://images.harmony.epsilon.com/ContentHandler/images?id=635dc295-1b62-47cc-b9ae-f84b32d8f240" alt="X" width="32" height="auto" style="display: block" border="0"></a></td> </tr> </tbody></table> </th> <!-- End Icon 2-->   <!-- Start Icon 3--> <th align="left" valign="top" style="vertical-align: top; padding: 0px; font-weight: normal"> <table role="presentation" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> <td style="padding: 0px 5px 0px 5px" align="left" valign="top" data-groupid="icon3"><a href="https://email.mckinsey.com/T/v710000019ecd0a8871a537cb6e96c660f0/e522db2795044a9a0000021ef3a0bcd9/e522db27-9504-4a9a-a3ed-bc6b01c9ec7f?__dU__=v0G4RBKTXg2GsTlMa8YbE0npiPHb7Gzq29ujr-mrJsl6bcn0E30HNSquNCCrd1XNAz&__F__=v0fUYvjHMDjRPMSh3tviDHXIoXcPxvDgUUCCPvXMWoX_0JoZLAZABQF9OJQbzKjWJqjvxdDSaKpQYmyKJUlGymgii3yiV0r-WidEmIkYHs36sRHNOgeG3Y3BUzVvZcmxXte8pp_aN5JyNVMw5SQ4O8xGdVmAwYJeOEG-e82kRJvE0VNHWZNouOOOGrCK6z7HTxj8uufHmDEiBKkCuAQZ11ArAqmIVFQOEuU8LPcVgcQkqP6HWcE51O3TQa32eEpolDSwc8K4OfB1mi2pk0uDB3GKZzbLdzkjk6pT69V2Rb9DPJvo4XOW4A4PtHPGEBibKc_-TwY_fNaJHKsEkaERZ3XhAPcIwR_qBmLToLJ5Tc2ZBDuL_zGYL_0xKVjeKsuD3Opl4Ch3ilicS2ERMC8iE0DptnG3M_SYmnuVsyW7KaXMfnzAdkln2Ur3g_xlOo1TCOMgv5ayHMNAXi7liH-NDJJHeIWB9zOxMpaDb7Q2U5SLATNAG2v9v2SFE6gUMGGtRRmvo7d6ZXJIjGSKLVVS4pzt7CBAJvB6XTIwOvZNBUrJY5EMtGo2mj1TIDcvazpTbuasaUlaZ7IAd6Wow9vuI7jQnKsYq9OvlKW4_bkK6x3JoEHTr3v9D4fV9SFmZ-LA22gSZ3IWs8QGs=" data-managed-link="icon3_link_url" target="_blank" data-link-id="228301c2aba411eca612f91d67182026"><img src="https://images.harmony.epsilon.com/ContentHandler/images?id=05b3d1f4-748b-4451-be05-2527eafa544d" alt="Facebook" width="32" height="auto" style="display: block" border="0"></a></td> </tr> </tbody></table> </th> <!-- End Icon 3-->     </tr> </tbody></table> </th> </tr> </tbody></table> </td> </tr> </tbody></table> </div> </section> <!-- End 1-021: Icons --> </td></tr></tbody></table></td></tr><tr><td bgcolor="#FFFFFF"><!-- Start 1-000: Spacer --><section id="1000" layout-row="true"><div layout-row="true"><table layout-row="true" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF"> <tbody><tr layout-row="true"> <td> <table role="presentation" width="100%" border="0" cellspacing="0"> <tbody><tr> <td height="20" align="left" valign="top" bgcolor="#FFFFFF" style="line-height: 0px; padding: 0px;"><img src="https://images.harmony.epsilon.com/ContentHandler/images?id=3f67ada7-a01e-4c02-ab71-8b46fd3106ae" height="20" style="display: block; height: 20px" border="0" alt=""></td> </tr> </tbody></table> </td> </tr> </tbody></table> </div> </section> <!-- End 1-000: Spacer --> </td></tr><tr><td><table role="presentation" bgcolor="#FFFFFF" width="640" border="0" align="center" cellpadding="0" cellspacing="0" class="wrap"><tbody><tr><td bgcolor="#FFFFFF"><!-- Start 1-001: Divider -->
+<section id="1001_divider" layout-row="true"> <div layout-row="true"> <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" layout-row="true" bgcolor="#FFFFFF"> <tbody><tr layout-row="true"> <td align="center" valign="top" class="pad20rl"> <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" class="wrap"> <tbody><tr> <td align="center" valign="top" style="padding: 1px 20px 36px 20px" class="pad20rl"> <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#000000" class="wrap"> <tbody><tr> <td style="line-height: 1px !important" align="center" valign="top"><img src="https://images.harmony.epsilon.com/ContentHandler/images?id=3f67ada7-a01e-4c02-ab71-8b46fd3106ae" height="1" style="display: block" border="0" alt=""></td> </tr> </tbody></table></td> </tr> </tbody></table></td> </tr> </tbody></table> </div> </section>
+<!-- End 1-001: Divider --> </td></tr><tr><td bgcolor="#ffffff"><!-- Start MCK-008: Footer | Logo + Social Icons -->
+<section id="MCK008" layout-row="true"> <div layout-row="true"> <table layout-row="true" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff" class="wrap"> <tbody><tr layout-row="true"> <td><table role="presentation" align="center" width="100%" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> <td align="center" style="vertical-align: top; padding: 0px 20px 20px 15px; background-color: #ffffff;" bgcolor="#ffffff" class="pad20r pad15l"><table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> <td align="center" valign="top"><table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> <th align="left" valign="middle" style="vertical-align: middle; padding: 0px; font-weight: normal; width: 245px" width="245" class="colsplit"> <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> <td align="left" valign="top" class="pad16b" data-groupid="mck_logo"><a href="https://email.mckinsey.com/homefeed?__hScId__=v710000019ecd0a8871a537cb6e96c660f0&__hRlId__=e522db2795044a9a0000021ef3a0bcda&__hDId__=e522db27-9504-4a9a-a3ed-bc6b01c9ec7f&__hSD__=d3d3Lm1ja2luc2V5LmNvbQ==&cid=mgp_rew26-eml-alt-pub-mgp-glb--&hlkid=9a1b8aaa9a79409ca51afd10df4bbe35&hctky=17208988&hdpid=e522db27-9504-4a9a-a3ed-bc6b01c9ec7f" target="_blank" style="text-decoration: none;" data-managed-link="mck_logo_link_url" data-link-id="02b02640ab9811eca8326bc2653f9b70"><img src="https://images.harmony.epsilon.com/ContentHandler/images?id=3471f65a-13c6-4f67-af56-8135371fa1ba" width="146" alt="McKinsey &amp; Company" border="0" style="display: block; margin: 0; padding: 0;"></a></td> </tr> </tbody></table> </th> <th align="right" valign="middle" style="vertical-align: middle; padding: 0px; font-weight: normal;" class="colsplit left"> <table role="presentation" border="0" cellspacing="0" cellpadding="0" class="wrap"> <tbody><tr> <td align="left" valign="middle" style="vertical-align: middle; text-align: left; padding: 0px 12px 0px 0px"><p style="font-size: 14px; mso-line-height-rule: exactly; line-height: 120%; margin: 0px; font-weight: normal; letter-spacing: 0px; text-transform: none; color: #000000; font-family: Helvetica, Arial, sans-serif;" enable-personalization="true" data-richtext="follow_text" data-groupid="follow" class="mobile_match"><a style="color: #000000; text-decoration: none; font-weight: inherit;" href="https://email.mckinsey.com/featured-insights?__hScId__=v710000019ecd0a8871a537cb6e96c660f0&__hRlId__=e522db2795044a9a0000021ef3a0bcdb&__hDId__=e522db27-9504-4a9a-a3ed-bc6b01c9ec7f&__hSD__=d3d3Lm1ja2luc2V5LmNvbQ==&cid=mgp_rew26-eml-alt-pub-mgp-glb--&hlkid=9a993831528042a6986a765f3c7e7e3b&hctky=17208988&hdpid=e522db27-9504-4a9a-a3ed-bc6b01c9ec7f" target="_blank" rel="noopener" data-link-id="10cba060d17211ecaf20cf0086035fe5"><span style="font-size: 14px; line-height: 120% !important;"><strong>Follow our thinking</strong></span></a></p></td> <td align="right" valign="top"><table role="presentation" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> <td align="left" valign="middle" style="padding: 0px 10px 0px 0px" data-groupid="linked_logo"><a data-managed-link="linked_logo_link_url" href="https://email.mckinsey.com/T/v710000019ecd0a8871a537cb6e96c660f0/e522db2795044a9a0000021ef3a0bcdc/e522db27-9504-4a9a-a3ed-bc6b01c9ec7f?__dU__=v0G4RBKTXg2GsTlMa8YbE0npiPHb7Gzq29ujr-mrJsl6bcn0E30HNSquNCCrd1XNAz&__F__=v0fUYvjHMDjRPMSh3tviDHXIoXcPxvDgUUCCPvXMWoX_0JoZLAZABQF0G1259ZAW1Zj_UalJpFN4gjYScUNORveqqWdlNB49cPBS5o8DWw7zWFBQn1_NfoyihezoN_RS3YaWTOGTUNh6n6DhLJAN4k07dA895J5y6i8O4ZTPSdmJRS82CfrE5z_Hr5uJ_u2-OvCp9h98dLZYGAcsE4jSaj0uw80ZoS6Jxlkd94x1E680iHBsFBKRd8SziGvuMgUEbUO7oNTaJ3LnRkqFt3ogTgEiUfPgzp9GMTHxAGgBSPFMW4AQoBaENyEsiAxWuTHOwMqpSskECEzAzc7EohzfMoGpqRVuyveJkAj7drBut5GMaWk_bdZMloV8tbO0p0IuS3IDyk0HYl769Pk7Gi0nU-4GWD4vHRl5mYAbRKnXnuHdjilCoBUTgaWjkhCUTGOdaPTnEu8JzZLkr4bjOUaN3o4o_ME-8FZnvOeL3Bu3UwRufJIEOL-LjHtRoyImT4S32_" target="_blank" style="text-decoration: none; outline: none; color: #000001" data-link-id="02b02641ab9811eca8326bc2653f9b70"><img src="https://images.harmony.epsilon.com/ContentHandler/images?id=61db3abb-5906-44c8-a258-8ab3de689535" width="32" alt="LinkedIn" border="0" style="display: block; margin: 0; padding: 0;"></a></td> <td align="left" valign="middle" style="padding: 0px 10px 0px 0px" data-groupid="twitter_logo"><a data-managed-link="twitter_logo_link_url" href="https://email.mckinsey.com/T/v710000019ecd0a8871a537cb6e96c660f0/e522db2795044a9a0000021ef3a0bcdd/e522db27-9504-4a9a-a3ed-bc6b01c9ec7f?__dU__=v0G4RBKTXg2GsTlMa8YbE0npiPHb7Gzq29ujr-mrJsl6bcn0E30HNSquNCCrd1XNAz&__F__=v0fUYvjHMDjRPMSh3tviDHXIoXcPxvDgUUCCPvXMWoX_1P8SSwvgaM7Bj1wKVct32A076AqyU2wgVXHYwfm4TdSLSEWejcKq6kHvQBZg1oZwFdJTh0zTarcVFzT38OD6IKcCFFywzWrRdF1pdRXu1r-MKbJdKUIgZlcUtMYBshJgvi1YX8_X9SQE89KmtSbHLdQbAB4Ph0V_HD_nExiRXgEWt73FoYm0SmRpXaKqGN_VAbB87MD77Ea47lq7m9yr5wPwaM4Ho0ZpNc2Li_mHFgdoplrUyneJn8Ub8dyalzv4KJlS-KKoZl9rNMGXZIBHLx-BRj6IJa2XJMrQfUUN0uahiCn59TaOaHxi38qTo1e0qy4VI0qX-UK5lYC84gX2V6gzPCZxRb7Ybq-avq7EfSIzFHDdVksz8ini3-yOkxR6BT_lyOZ4ggms-x3LJLeqn3lwNhFgXdegqbHlkHietu9OLPN8fzVSlI1rVNQewrmuQ=" target="_blank" style="text-decoration: none; outline: none; color: #000001" data-link-id="02b02642ab9811eca8326bc2653f9b70"><img src="https://images.harmony.epsilon.com/ContentHandler/images?id=635dc295-1b62-47cc-b9ae-f84b32d8f240" width="32" alt="X" border="0" style="display: block; margin: 0; padding: 0;"></a></td> <td align="left" valign="middle" style="padding: 0px" data-groupid="fb_logo"><a data-managed-link="fb_logo_link_url" href="https://email.mckinsey.com/T/v710000019ecd0a8871a537cb6e96c660f0/e522db2795044a9a0000021ef3a0bcde/e522db27-9504-4a9a-a3ed-bc6b01c9ec7f?__dU__=v0G4RBKTXg2GsTlMa8YbE0npiPHb7Gzq29ujr-mrJsl6bcn0E30HNSquNCCrd1XNAz&__F__=v0fUYvjHMDjRPMSh3tviDHXIoXcPxvDgUUCCPvXMWoX_0JoZLAZABQF9OJQbzKjWJqjvxdDSaKpQaqlnZTQePXDwUuaPA1sO81hQUJ9fzX6MooXs6Df0Ut2Glkzhk1DYep-g4SyQDeJNO3QPPeSecuovDuGUz0nZiUUvNgn6xOc_x6-bif7tvjrwqfYffHS2WBgHLBOI0mo9LsPNGaEuicZZcworZ45He4uSdW1UG8mui8vn0of1W_uxieMVCNhyjHZ0bXOKzppW4lHz4M6fRjEx8QBoAUjxTFuAEKAWhDchLIgMVrkxzsDKqUrJBAhMwM3OxKIc3zKBqakVbsr3iZAI-3awbreRjGlpP23WTJaFfLWztKdCLktyA8pNB2Je-vT5OxotJ1PuBlg-Lx0ZeZmAG0Sp157h3Y4pQqAVE4Glo5IQlExjnWjyO68S1gTIOTbkx8rzHEDVn2vI8jau8_WQUMEy1FMQ5U7u1Kk5UvhqAaMiJk-Et9vw==" target="_blank" style="text-decoration: none; outline: none; color: #000001" data-link-id="02b02643ab9811eca8326bc2653f9b70"><img src="https://images.harmony.epsilon.com/ContentHandler/images?id=05b3d1f4-748b-4451-be05-2527eafa544d" width="32" alt="Facebook" border="0" style="display: block; margin: 0; padding: 0;"> </a></td> </tr> </tbody></table></td> </tr> </tbody></table> </th> </tr> </tbody></table></td> </tr> </tbody></table></td> </tr> </tbody></table></td> </tr> </tbody></table> </div> </section>
+<!-- End MCK-008: Footer | Logo + Social Icons --> </td></tr></tbody></table></td></tr><tr><td bgcolor="#ffffff"><!-- START MCK-007: Footer | App Store -->
+<section id="MCK007" layout-row="true"> <div layout-row="true"> <table layout-row="true" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff" class="wrap"> <tbody><tr layout-row="true"> <td valign="top"><table class="wrap" align="center" width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation"> <tbody><tr> <td align="center" style="vertical-align: top; padding: 0px 0px 20px 0px;" bgcolor="#ffffff" class="pad20rl"><table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> <td align="left" valign="top" style="vertical-align: top; padding: 0px 20px 0px 20px;" class="pad0rl"><table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> <th align="left" valign="top" style="vertical-align: top; padding: 0px; font-weight: normal; width: 285px" class="colsplit" width="285"> <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> <td class="pad0r" align="left" valign="top" style="vertical-align: top; padding: 0px 30px 0px 0px;"><p style="font-size: 14px; mso-line-height-rule: exactly; line-height: 150%; margin: 0px; font-weight: normal; letter-spacing: 0px; text-transform: none; color: #000000; font-family: Helvetica, Arial, sans-serif;" enable-personalization="true" data-richtext="col1_p1_text" data-groupid="col1_p1" class="mobile_match"><a style="color: #000000; text-decoration: none; font-weight: inherit;" href="https://email.mckinsey.com/about-us/overview/mckinsey-insights-app?__hScId__=v710000019ecd0a8871a537cb6e96c660f0&__hRlId__=e522db2795044a9a0000021ef3a0bcdf&__hDId__=e522db27-9504-4a9a-a3ed-bc6b01c9ec7f&__hSD__=d3d3Lm1ja2luc2V5LmNvbQ==&cid=mgp_rew26-eml-alt-pub-mgp-glb--&hlkid=0b41367cb7ff4ee0af671f68e6736228&hctky=17208988&hdpid=e522db27-9504-4a9a-a3ed-bc6b01c9ec7f" target="_blank" rel="noopener" data-link-id="80a1f4d0d17111ecaa5787efb49123a9"><span style="font-size: 14px; color: #000000; line-height: 150%;"><strong>McKinsey Insights</strong> - Get our latest thinking on your iPhone, iPad or Android.</span></a></p></td> </tr> </tbody></table> </th> <th align="left" valign="top" style="vertical-align: top; padding: 0px; font-weight: normal;" class="colsplit"> <table role="presentation" border="0" cellspacing="0" cellpadding="0" align="right" class="wrap"> <tbody><tr> <td align="left" valign="top" class="pad20t" style="padding: 4px 0px 0px 0px;"><table role="presentation" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> <td align="left" valign="top" style="vertical-align: top; padding: 0px" data-groupid="appStore"> <a data-managed-link="appStore_link_url" href="https://email.mckinsey.com/app/apple-store/id674902075?pt=1151701&ct=mck-eml_app-store-badge&mt=8&__hScId__=v710000019ecd0a8871a537cb6e96c660f0&__hRlId__=e522db2795044a9a0000021ef3a0bce0&__hDId__=e522db27-9504-4a9a-a3ed-bc6b01c9ec7f&__hSD__=YXBwcy5hcHBsZS5jb20=&cid=mgp_rew26-eml-alt-pub-mgp-glb--&hlkid=27e60cb6723d49678296e9c9732b7530&hctky=17208988&hdpid=e522db27-9504-4a9a-a3ed-bc6b01c9ec7f" target="_blank" data-link-id="c96593f1c50111eda404830c2f1277c1"><img agilecontent="true" src="https://images.harmony.epsilon.com/ContentHandler/images?id=38623190-c4fe-11ed-b6f5-9b0d798d20fb" alt="Download on the App Store" width="120" height="auto" style="display: block;" border="0"> </a> </td> <td width="15" align="left" valign="top" style="vertical-align: top; padding: 0px; width: 15px; font-size: 2px; line-height: 0px;">&nbsp;</td> <td align="left" valign="top" style="vertical-align: top; padding: 0px" data-groupid="googleStore"><a data-managed-link="googleStore_link_url" href="https://email.mckinsey.com/store/apps/details?id=com.mckinsey.mckinseyinsights&referrer=utm_source%3Dmck-eml%26utm_campaign%3Dmck-eml_app-store-badge&__hScId__=v710000019ecd0a8871a537cb6e96c660f0&__hRlId__=e522db2795044a9a0000021ef3a0bce1&__hDId__=e522db27-9504-4a9a-a3ed-bc6b01c9ec7f&__hSD__=cGxheS5nb29nbGUuY29t&cid=mgp_rew26-eml-alt-pub-mgp-glb--&hlkid=48da166188c54be7be919cec46c4f038&hctky=17208988&hdpid=e522db27-9504-4a9a-a3ed-bc6b01c9ec7f" target="_blank" data-link-id="c965bb00c50111eda404830c2f1277c1"><img agilecontent="true" src="https://images.harmony.epsilon.com/ContentHandler/images?id=b52ee4c0-c4fe-11ed-8207-4998fe8262ff" alt="ANDROID APP ON Google play" width="134" height="auto" style="display: block;" border="0"> </a> </td> </tr> </tbody></table></td> </tr> </tbody></table> </th> </tr> </tbody></table></td> </tr> </tbody></table></td> </tr> </tbody></table></td> </tr> </tbody></table> </div> </section>
+<!-- End MCK-007: Footer | App Store --> </td></tr><tr><td align="center" style="font-size:14px"><!-- Start Footer - Digital AND Financial Services - HTML -->
+<table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td bgcolor="#F0F0F0"><table layout-row="true" role="presentation" class="wrap" width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#F0F0F0">
+        <tbody>
+          <tr layout-row="true">
+            <td valign="top" align="left"><table role="presentation" class="wrap" width="100%" cellspacing="0" cellpadding="0" border="0">
+                <tbody>
+                  <tr>
+                    <td style="padding: 26px 20px 10px 20px" class="pad20rl" align="left"><p style="font-size: 12px; mso-line-height-rule: exactly; line-height: 130%; margin: 0px; font-weight: normal; color: #757575; font-family: Helvetica, Arial, sans-serif">This email contains information about McKinsey&rsquo;s research, insights, services, or events. By opening our emails or clicking on links, you agree to our use of cookies and web tracking technology. For more information on how we use and protect your information, please review our <a href="https://email.mckinsey.com/T/v710000019ecd0a8871a537cb6e96c660f0/e522db2795044a9a0000021ef3a0bce2/e522db27-9504-4a9a-a3ed-bc6b01c9ec7f?__dU__=v0G4RBKTXg2GsTlMa8YbE0npiPHb7Gzq29ujr-mrJsl6bcn0E30HNSquNCCrd1XNAz&__F__=v0fUYvjHMDjRPMSh3tviDHXIoXcPxvDgUUCCPvXMWoX_0JoZLAZABQFzGdi2cn1iU7KJEa5whIrwZcgBGG0TPafzZjdsyV3hB6TsAY9yft30XUBxsjtje_R5v9fcf7wmIhSVHuklyh7UvAmTMwtsh4bcLthPEdPGn2jF6qVlFViVlEBoXGUGxlMKM2tUHdafDhP4Tk54YutfFXPCdS6hG99pAZpbhjoxWoHcnnC51skXUhr6dBPtLy9B4-yVwD1i1_Cf0QWMugwGlcPJJAqBzHI_9zfvqyNH32VulW5KQn5CZSwLEkr6C6soA3Om3HXh_e9WiQY0imbYHGLDQwKnzlJ_nxyyW3poQ3XtHtv3Sw9Ck-hUcUAylJSMYqr5EyidlrSm_5RrC-Z4EFoFY0vMIRvDCvUYtg6Qq8GaAkhQZMGLsexVoP2n7282W9urXPubpP68J5SGh0I61XHpCMByopx03ctTHBqzm7T8yghaZTWOVdwtnC2FMcT0WnQHl0YpjL" target="_blank" style="text-decoration: underline; color: #757575;"><span class="linkunder">privacy policy</span></a>.</p></td>
+                  </tr>
+                </tbody>
+              </table></td>
+          </tr>
+        </tbody>
+      </table></td>
+  </tr>
+  <tr>
+    <td bgcolor="#F0F0F0"><table layout-row="true" role="presentation" class="wrap" width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#F0F0F0">
+        <tbody>
+          <tr layout-row="true">
+            <td valign="top" align="left"><table role="presentation" class="wrap" width="100%" cellspacing="0" cellpadding="0" border="0">
+                <tbody>
+                  <tr>
+                    <td style="padding: 0px 20px 10px 20px" class="pad20rl" align="left"><p style="font-size: 12px; mso-line-height-rule: exactly; line-height: 130%; margin: 0px; font-weight: normal; color: #757575; font-family: Helvetica, Arial, sans-serif">You received this email because you subscribed to our Artificial Intelligence alert list.</p></td>
+                  </tr>
+                </tbody>
+              </table></td>
+          </tr>
+        </tbody>
+      </table></td>
+  </tr>
+  <tr>
+    <td bgcolor="#F0F0F0"><table layout-row="true" role="presentation" class="wrap" width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#F0F0F0">
+        <tbody>
+          <tr layout-row="true">
+            <td valign="top" align="left"><table role="presentation" class="wrap" width="100%" cellspacing="0" cellpadding="0" border="0">
+                <tbody>
+                  <tr>
+                    <td style="padding: 0px 20px 10px 20px" class="pad20rl" align="left"><p style="font-size: 12px; mso-line-height-rule: exactly; line-height: 130%; margin: 0px; font-weight: normal; font-family: Helvetica, Arial, sans-serif; color: #757575"><a style="color:#757575; text-decoration: underline;" href="https://email.mckinsey.com/T/v710000019ecd0a8871a537cb6e96c660f0/e522db2795044a9a0000021ef3a0bce3/e522db27-9504-4a9a-a3ed-bc6b01c9ec7f?__dU__=v0G4RBKTXg2GsTlMa8YbE0npiPHb7Gzq29ujr-mrJsl6bcn0E30HNSquNCCrd1XNAz&__F__=v0fUYvjHMDjRPMSh3tviDHXIoXcPxvDgUUCCPvXMWoX_0JoZLAZABQFzGdi2cn1iU7KJEa5whIrwaATePgETgXaYi6J2tbCGBqYj85pz5zjmhkbOWsZI5uGBjag9BBVASHwWYkm-P8fn4jbQxN9px-c7SEWejcKq6kHvQBZg1oZwFdJTh0zTarcVFzT38OD6IKcCFFywzWrRdF1pdRXu1r-MKbJdKUIgZlcUtMYBshJgvi1YX8_X9SQE89KmtSbHLdQbAB4Ph0V_HD_nExiRXgEYS0merjq8o_apkGhV_0Fz14Yl41-2T8i-H4mhaJchNnN2L_guDFzXlc2Li_mHFgdoplrUyneJn8Ub8dyalzv4KJlS-KKoZl9rNMGXZIBHLx-BRj6IJa2XJMrQfUUN0uahiCn59TaOaHxi38qTo1e0qy4VI0qX-UK5lYC84gX2V6gzPCZxRb7Ybq-avq7EfSIzFHDdVksz8ini3-yOkxR6ANz6ve5OC4K3I819own01UUdBIu03fgAhXdv2iQtv_vOopcSCXx1mI1rVNQewrmuQ=" target="_blank"><strong style="color:#757575; text-decoration: underline; font-weight: normal">Manage&nbsp;subscription</strong></a> | <span style="color:#757575;"></span>&nbsp;<a style="color:#757575; text-decoration: underline;" href="https://email.mckinsey.com/U/v710000019ecd0a8871a537cb6e96c660f0/e522db2795044a9a0000021ef3a0bce4" target="_blank"><strong  style="color:#757575; text-decoration: underline; font-weight: normal">Unsubscribe</a></p></td>
+                  </tr>
+                </tbody>
+              </table></td>
+          </tr>
+        </tbody>
+      </table></td>
+  </tr>
+  <tr>
+    <td bgcolor="#F0F0F0"><table layout-row="true" role="presentation" class="wrap" width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#F0F0F0">
+        <tbody>
+          <tr layout-row="true">
+            <td valign="top" align="left"><table role="presentation" class="wrap" width="100%" cellspacing="0" cellpadding="0" border="0">
+                <tbody>
+                  <tr>
+                    <td style="padding: 0px 20px 26px 20px" class="pad20rl" align="left"><p style="font-size: 12px; mso-line-height-rule: exactly; line-height: 130%; margin: 0px; font-weight: normal; color: #757575; font-family: Helvetica, Arial, sans-serif">Copyright &copy;&nbsp;2026 | McKinsey&nbsp;&amp;&nbsp;Company, 3&nbsp;World&nbsp;Trade&nbsp;Center, 175&nbsp;Greenwich&nbsp;Street, New&nbsp;York, NY 10007</p></td>
+                  </tr>
+                </tbody>
+              </table></td>
+          </tr>
+        </tbody>
+      </table></td>
+  </tr>
+</table>
+<!-- End Footer - Digital AND Financial Services - HTML  --></td></tr></tbody></table>
+
+							<!--END Email Size Wrapper Table -->
+
+                        </td>
+                    </tr>
+                </table>
+
+                <!--END Email Background Color Table -->
+
+            </td>
+        </tr>
+	</table>
+    </div>
+	<!--END Page Overflow Color Table -->
+
+    
+</body>
+</html>
