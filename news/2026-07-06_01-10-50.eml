@@ -1,0 +1,731 @@
+Date: 2026-07-05T22:10:49.906Z
+From: {"address":"publishing@email.mckinsey.com","name":"McKinsey & Company"}
+To: {"address":"ai.kontiovaara@ala-harja.com","name":""}
+Content-Type: text/html; charset=utf-8
+
+Subject: What CEOs must get right about AI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- XSS REPLACEMENTS START-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- XSS REPLACEMENTS END--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial scale=1.0" />
+<meta name="robots" content="no index" />
+<meta name="format-detection" content="telephone=no" />
+<meta name="format-detection" content="address=no" />
+
+<!--[if !mso]><!-->
+
+
+<!--<![endif]-->
+
+<title></title>
+<style type="text/css">
+.ReadMsgBody {
+    width: 100%;
+}
+.ExternalClass {
+    width: 100%;
+}
+.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {
+    line-height: 100%;
+}
+body {
+    -webkit-text-size-adjust: none;
+    -ms-text-size-adjust: none;
+    margin: 0 auto !important;
+    padding: 0;
+    min-width: 100% !important;
+}
+td {
+    mso-line-height-rule: exactly;
+    mso-table-lspace: 0pt;
+    mso-table-rspace: 0pt;
+}
+img {
+    margin: 0 !important;
+}
+/* Forces Outlook to honor line-height */
+div, p, a, li, td, span {
+    -webkit-text-size-adjust: none;
+}
+/* Hides preheader on Outlook */
+.set_outlook_hidden {
+    display: none !important;
+}
+/* Overrides blue links */
+a[href^=tel], #MessageViewBody a, a[x-apple-data-detectors], #body a, .link {
+    color: inherit;
+    text-decoration: none;
+    font-size: inherit;
+    font-family: inherit;
+    font-weight: inherit;
+    line-height: inherit;
+}
+/* Wraps bullet proof button */
+a.button {
+    border-left: 0px !important;
+    border-right: 0px !important;
+    display: block !important;
+    width: 100% !important;
+}
+[data-outlook-cycle] [x-apple-data-detectors-type="calendar-event"] {
+    color: inherit !important;
+    -webkit-text-decoration-color: inherit !important;
+    text-decoration: none !important;
+}
+/*Stops Outlook iOS blue dates*/
+#body [x-apple-data-detectors=true],
+a[x-apple-data-detectors=true] {
+    color: inherit !important;
+    -webkit-text-decoration-color: inherit !important;
+    text-decoration: inherit !important;
+}
+/* Default superscript code */
+sup {
+    -webkit-text-size-adjust: none;
+    vertical-align: text-top .6em;
+    line-height: .6em;
+    font-size: 60%;
+}
+/* Default subscript code */
+sub {
+    -webkit-text-size-adjust: none;
+    vertical-align: text-bottom .9em;
+    line-height: .9em;
+    font-size: 60%;
+}
+.yshortcuts a {
+    border-bottom: none !important;
+}
+/* Renders TH on yahoo */
+.undoreset th {
+    padding: 1px !important;
+}
+/* Extra classes */
+.nowrap {
+    white-space: nowrap !important;
+}
+strong {
+    font-weight: bold;
+}
+em {
+    font-style: italic;
+}
+td, p, span {
+mso-hyphenate: none !important;
+}
+/* STYLES FOR ROUNDED BORDER BUTTONS */
+@media screen and (max-device-width: 600px), screen and (max-width: 600px) {
+  .wrapto100pc {
+      width: 100% !important;
+      height: auto !important;
+  }
+  .nomob_rounded {
+      display: none !important;
+      width: 0px !important;
+      height: 0px !important;
+  }
+}
+u + #body a {
+    color: inherit;
+    text-decoration: none;
+    font-size: inherit;
+    font-family: inherit;
+    font-weight: inherit;
+    line-height: inherit;
+}
+u + #body .nomob_rounded {
+    display: none!important;
+    width: 0px!important;
+    height: 0px!important;
+}
+u + #body .gmailbutton {
+    width: 100% !important;
+}
+
+/* STYLES FOR RESPONSIVE */
+@media only screen and (max-width: 480px) {
+  /* SHOW ON RESPONSIVE */
+  .mobile_show {
+      display: block !important;
+      width: auto !important;
+      overflow: visible !important;
+      float: none !important;
+      max-height: none !important;
+      line-height: normal !important;
+      height: auto !important;
+  }
+  /* HIDE ON RESPONSIVE */
+  .nomob, .hide {
+      display: none !important;
+  }
+  /* RESPONSIVE BACKGROUND IMAGE */
+  .bgAdjust {
+      background-position: top center;
+  }
+  .hide_bgimage {
+      background-image: none !important;
+      height: auto !important;
+      width: 100% !important;
+  }
+  /* ALIGNS OBJECTS ON RESPONSIVE */
+  .center {
+      text-align: center !important;
+  }
+  .left {
+      text-align: left !important;
+  }
+  .right {
+      text-align: right !important;
+  }
+  /* ALIGN BLOCK ELEMENTS ON RESPONSIVE */
+  .margin0 {
+      margin: 0 auto !important;
+  }
+  .margin-left {
+      margin-right: auto;
+      margin-left: 0;
+  }
+  .margin-right {
+      margin-right: 0;
+      margin-left: auto;
+  }
+  /* WRAP & RESIZE ON RESPONSIVE */
+  .wrap {
+      width: 100% !important;
+      height: auto !important;
+      min-width: 100% !important;
+  }
+  .wrap-existing-content {
+      height: auto !important;
+      display: block;
+  }
+  .resize280 {
+      width: 280px !important;
+      height: auto !important;
+  }
+  /* SPLIT COLUMNS ON RESPONSIVE */
+  .colsplit {
+      width: 100% !important;
+      float: inherit !important;
+      display: block !important;
+      background-position: top center !important;
+  }
+  /* STACK IMAGE TOP OR BOTTOM ON RESPONSIVE */
+  th.topstack {
+      display: table-header-group !important;
+  }
+  th.botstack {
+      display: table-footer-group !important;
+  }
+  /* Inlines objects on responsive */
+  .inline {
+      display: inline-block !important;
+  }
+  /* RESPONSIVE PADDING STYLES - 0 or 20 */
+  .pad0 {
+      padding: 0px !important;
+  }
+  .pad0t {
+      padding-top: 0px !important;
+  }
+  .pad0r {
+      padding-right: 0px !important;
+  }
+  .pad0b {
+      padding-bottom: 0px !important;
+  }
+  .pad0l {
+      padding-left: 0px !important;
+  }
+  .pad0rl {
+      padding-right: 0px !important;
+      padding-left: 0px !important;
+  }
+  .pad0tb {
+      padding-top: 0px !important;
+      padding-bottom: 0px !important;
+  }
+  .pad20 {
+      padding: 20px !important;
+  }
+  .pad20t {
+      padding-top: 20px !important;
+  }
+  .pad20r {
+      padding-right: 20px !important;
+  }
+  .pad20b {
+      padding-bottom: 20px !important;
+  }
+  .pad20l {
+      padding-left: 20px !important;
+  }
+  .pad20rl {
+      padding-right: 20px !important;
+      padding-left: 20px !important;
+  }
+  .pad20tb {
+      padding-top: 20px !important;
+      padding-bottom: 20px !important;
+  }
+}
+
+/* REMOVES RIGHT GUTTER IN GMAIL IOS APP */
+@media only screen and (min-device-width: 320px) and (max-device-width: 374px) {
+  /* iPhone 5 and 5S */
+  .email-container {
+      min-width: 320px !important;
+  }
+}
+
+@media only screen and (min-device-width: 375px) and (max-device-width: 413px) {
+/* iPhone 6 and 6+ */
+  .email-container {
+      min-width: 375px !important;
+  }
+}
+
+/* STYLES FOR RESPONSIVE FONT SIZES */
+
+/* MCK-001: Script Mark + Share */
+@media only screen and (max-width: 480px) {
+.pad12b {
+padding-bottom: 12px !important;
+}
+}
+
+
+/* MCK-008: Footer | Logo + Social Icons */
+@media only screen and (max-width: 480px) {
+.pad15l {
+padding-left: 15px !important;
+}
+.pad16b {
+padding-bottom: 16px !important;
+}
+}
+
+
+@media only screen and (max-width: 480px) {
+    td .mobile_h1, td .mobile_h1 span {
+font-size: 36px !important;
+line-height: 120% !important;
+}
+td .mobile_h2, td .mobile_h2 span {
+font-size: 24px !important;
+line-height: 120% !important;
+}
+td .mobile_h3, td .mobile_h3 span {
+font-size: 24px !important;
+line-height: 120% !important;
+}
+td .mobile_h4, td .mobile_h4 span {
+font-size: 20px !important;
+line-height: 120% !important;
+}
+td .mobile_p1, td .mobile_p1 span {
+font-size: 16px !important;
+line-height: 150% !important;
+}
+td .mobile_p2, td .mobile_p2 span {
+font-size: 14px !important;
+line-height: 150% !important;
+}
+td .mobile_p3, td .mobile_p3 span {
+font-size: 12px !important;
+line-height: 150% !important;
+}
+td .mobile_cta, td .mobile_cta span {
+font-size: 16px !important;
+line-height: 150% !important;
+}
+}
+
+@media only screen and (max-width:480px) {
+    [data-personalization_mapping] {
+    position: relative;
+}
+[data-personalization_mapping] .personalization-placeholder-value, [data-personalization_mapping] .personalization-placeholder-value * {
+    color: inherit;
+    font-weight: inherit;
+    background-color: rgba(56, 240, 115, 0.14902);
+}
+[data-personalization_mapping] .personalization-script-value, [data-personalization_mapping] .personalization-styling-el {
+    display: none;
+}
+[data-personalization_mapping] .personalization-tooltip-el {
+    display: none;
+    width: max-content;
+    position: absolute;
+    left: 10%;
+    top: 100%;
+    z-index: 10000;
+    padding: 8px;
+    background: #fff;
+    border-radius: 2px;
+    box-shadow: 0 1px 8px 0 rgba(122, 133, 148, 0.3);
+}
+[data-personalization_mapping] .personalization-tooltip-el .personalization-tooltip-el-row {
+    font-size: 12px;
+    display: block;
+    padding-bottom: 8px;
+    clear: both;
+    line-height: 18px;
+}
+[data-personalization_mapping] .personalization-tooltip-el .personalization-tooltip-el-row .personalization-tooltip-label {
+    color: #7a8594;
+    display: inline;
+    float: left;
+    font-size: 12px !important;
+    line-height: 18px !important;
+}
+[data-personalization_mapping] .personalization-tooltip-el .personalization-tooltip-el-row .personalization-tooltip-friendly-name, [data-personalization_mapping] .personalization-tooltip-el .personalization-tooltip-el-row .personalization-tooltip-default-value {
+    font-weight: 600;
+    color: #333;
+    display: inline;
+    float: left;
+    font-size: 12px !important;
+    line-height: 18px !important;
+}
+[data-personalization_mapping]:hover .personalization-tooltip-el {
+    display: inherit;
+}
+}
+</style>
+<!--[if mso | ie]>
+<style>
+.sup {
+  vertical-align: 1px !important;
+  font-size: 100% !important;
+}
+</style>
+<![endif]-->
+
+<!--[if ie]>
+<style>
+  .sup {
+    vertical-align: 5px !important;
+    font-size: 77% !important;
+  }
+</style>
+<![endif]-->
+
+<!--[if gt mso 15]>
+<style type="text/css" media="all">
+  /* Outlook 2016 Height Fix */
+  .email-container table, 
+  .email-container tr, 
+   .email-container th, 
+   .email-container td {
+       border-collapse: collapse;
+}
+  .email-container tr { 
+     font-size:0px; 
+     line-height:0px; 
+     border-collapse: collapse; 
+}
+th, td {font-size: 16px;}
+</style>
+<![endif]-->
+
+<!--[if gte mso 9]><xml>
+<o:OfficeDocumentSettings>
+  <o:AllowPNG/>
+  <o:PixelsPerInch>96</o:PixelsPerInch>
+</o:OfficeDocumentSettings>
+</xml><![endif]-->
+
+<style id='tinyMceFallBack'>.mce-offscreen-selection { display:none; }</style>
+</head>
+<body id="body"  background="" style="margin:0 !important; padding:0 !important; width: 100% !important; background-color: #FFFFFF; background-size: auto; background-repeat: repeat; " class="body">
+
+	<!--START -- Hidden Preheader -->
+		<!--[if !mso 9]><!-->
+		<div style="display: none !important; font-size: 1px; color: #FFFFFF; line-height: 1px; font-family: Arial,Helvetica,sans-serif; max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden; mso-hide: all;">Dive into these interviews with CEOs&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
+		&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
+		&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
+		&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
+		&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
+		&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
+		&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
+		&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
+		&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;</div>
+		<!--<![endif]-->
+		<!--END -- Hidden Preheader -->
+
+    
+
+   <!--START -- Page Overflow Color Table -->
+<div style="background-color: #FFFFFF;">
+
+<!--[if gte mso 9]>
+	<v:background xmlns:v="urn:schemas-microsoft-com:vml" fill="t">
+	<v:fill type="tile" src="" color="#FFFFFF"/>
+	</v:background>
+	<![endif]-->
+
+    <table role="presentation" height="100%" width="100%" cellpadding="0"  cellspacing="0" border="0" align="center" class="email-container">
+        <tr>
+            <td align="left" background="" style="vertical-align: top; background-size: auto; background-repeat: repeat;" valign="top">
+
+				<!--START -- Email Background Color Table  -->
+
+                <table role="presentation" width="640" border="0" align="center" cellpadding="0" cellspacing="0"  class="wrap">
+                    <tr>
+						<td align="center" data-wrapper>
+
+					    	<!--START Email Size Wrapper Table -->
+
+                            <table role="presentation" width="100%" border="0" align="center" cellpadding="0" cellspacing="0" class="wrap"><tbody><tr><td align="center" style="font-size:14px"><!-- START: Single Bot Click Interceptor Pixel -->
+<a href="https://email.mckinsey.com/T/v710000019f34554030b82e27f4bbcfb648/c2b2445090c145c60000021ef3a0bcc2/c2b24450-90c1-45c6-9d53-05f09dc5a1d7?__dU__=v0G4RBKTXg2GsTlMa8YbE0npiPHb7Gzq29ujr-mrJsl6bcn0E30HNSquNCCrd1XNAz&__F__=v0fUYvjHMDjRPMSh3tviDHXIoXcPxvDgUUCCPvXMWoX_0JoZLAZABQFzGdi2cn1iU7KJEa5whIrwYFLmjwNbDvNYUFCfX81-jKKF7Og39FLdhpZM4ZNQ2HqfoOEskA3iTTt0Dz3knnLqKPt2sG63kYxlvCv-NgS3QXFQGK1UO87aEX3fNv6rNoySYQvw57HzjGRT94InxccQ2duqfnCYq-tlR-iKNF6DLrPMIQqTzq1PPi_mcf0SGvsBEb83BZOVbIkg8ypP4oCrry-IDbgxJxNtNadIVgJiGCBBmvzv91TV8=" target="_blank" style="text-decoration: none; border: 0; outline: none; color: transparent;" tabindex="-1" aria-hidden="true">
+  <img src="https://images.harmony.epsilon.com/ContentHandler/images/35e1ee1d-2112-4462-94ae-fec31727d5ea/z_Operational/spacer_transparent.png" width="1" height="1" alt="" border="0" style="display: block; border: 0; outline: none; text-decoration: none; margin: 0; padding: 0;" />
+</a>
+<!-- END: Single Bot Click Interceptor Pixel -->
+<!-- START: Single Bot Click Interceptor Pixel -->
+<a href="https://email.mckinsey.com/T/v710000019f34554030b82e27f4bbcfb648/c2b2445090c145c60000021ef3a0bcc3/c2b24450-90c1-45c6-9d53-05f09dc5a1d7?__dU__=v0G4RBKTXg2GsTlMa8YbE0npiPHb7Gzq29ujr-mrJsl6bcn0E30HNSquNCCrd1XNAz&__F__=v0fUYvjHMDjRPMSh3tviDHXIoXcPxvDgUUCCPvXMWoX_0JoZLAZABQFzGdi2cn1iU7KJEa5whIrwYFLmjwNbDvNYUFCfX81-jKKF7Og39FLdhpZM4ZNQ2HqfoOEskA3iTTt0Dz3knnLqKPt2sG63kYxlvCv-NgS3QXFQGK1UO87aEX3fNv6rNoySYQvw57HzjGRT94InxccQ2duqfnCYq-tlR-iKNF6DLrPMIQqTzq1POGg25dS7SKVMCf8UxNqVXxgbsZPcrF6zEX5LLRzCIOtj-J4BXk8a06BBmvzv91TV8=" target="_blank" style="text-decoration: none; border: 0; outline: none; color: transparent;" tabindex="-1" aria-hidden="true">
+  <img src="https://images.harmony.epsilon.com/ContentHandler/images/35e1ee1d-2112-4462-94ae-fec31727d5ea/z_Operational/spacer_transparent.png" width="1" height="1" alt="" border="0" style="display: block; border: 0; outline: none; text-decoration: none; margin: 0; padding: 0;" />
+</a>
+<!-- END: Single Bot Click Interceptor Pixel -->
+<!-- START: Single Bot Click Interceptor Pixel -->
+<a href="https://email.mckinsey.com/T/v710000019f34554030b82e27f4bbcfb648/c2b2445090c145c60000021ef3a0bcc4/c2b24450-90c1-45c6-9d53-05f09dc5a1d7?__dU__=v0G4RBKTXg2GsTlMa8YbE0npiPHb7Gzq29ujr-mrJsl6bcn0E30HNSquNCCrd1XNAz&__F__=v0fUYvjHMDjRPMSh3tviDHXIoXcPxvDgUUCCPvXMWoX_0JoZLAZABQFzGdi2cn1iU7KJEa5whIrwYFLmjwNbDvNYUFCfX81-jKKF7Og39FLdhpZM4ZNQ2HqfoOEskA3iTTt0Dz3knnLqKPt2sG63kYxlvCv-NgS3QXFQGK1UO87aEX3fNv6rNoySYQvw57HzjGRT94InxccQ2duqfnCYq-tlR-iKNF6DLrPMIQqTzq1PPZMJGjpcMyeG9p8d3voiTvx9erX3eTomvY0UBoHbFcR7XpVQyidIDmBBmvzv91TV8=" target="_blank" style="text-decoration: none; border: 0; outline: none; color: transparent;" tabindex="-1" aria-hidden="true">
+  <img src="https://images.harmony.epsilon.com/ContentHandler/images/35e1ee1d-2112-4462-94ae-fec31727d5ea/z_Operational/spacer_transparent.png" width="1" height="1" alt="" border="0" style="display: block; border: 0; outline: none; text-decoration: none; margin: 0; padding: 0;" />
+</a>
+<!-- END: Single Bot Click Interceptor Pixel -->
+<!-- START: Single Bot Click Interceptor Pixel -->
+<a href="https://email.mckinsey.com/T/v710000019f34554030b82e27f4bbcfb648/c2b2445090c145c60000021ef3a0bcc5/c2b24450-90c1-45c6-9d53-05f09dc5a1d7?__dU__=v0G4RBKTXg2GsTlMa8YbE0npiPHb7Gzq29ujr-mrJsl6bcn0E30HNSquNCCrd1XNAz&__F__=v0fUYvjHMDjRPMSh3tviDHXIoXcPxvDgUUCCPvXMWoX_0JoZLAZABQFzGdi2cn1iU7KJEa5whIrwYFLmjwNbDvNYUFCfX81-jKKF7Og39FLdhpZM4ZNQ2HqfoOEskA3iTTt0Dz3knnLqKPt2sG63kYxlvCv-NgS3QXFQGK1UO87aEX3fNv6rNoySYQvw57HzjGRT94InxccQ2duqfnCYq-tlR-iKNF6DLrPMIQqTzq1PNOrb9D8ZNpoMFh5v_5JQOY1Mq9kDEIhAqtFBmuFU5vuz4DU_VUTAS7BBmvzv91TV8=" target="_blank" style="text-decoration: none; border: 0; outline: none; color: transparent;" tabindex="-1" aria-hidden="true">
+  <img src="https://images.harmony.epsilon.com/ContentHandler/images/35e1ee1d-2112-4462-94ae-fec31727d5ea/z_Operational/spacer_transparent.png" width="1" height="1" alt="" border="0" style="display: block; border: 0; outline: none; text-decoration: none; margin: 0; padding: 0;" />
+</a>
+<!-- END: Single Bot Click Interceptor Pixel -->
+<!-- START: Single Bot Click Interceptor Pixel -->
+<a href="https://email.mckinsey.com/T/v710000019f34554030b82e27f4bbcfb648/c2b2445090c145c60000021ef3a0bcc6/c2b24450-90c1-45c6-9d53-05f09dc5a1d7?__dU__=v0G4RBKTXg2GsTlMa8YbE0npiPHb7Gzq29ujr-mrJsl6bcn0E30HNSquNCCrd1XNAz&__F__=v0fUYvjHMDjRPMSh3tviDHXIoXcPxvDgUUCCPvXMWoX_0JoZLAZABQFzGdi2cn1iU7KJEa5whIrwYFLmjwNbDvNYUFCfX81-jKKF7Og39FLdhpZM4ZNQ2HqfoOEskA3iTTt0Dz3knnLqKPt2sG63kYxlvCv-NgS3QXFQGK1UO87aEX3fNv6rNoySYQvw57HzjGRT94InxccQ2duqfnCYq-tlR-iKNF6DLrPMIQqTzq1PMlLiHXLZENt1ABn_KxfTx9Icg2MLVgqO-t1HFdJKzcUgRoB2m-wOhdBBmvzv91TV8=" target="_blank" style="text-decoration: none; border: 0; outline: none; color: transparent;" tabindex="-1" aria-hidden="true">
+  <img src="https://images.harmony.epsilon.com/ContentHandler/images/35e1ee1d-2112-4462-94ae-fec31727d5ea/z_Operational/spacer_transparent.png" width="1" height="1" alt="" border="0" style="display: block; border: 0; outline: none; text-decoration: none; margin: 0; padding: 0;" />
+</a>
+<!-- END: Single Bot Click Interceptor Pixel -->
+<!-- START: Single Bot Click Interceptor Pixel -->
+<a href="https://email.mckinsey.com/T/v710000019f34554030b82e27f4bbcfb648/c2b2445090c145c60000021ef3a0bcc7/c2b24450-90c1-45c6-9d53-05f09dc5a1d7?__dU__=v0G4RBKTXg2GsTlMa8YbE0npiPHb7Gzq29ujr-mrJsl6bcn0E30HNSquNCCrd1XNAz&__F__=v0fUYvjHMDjRPMSh3tviDHXIoXcPxvDgUUCCPvXMWoX_0JoZLAZABQFzGdi2cn1iU7KJEa5whIrwYFLmjwNbDvNYUFCfX81-jKKF7Og39FLdhpZM4ZNQ2HqfoOEskA3iTTt0Dz3knnLqKPt2sG63kYxlvCv-NgS3QXFQGK1UO87aEX3fNv6rNoySYQvw57HzjGRT94InxccQ2duqfnCYq-tlR-iKNF6DLrPMIQqTzq1PMfhAZTqtgp5Zor9uHnNaFmlXu8_PAxaCxxELByg87Kn7r_RitR4oC_BBmvzv91TV8=" target="_blank" style="text-decoration: none; border: 0; outline: none; color: transparent;" tabindex="-1" aria-hidden="true">
+  <img src="https://images.harmony.epsilon.com/ContentHandler/images/35e1ee1d-2112-4462-94ae-fec31727d5ea/z_Operational/spacer_transparent.png" width="1" height="1" alt="" border="0" style="display: block; border: 0; outline: none; text-decoration: none; margin: 0; padding: 0;" />
+</a>
+<!-- END: Single Bot Click Interceptor Pixel -->
+<!-- START: Single Bot Click Interceptor Pixel -->
+<a href="https://email.mckinsey.com/T/v710000019f34554030b82e27f4bbcfb648/c2b2445090c145c60000021ef3a0bcc8/c2b24450-90c1-45c6-9d53-05f09dc5a1d7?__dU__=v0G4RBKTXg2GsTlMa8YbE0npiPHb7Gzq29ujr-mrJsl6bcn0E30HNSquNCCrd1XNAz&__F__=v0fUYvjHMDjRPMSh3tviDHXIoXcPxvDgUUCCPvXMWoX_0JoZLAZABQFzGdi2cn1iU7KJEa5whIrwYFLmjwNbDvNYUFCfX81-jKKF7Og39FLdhpZM4ZNQ2HqfoOEskA3iTTt0Dz3knnLqKPt2sG63kYxlvCv-NgS3QXFQGK1UO87aEX3fNv6rNoySYQvw57HzjGRT94InxccQ2duqfnCYq-tlR-iKNF6DLrPMIQqTzq1PPA5Egz3uzkKv8CzxVWbL69ZJhqxgnUdwZ1OUyckSIDGfa78y7CaGVDBBmvzv91TV8=" target="_blank" style="text-decoration: none; border: 0; outline: none; color: transparent;" tabindex="-1" aria-hidden="true">
+  <img src="https://images.harmony.epsilon.com/ContentHandler/images/35e1ee1d-2112-4462-94ae-fec31727d5ea/z_Operational/spacer_transparent.png" width="1" height="1" alt="" border="0" style="display: block; border: 0; outline: none; text-decoration: none; margin: 0; padding: 0;" />
+</a>
+<!-- END: Single Bot Click Interceptor Pixel -->
+<!-- START: Single Bot Click Interceptor Pixel -->
+<a href="https://email.mckinsey.com/T/v710000019f34554030b82e27f4bbcfb648/c2b2445090c145c60000021ef3a0bcc9/c2b24450-90c1-45c6-9d53-05f09dc5a1d7?__dU__=v0G4RBKTXg2GsTlMa8YbE0npiPHb7Gzq29ujr-mrJsl6bcn0E30HNSquNCCrd1XNAz&__F__=v0fUYvjHMDjRPMSh3tviDHXIoXcPxvDgUUCCPvXMWoX_0JoZLAZABQFzGdi2cn1iU7KJEa5whIrwYFLmjwNbDvNYUFCfX81-jKKF7Og39FLdhpZM4ZNQ2HqfoOEskA3iTTt0Dz3knnLqKPt2sG63kYxlvCv-NgS3QXFQGK1UO87aEX3fNv6rNoySYQvw57HzjGRT94InxccQ2duqfnCYq-tlR-iKNF6DLrPMIQqTzq1PMZOhYDA3inr_MdXDO6NtZdeIVgxrm2u-CUubf6tlwA7NM0zcsUNwOQBBmvzv91TV8=" target="_blank" style="text-decoration: none; border: 0; outline: none; color: transparent;" tabindex="-1" aria-hidden="true">
+  <img src="https://images.harmony.epsilon.com/ContentHandler/images/35e1ee1d-2112-4462-94ae-fec31727d5ea/z_Operational/spacer_transparent.png" width="1" height="1" alt="" border="0" style="display: block; border: 0; outline: none; text-decoration: none; margin: 0; padding: 0;" />
+</a>
+<!-- END: Single Bot Click Interceptor Pixel -->
+<!-- START: Single Bot Click Interceptor Pixel -->
+<a href="https://email.mckinsey.com/T/v710000019f34554030b82e27f4bbcfb648/c2b2445090c145c60000021ef3a0bcca/c2b24450-90c1-45c6-9d53-05f09dc5a1d7?__dU__=v0G4RBKTXg2GsTlMa8YbE0npiPHb7Gzq29ujr-mrJsl6bcn0E30HNSquNCCrd1XNAz&__F__=v0fUYvjHMDjRPMSh3tviDHXIoXcPxvDgUUCCPvXMWoX_0JoZLAZABQFzGdi2cn1iU7KJEa5whIrwYFLmjwNbDvNYUFCfX81-jKKF7Og39FLdhpZM4ZNQ2HqfoOEskA3iTTt0Dz3knnLqKPt2sG63kYxlvCv-NgS3QXFQGK1UO87aEX3fNv6rNoySYQvw57HzjGRT94InxccQ2duqfnCYq-tlR-iKNF6DLrPMIQqTzq1POvkXVw0NiQWKky88Ip09CXRSkIjHeeFsMYVeXTQzAz07l9wkFhDxNrBBmvzv91TV8=" target="_blank" style="text-decoration: none; border: 0; outline: none; color: transparent;" tabindex="-1" aria-hidden="true">
+  <img src="https://images.harmony.epsilon.com/ContentHandler/images/35e1ee1d-2112-4462-94ae-fec31727d5ea/z_Operational/spacer_transparent.png" width="1" height="1" alt="" border="0" style="display: block; border: 0; outline: none; text-decoration: none; margin: 0; padding: 0;" />
+</a>
+<!-- END: Single Bot Click Interceptor Pixel -->
+<!-- START: Single Bot Click Interceptor Pixel -->
+<a href="https://email.mckinsey.com/T/v710000019f34554030b82e27f4bbcfb648/c2b2445090c145c60000021ef3a0bccb/c2b24450-90c1-45c6-9d53-05f09dc5a1d7?__dU__=v0G4RBKTXg2GsTlMa8YbE0npiPHb7Gzq29ujr-mrJsl6bcn0E30HNSquNCCrd1XNAz&__F__=v0fUYvjHMDjRPMSh3tviDHXIoXcPxvDgUUCCPvXMWoX_0JoZLAZABQFzGdi2cn1iU7KJEa5whIrwYFLmjwNbDvNYUFCfX81-jKKF7Og39FLdhpZM4ZNQ2HqfoOEskA3iTTt0Dz3knnLqKPt2sG63kYxlvCv-NgS3QXFQGK1UO87aEX3fNv6rNoySYQvw57HzjGRT94InxccQ2duqfnCYq-tlR-iKNF6DLrPMIQqTzq1PNWEfkLemgzuDYDWPcPEtTzELh7mQJQohNwFpD8CaILt_FkO-HId5QcBBmvzv91TV8=" target="_blank" style="text-decoration: none; border: 0; outline: none; color: transparent;" tabindex="-1" aria-hidden="true">
+  <img src="https://images.harmony.epsilon.com/ContentHandler/images/35e1ee1d-2112-4462-94ae-fec31727d5ea/z_Operational/spacer_transparent.png" width="1" height="1" alt="" border="0" style="display: block; border: 0; outline: none; text-decoration: none; margin: 0; padding: 0;" />
+</a>
+<!-- END: Single Bot Click Interceptor Pixel -->
+</td></tr><tr><td><table role="presentation" bgcolor="#FFFFFF" width="640" border="0" align="center" cellpadding="0" cellspacing="0" class="wrap"><tbody><tr><td align="center" style="font-size:14px"><table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody>
+    <tr>
+      <td border="0" style="display: block; margin: 0; padding: 0;">
+<img src='https://email.mckinsey.com/O/v710000019f34554030b82e27f4bbcfb648/c2b2445090c145c600004c5a42963aa1' style="display:none; max-height: 0px; font-size: 0px; overflow: hidden; mso-hide: all"/>      </td>
+    </tr>
+  </tbody>
+</table></td></tr><style data-ignore-inlining="">@media (prefers-color-scheme: dark) { #_t::before {content:url('https://kop3stni.emltrk.com/v2/kop3stni?rd&i=17208988&t=2026-07-05a');}} @media (prefers-color-scheme: light) { #_t::before {content:url('https://kop3stni.emltrk.com/v2/kop3stni?rl&i=17208988&t=2026-07-05a');}} @media print{ #_t {background-image:url('https://kop3stni.emltrk.com/v2/kop3stni?p&i=17208988&t=2026-07-05a');}} div.OutlookMessageHeader {background-image:url('https://kop3stni.emltrk.com/v2/kop3stni?f&i=17208988&t=2026-07-05a')} table.moz-email-headers-table {background-image:url('https://kop3stni.emltrk.com/v2/kop3stni?f&i=17208988&t=2026-07-05a')} blockquote #_t {background-image:url('https://kop3stni.emltrk.com/v2/kop3stni?f&i=17208988&t=2026-07-05a')} #MailContainerBody #_t {background-image:url('https://kop3stni.emltrk.com/v2/kop3stni?f&i=17208988&t=2026-07-05a')}</style><div id="_t"></div>
+<img src="https://kop3stni.emltrk.com/v2/kop3stni?i=17208988&t=2026-07-05a" width="1" height="1" border="0" alt=""></tbody></table></td></tr><tr><td><table role="presentation" bgcolor="#FFFFFF" width="640" border="0" align="center" cellpadding="0" cellspacing="0" class="wrap"><tbody><tr><td bgcolor="#ffffff"><!-- Start MCK-001: Script Mark + Share -->
+<section id="MCK001" layout-row="true"> <div layout-row="true"> <table layout-row="true" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff" class="wrap"> <tbody><tr layout-row="true"> <td><table role="presentation" align="center" width="100%" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> <td align="center" style="vertical-align: top; padding: 18px 20px 17px 20px; background-color: #ffffff;" bgcolor="#ffffff" class="pad20rl pad12b"><table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> <td align="center" valign="top"><table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> <td align="left" valign="middle" style="vertical-align: middle; padding: 0px 0px 0px 0px; font-weight: normal;"><table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> <td align="left" valign="top" data-groupid="mck_logo"><a data-managed-link="mck_logo_link_url" href="https://email.mckinsey.com/homefeed?__hScId__=v710000019f34554030b82e27f4bbcfb648&__hRlId__=c2b2445090c145c60000021ef3a0bccc&__hDId__=c2b24450-90c1-45c6-9d53-05f09dc5a1d7&__hSD__=d3d3Lm1ja2luc2V5LmNvbQ==&cid=mgp_opr-eml-alt-pub-mgp-glb--bundle&hlkid=80587db36c2548bebc8c74d47c144eb3&hctky=17208988&hdpid=c2b24450-90c1-45c6-9d53-05f09dc5a1d7" target="_blank" style="text-decoration: none; outline: none" data-link-id="0f79d981395211efae31f9481b53b633"><img src="https://images.harmony.epsilon.com/ContentHandler/images?id=3471f65a-13c6-4f67-af56-8135371fa1ba" width="146" alt="McKinsey &amp; Company" border="0" style="display: block; margin: 0; padding: 0;"></a></td> </tr> </tbody></table></td> <!--[if mso]><td width="20" bgcolor="#ffffff">&nbsp;</td><![endif]--> <td align="right" valign="middle" style="vertical-align: middle; padding: 0px 0px 0px 0px; font-weight: normal;"><table role="presentation" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> <th align="left" valign="middle" style="padding: 0; font-weight: normal;" class="colsplit"><table border="0" cellspacing="0" cellpadding="0" role="presentation"> <tbody><tr> <td align="left" valign="middle" style="vertical-align: middle; text-align: left; padding: 0px 12px 0px 0px;color: #000001;"><p style="margin:0; color: #000001; font-size: 14px; font-family: Helvetica, Arial, sans-serif; line-height:120% !important;"><strong>Share this email</strong></p></td> </tr> </tbody></table> </th> <!-- START Header - (Share) SOCIAL ICONS Module 2 --> <th align="left" valign="middle" style="padding: 0; font-weight: normal;" class="colsplit"><table border="0" cellspacing="0" cellpadding="0" role="presentation"> <tbody><tr> <td align="left" valign="middle" style="padding: 0px 10px 0px 0px" data-groupid="linked_logo"><a data-managed-link="linked_logo_link_url" href="https://email.mckinsey.com/T/v710000019f34554030b82e27f4bbcfb648/c2b2445090c145c60000021ef3a0bccd/c2b24450-90c1-45c6-9d53-05f09dc5a1d7?__dU__=v0G4RBKTXg2GsTlMa8YbE0npiPHb7Gzq29ujr-mrJsl6bcn0E30HNSquNCCrd1XNAz&__F__=v0fUYvjHMDjRPMSh3tviDHXIoXcPxvDgUUCCPvXMWoX_0JoZLAZABQF0G1259ZAW1Zj_UalJpFN4g0CVYHdqChyFdf-n7pQGfZarYdeOZd03YgNJpyW_c9PymLRIVcStYuZb4GXULe8EAmblgU6OwsE9HtCAdAQqVQDfqDa9VmcDnq6eAKbBlLa0TUb25PNLlafPAjPPSFZfgvHhDXmO3UvW6IwJJOFuXH49jiypoCTdEBpSQMbsmeX282mF2a-evLeluI-Hp91trIN_guH-UTWnY1Ew6dcehPfQLV_Q41snAgj40Qv_mMzdX7Uw4ObUUqK62egPLDnLLEQruT9uVUS9JSi-TU-pnspmk7JDTpUKnnA4huSfLpPz408wrnxQwZBHnHFLFxlev-mfYWg-mOW4PVOinOWBKJNVcfe-lBDNgtgI9tkyn7qtdjdoZ_IjTnw4ow_Sv7iaOT9mbdlcDB2MoTYbM9qoZ-QjuCYfadButlm0S3pIZMU_PCSX5GG-RGXNi4v5hxYHbD-qkUqlsPezRinlBMpMyY5NlUKxQJ4YHWJG0j6hnji7WqzohGtHm4LO8KDZrIwkcYgp-fU2jmh8Yt_Kk6NXtKsuFSNKl_lCuZWAvOIF9leoMzwmcUW-2G6vmr6uxH0iMxRw3VZLM_Ip4t_sjpMUegey-wTZEW_yJvg9YhJVBveYFus900BUkt4NQnf_QTNiBqZMFCxbZUjda1TUHsK5rk" target="_blank" style="text-decoration: none; outline: none; color: #000001" data-link-id="0f79d982395211efae31f9481b53b633"><img src="https://images.harmony.epsilon.com/ContentHandler/images?id=61db3abb-5906-44c8-a258-8ab3de689535" width="32" alt="LinkedIn" border="0" style="display: block; margin: 0; padding: 0;"></a></td> <td align="left" valign="middle" style="padding: 0px 10px 0px 0px" data-groupid="twitter_logo"><a data-managed-link="twitter_logo_link_url" href="https://email.mckinsey.com/T/v710000019f34554030b82e27f4bbcfb648/c2b2445090c145c60000021ef3a0bcce/c2b24450-90c1-45c6-9d53-05f09dc5a1d7?__dU__=v0G4RBKTXg2GsTlMa8YbE0npiPHb7Gzq29ujr-mrJsl6bcn0E30HNSquNCCrd1XNAz&__F__=v0fUYvjHMDjRPMSh3tviDHXIoXcPxvDgUUCCPvXMWoX_3jidK9OmucnGtLvlqQ7V0p7ukgHDW1Qql6OR9UhUHdmdqMN364KPOlJfGXHkbqQ3g-t4YJvb0PKoN3Lobp6q2x_5RpL9_MN770Djn19EbFhAEwtU1_mDN_6hfmF_a-3LYYNH65eyzffYPG3VhMEZfaBS5o8DWw7zWFBQn1_NfoyihezoN_RS3YaWTOGTUNh6n6DhLJAN4k07dA895J5y6i8O4ZTPSdmJRS82CfrE5z_PQbTOLK6KxPP4Tk54YutfFXPCdS6hG99v8z04hh873_gx_plPlR396MEb4YWUxVJ4POCtUlnp-zDI7AC_eDeOasIGoSfLcWFp_3ltOExLFln7nYzm4r6dnWxueictTIrDZ6ttOwaUQ_8qFus0VLX9tKnBhkVIWWkKJ2jq6wzGfMa4vPGo7nO4mCg2rwbQnTrbyc9WCF3_514LEscABi3QOJ3Hlwe4Dk2AwEi_zw2bVL1Sruk0CrdO_egRLMYZi6Pz6FRxQDKUlIz_dnRwjxmlB_Wa51nkk8a-asHCpYXGeJWbVeHxXBw4ec1Qq2aPVri2-R_X-3D-F-TuYnTC-1zsA=" target="_blank" style="text-decoration: none; outline: none; color: #000001" data-link-id="0f79d983395211efae31f9481b53b633"><img src="https://images.harmony.epsilon.com/ContentHandler/images?id=635dc295-1b62-47cc-b9ae-f84b32d8f240" width="32" alt="X" border="0" style="display: block; margin: 0; padding: 0;"></a></td> <td align="left" valign="middle" style="padding: 0px 0px 0px 0px" data-groupid="fb_logo"><a data-managed-link="fb_logo_link_url" href="https://email.mckinsey.com/T/v710000019f34554030b82e27f4bbcfb648/c2b2445090c145c60000021ef3a0bccf/c2b24450-90c1-45c6-9d53-05f09dc5a1d7?__dU__=v0G4RBKTXg2GsTlMa8YbE0npiPHb7Gzq29ujr-mrJsl6bcn0E30HNSquNCCrd1XNAz&__F__=v0fUYvjHMDjRPMSh3tviDHXIoXcPxvDgUUCCPvXMWoX_0JoZLAZABQF9OJQbzKjWJqjvxdDSaKpQYmyKJUlGymgii3yiV0r-WidEmIkYHs36sRHNOgeG3Y3BUzVvZcmxXte8pp_aN5JyNVMw5SQ4O8xGdVmAwYJeOEG-e82kRJvE3I449g_3nWicSbrcqHjlU_pV50-k29g_GWdh8ujlhQzYSFiIix2iuNN5iW_YRM5RCBsynToogowNNYSx5aKHsIBS5o8DWw7zWFBQn1_NfoyihezoN_RS3YaWTOGTUNh6n6DhLJAN4k07dA895J5y6i8O4ZTPSdmJRS82CfrE5z_PQbTOLK6KxPP4Tk54YutfFXPCdS6hG99v8z04hh873_gx_plPlR396VpiRSneBAwOMlvnyBKcHREsdv3pWEXDXkaChg5UcJiaQkMNUlnyqEn7nYzm4r6dnWxueictTIrDZ6ttOwaUQ_8qFus0VLX9tKnBhkVIWWkKJ2jq6wzGfMa4vPGo7nO4mCg2rwbQnTrbyc9WCF3_514LEscABi3QOJ3Hlwe4Dk2AwEi_zw2bVL1Sruk0CrdO_egRLMYZi6Pz6FRxQDKUlIZOjRjfGC2p0elEy5Eue4n6hg9gq6hdm7tlC2v69KVSMXzQ3etrtXnm-R_X-3D-F-TuYnTC-1zsA=" target="_blank" style="text-decoration: none; outline: none; color: #000001" data-link-id="0f79d984395211efae31f9481b53b633"><img src="https://images.harmony.epsilon.com/ContentHandler/images?id=05b3d1f4-748b-4451-be05-2527eafa544d" width="32" alt="Facebook" border="0" style="display: block; margin: 0; padding: 0;"></a></td> </tr> </tbody></table> </th> </tr> </tbody></table></td> </tr> </tbody></table></td> </tr> </tbody></table></td> </tr> </tbody></table> <!-- Border --> <table width="100%" border="0" cellpadding="0" cellspacing="0" class="menu-border_share" style="border:0 none; vertical-align: top"> <tbody><tr> <td height="1" align="left" valign="top" bgcolor="#000000" style="font-size:2px; line-height:0px; padding:0px 0px 0px 0px; vertical-align:top; border: 0; height: 1px; background-color: #000000"><img style="display:block; background-color: #000000" src="https://images.harmony.epsilon.com/ContentHandler/images?id=1b403abf-0497-43e1-bf26-1ca52074a95c" alt="" width="1" height="1" border="0"></td> </tr> </tbody></table> <!-- END Header - (Follow) Module 1 --></td> </tr> </tbody></table> </div> </section>
+<!-- End MCK-001: Script Mark + Share --> </td></tr><tr><td bgcolor="#FFFFFF"><!-- Start 1-000: Spacer --><section id="1000" layout-row="true"><div layout-row="true"><table layout-row="true" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF"> <tbody><tr layout-row="true"> <td> <table role="presentation" width="100%" border="0" cellspacing="0"> <tbody><tr> <td height="16" align="left" valign="top" bgcolor="#FFFFFF" style="line-height: 0px; padding: 0px;"><img src="https://images.harmony.epsilon.com/ContentHandler/images?id=3f67ada7-a01e-4c02-ab71-8b46fd3106ae" height="16" style="display: block; height: 16px" border="0" alt=""></td> </tr> </tbody></table> </td> </tr> </tbody></table> </div> </section> <!-- End 1-000: Spacer --> </td></tr></tbody></table></td></tr><tr><td align="center" style="font-size:14px"><!-- start FULL WIDTH MCK-015: Text + Button -->
+      <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" class="wrap" bgcolor="#FFFFFF">
+        <tbody><tr>
+          <td style="padding: 0px 20px 8px 20px;"> 
+            <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" class="wrap">
+              <tbody><tr>
+                <th align="left" valign="middle" class="colsplit pad20b" style="font-weight: normal; padding-right: 20px;" width="50%">
+									<table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" class="wrap">
+      <tbody><tr>
+                            <td valign="top">
+								<!-- start Eyebrow -->
+                  <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" class="wrap">
+                    <tbody><tr>
+                      <td align="left" valign="top" style="padding: 0px 0px 8px 0px;" class="match pad0rl"><p style="font-size: 14px; mso-line-height-rule: exactly; line-height: 150%; margin: 0px; font-weight: normal; letter-spacing: 0px; text-transform: none; color: #000000; font-family: Helvetica, Arial, sans-serif;" enable-personalization="true" data-richtext="col2_h4_text" data-groupid="col2_h4" class="mobile_match"><a style="color: #000000; text-decoration: none; font-weight: inherit;" href="https://email.mckinsey.com/User-Registration/Thanks-for-confirming-your-interest?__hScId__=v710000019f34554030b82e27f4bbcfb648&__hRlId__=c2b2445090c145c60000021ef3a0bcd0&__hDId__=c2b24450-90c1-45c6-9d53-05f09dc5a1d7&__hSD__=d3d3Lm1ja2luc2V5LmNvbQ==&cid=mgp_opr-eml-alt-pub-mgp-glb--bundle&hlkid=db36de3453124cf49a40ddc11f835b39&hctky=17208988&hdpid=c2b24450-90c1-45c6-9d53-05f09dc5a1d7" target="_blank" rel="noopener"><strong>STILL INTERESTED?</strong></a></p></td>
+                    </tr>
+                  </tbody></table>
+                  <!-- end Eyebrow --> 
+										</td>
+										</tr>
+	<tr>
+											<td valign="top">
+                  <!-- start Call Out -->
+                  <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" class="wrap">
+                    <tbody><tr>
+                      <td align="left" valign="top" style="padding: 0px 0px 0px 0px;" class="match pad0rl"><p style="font-size: 14px; mso-line-height-rule: exactly; line-height: 120%; margin: 0px; font-weight: normal; letter-spacing: 0px; text-transform: none; color: #333333; font-family: Helvetica, Arial, sans-serif;" enable-personalization="true" data-richtext="col2_p1_text" data-groupid="col2_p1" class="mobile_match"><a style="color: #000000; text-decoration: none; font-weight: inherit;" href="https://email.mckinsey.com/User-Registration/Thanks-for-confirming-your-interest?__hScId__=v710000019f34554030b82e27f4bbcfb648&__hRlId__=c2b2445090c145c60000021ef3a0bcd1&__hDId__=c2b24450-90c1-45c6-9d53-05f09dc5a1d7&__hSD__=d3d3Lm1ja2luc2V5LmNvbQ==&cid=mgp_opr-eml-alt-pub-mgp-glb--bundle&hlkid=6434983aa9504d15949294ef459c6c97&hctky=17208988&hdpid=c2b24450-90c1-45c6-9d53-05f09dc5a1d7" target="_blank" rel="noopener"><span style="font-size: 14px; line-height: 120%;">We hope you enjoy hearing from us and want to continue getting the emails you’ve signed up for. Let us know.</span></a></p></td>
+                    </tr>
+                  </tbody></table>
+                  <!-- end Call Out -->
+										</td>
+										</tr>
+									</tbody></table>
+                   </th>
+                <th align="center" valign="middle" class="colsplit center pad20b" style="font-weight: normal; padding: 0px;" width="50%"> <!-- start CTA block -->
+                  
+                  <table role="presentation" class="wrap" width="280" cellspacing="0" cellpadding="0" border="0">
+                    <tbody><tr>
+                      <td valign="top" align="center"> <!-- start BOX CTA -->
+                        
+                        <table role="presentation" border="0" cellspacing="0" cellpadding="0" width="280" class="wrap ">
+                          <tbody><tr>
+                            <td align="center" valign="top" style="background-color: #2251FF"><!-- start CTA text block -->                               <table border="0" cellspacing="0" cellpadding="0" role="presentation" class="wrap">
+                                <tbody><tr>
+                                  <td align="center" valign="middle" class="cta" style="font-weight: normal; letter-spacing: 0px; text-transform: none; padding: 8px 20px;"><span style="color: #ffffff; font-family: Helvetica, Arial, sans-serif; font-size: 14px; mso-line-height-rule: exactly; line-height: 150%" richtext-mode="simple" enable-personalization="true" data-richtext="col1_cta_text" data-groupid="col1_cta"><a style="color: #ffffff; text-decoration: none; font-weight: normal;" href="https://email.mckinsey.com/User-Registration/Thanks-for-confirming-your-interest?__hScId__=v710000019f34554030b82e27f4bbcfb648&__hRlId__=c2b2445090c145c60000021ef3a0bcd2&__hDId__=c2b24450-90c1-45c6-9d53-05f09dc5a1d7&__hSD__=d3d3Lm1ja2luc2V5LmNvbQ==&cid=mgp_opr-eml-alt-pub-mgp-glb--bundle&hlkid=8045caac4b894751b9927b25a16d501c&hctky=17208988&hdpid=c2b24450-90c1-45c6-9d53-05f09dc5a1d7" target="_blank" rel="noopener"><span style="font-size: 16px; line-height: 150%;">Yes, I'm still interested</span></a></span></td>
+                                </tr>
+                              </tbody></table>
+                              <!-- end CTA text block --></td>
+                          </tr>
+                        </tbody></table>
+                        
+                        <!-- end BOX CTA --> </td>
+                    </tr>
+                  </tbody></table>
+                  <!-- end CTA block --> </th>
+              </tr>
+            </tbody></table>
+ </td>
+        </tr>
+      </tbody></table>
+      <!-- end FULL WIDTH MCK-015: Text + Button -->
+<!-- start INSET 1-001 -->
+    <table role="presentation" border="0" cellspacing="0" cellpadding="0" class="wrap" bgcolor="#FFFFFF" width="100%">
+      <tbody><tr>
+        <td align="center" valign="top" style="padding: 1px 20px 36px 20px" class="pad20rl"><table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" class="wrap" bgcolor="#000000">
+            <tbody><tr>
+              <td style="line-height: 1px !important;" align="center" valign="top"><img src="https://images.harmony.epsilon.com/ContentHandler/images?id=3f67ada7-a01e-4c02-ab71-8b46fd3106ae" height="1" style="display: block" border="0" alt=""></td>
+            </tr>
+          </tbody></table></td>
+      </tr>
+    </tbody></table>
+    <!-- end INSET 1-001 --></td></tr><tr><td bgcolor="#FFFFFF"><!-- Start 1-000: Spacer --><section id="1000" layout-row="true"><div layout-row="true"><table layout-row="true" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF"> <tbody><tr layout-row="true"> <td> <table role="presentation" width="100%" border="0" cellspacing="0"> <tbody><tr> <td height="20" align="left" valign="top" bgcolor="#FFFFFF" style="line-height: 0px; padding: 0px;"><img src="https://images.harmony.epsilon.com/ContentHandler/images?id=3f67ada7-a01e-4c02-ab71-8b46fd3106ae" height="20" style="display: block; height: 20px" border="0" alt=""></td> </tr> </tbody></table> </td> </tr> </tbody></table> </div> </section> <!-- End 1-000: Spacer --> </td></tr><tr><td><table role="presentation" bgcolor="#FFFFFF" width="640" border="0" align="center" cellpadding="0" cellspacing="0" class="wrap"><tbody><tr><td align="center" style="font-size:14px"><section id="1008_p1" layout-row="true">
+          <div layout-row="true">
+            <table layout-row="true" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" class="wrap" bgcolor="#FFFFFF">
+              <tbody><tr layout-row="true">
+                <td align="left" valign="top"><table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" class="wrap">
+                    <tbody><tr>
+                      <td align="left" style="padding: 0px 20px 16px 20px" class="pad20rl match"><p style="font-size: 14px; mso-line-height-rule: exactly; line-height: 150%; margin: 0px; font-weight: normal; letter-spacing: 0px; text-transform: none; color: #333333; font-family: Helvetica, Arial, sans-serif" enable-personalization="true" data-richtext="p1_text" data-groupid="p1" class="mobile_match"><span style="font-size: 16px; line-height: 150%;">New from McKinsey &amp; Company </span></p></td>
+                    </tr>
+                  </tbody></table></td>
+              </tr>
+            </tbody></table>
+          </div>
+        </section></td></tr></tbody></table></td></tr><tr><td><table role="presentation" bgcolor="#FFFFFF" width="640" border="0" align="center" cellpadding="0" cellspacing="0" class="wrap"><tbody><tr><td bgcolor="#FFFFFF"><!-- Start 1-005: Headline | H2 --><section id="1005_h2" layout-row="true"><div layout-row="true"><table layout-row="true" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF"> <tbody><tr layout-row="true"> <td valign="top" align="left"> <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" class="wrap"> <tbody><tr> <td align="left" style="padding: 0px 20px 16px 20px" class="pad20rl match"><h2 style="font-size: 14px; mso-line-height-rule: exactly; line-height: 120%; margin: 0px; font-weight: normal; letter-spacing: 0px; text-transform: none; color: #000000; font-family: Georgia, Cambria, Times, Times New Roman, serif" enable-personalization="true" data-richtext="h2_text" data-groupid="h2" class="mobile_match"><a style="color: #000000; text-decoration: none; font-weight: inherit;" href="https://email.mckinsey.com/featured-insights/themes/why-leading-ceos-use-ai-to-strengthen-the-fundamentals?__hScId__=v710000019f34554030b82e27f4bbcfb648&__hRlId__=c2b2445090c145c60000021ef3a0bcd3&__hDId__=c2b24450-90c1-45c6-9d53-05f09dc5a1d7&__hSD__=d3d3Lm1ja2luc2V5LmNvbQ==&cid=mgp_opr-eml-alt-pub-mgp-glb--bundle&hlkid=96c8736a48934e09b50c1fcce4e11ce1&hctky=17208988&hdpid=c2b24450-90c1-45c6-9d53-05f09dc5a1d7" target="_blank" rel="noopener" data-link-id="66071bb0d2dd11ecb4335b6d0acc4209"><span style="font-size: 24px; line-height: 120%;"><strong>﻿Why leading CEOs use AI to strengthen the fundamentals</strong></span></a></h2> </td> </tr> </tbody></table> </td> </tr> </tbody></table> </div> </section> <!-- End 1-005: Headline | H2 --> </td></tr></tbody></table></td></tr><tr><td><table role="presentation" bgcolor="#FFFFFF" width="640" border="0" align="center" cellpadding="0" cellspacing="0" class="wrap"><tbody><tr><td bgcolor="#FFFFFF"><!-- Start 1-009: Paragraph | P2 --><section id="1009" layout-row="true"><div layout-row="true"><table layout-row="true" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF"> <tbody><tr layout-row="true"> <td valign="top" align="left"> <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" class="wrap"> <tbody><tr> <td align="left" style="padding: 0px 20px 16px 20px" class="pad20rl match"><p style="font-size: 14px; mso-line-height-rule: exactly; line-height: 150%; margin: 0px; font-weight: normal; letter-spacing: 0px; text-transform: none; color: #333333; font-family: Helvetica, Arial, sans-serif" enable-personalization="true" data-richtext="p2_text" data-groupid="p2" class="mobile_p1"><span style="font-size: 14px; line-height: 150%;">How do CEOs embrace AI without losing focus on the fundamentals? They use it to strengthen what matters most—from customer trust to operational resilience.&nbsp;&nbsp;<br><br>In conversations with McKinsey Senior Partners <span style="text-decoration: underline; line-height: 150%; color: rgb(34, 81, 255);"><a href="https://email.mckinsey.com/T/v710000019f34554030b82e27f4bbcfb648/c2b2445090c145c60000021ef3a0bcd4/c2b24450-90c1-45c6-9d53-05f09dc5a1d7?__dU__=v0G4RBKTXg2GsTlMa8YbE0npiPHb7Gzq29ujr-mrJsl6bcn0E30HNSquNCCrd1XNAz&__F__=v0fUYvjHMDjRPMSh3tviDHXIoXcPxvDgUUCCPvXMWoX_0JoZLAZABQFzGdi2cn1iU7KJEa5whIrwYtzM-cxLg6GbDitSqfa886hAvQxn2PjE8qYP5S8I6WFrSEWejcKq6kHvQBZg1oZwFdJTh0zTarcVFzT38OD6IKcCFFywzWrRdF1pdRXu1r-MKbJdKUIgZlquUxJcu2I9wAIMI9oQ3yD5z-J0L3uEQV3PFb-uOsfWoWSwY_b8D-Hf0Wz02DQNVAufWiCt6l27EjyUbSi_1CAhTKGdMeGi1WDJCeyGsOhihlYQfNMEGvErK7kikpgg9b9QfkFey1kf_KpPFjwb-tKJqpd4bPt2G3EBvTCM2PaKqDX7zrsD6pHd-nTvJlTlJJGpCzPlo0-vsVAYrVQ7ztoRfd82_qs2jJJhC_DnsfOMZFP3gifFxxDZ26p-cJir62VH6Io0XoMus8whCpPOrU838YraoeTOZYkySSAsET-0v5QEsDGZnTl7BnfhzFJyDQ6j_BP-zgL2Mfc_53mYXeRw==" target="_blank" rel="noopener" style="color: rgb(34, 81, 255); font-weight: inherit; background: none; text-decoration: underline;" data-link-id="9010c32075a411f1b44227f0c520b8ca">Martin Harrysson</a></span> and <span style="text-decoration: underline; line-height: 150%; color: rgb(34, 81, 255);"><a href="https://email.mckinsey.com/T/v710000019f34554030b82e27f4bbcfb648/c2b2445090c145c60000021ef3a0bcd5/c2b24450-90c1-45c6-9d53-05f09dc5a1d7?__dU__=v0G4RBKTXg2GsTlMa8YbE0npiPHb7Gzq29ujr-mrJsl6bcn0E30HNSquNCCrd1XNAz&__F__=v0fUYvjHMDjRPMSh3tviDHXIoXcPxvDgUUCCPvXMWoX_0JoZLAZABQFzGdi2cn1iU7KJEa5whIrwYtzM-cxLg6GZI-kFwHeEwc_1iJsGSVk5MrrZ6A8sOcssRCu5P25VRL0lKL5NT6meymaTskNOlQqecDiG5J8uk_PjTzCufFDBkEeccUsXGV6_6Z9haD6Y5bg9U6Kc5YEok1Vx976UEM2C2Aj22TKfuq12N2hn8iNOfDijD9K_uJo4b2eoOMDb88yJblAe2NbXkaK76kGCAclAnYWB8wumVY7t6h6EbjW69c2Li_mHFgdsP6qRSqWw97NGKeUEykzJjk2VQrFAnhgdYkbSPqGeOLtarOiEa0ebgs7woNmsjCRxiCn59TaOaHxi38qTo1e0qy4VI0qX-UK5lYC84gX2V6gzPCZxRb7Ybq-avq7EfSIzFHDdVksz8ini3-yOkxR6ACKbTjRHygOXBUBqB65Hdd1KP2tp2BLHsOzIayMAiwmZjqhV8jVUg21rVNQewrmuQ=" target="_blank" rel="noopener" style="color: rgb(34, 81, 255); font-weight: inherit; background: none; text-decoration: underline;" data-link-id="9bf83f6075a411f1b44227f0c520b8ca">Gautam Kumra</a></span>, HackerOne CEO Kara Sprague and FairPrice Group’s CEO Vipul Chawla arrive at a similar conclusion: AI creates the most value when it advances the capabilities that underpin long-term performance.&nbsp;&nbsp;<br><br>At HackerOne, that means <span style="text-decoration: underline; line-height: 150%; color: rgb(34, 81, 255);"><a href="https://email.mckinsey.com/capabilities/mckinsey-technology/our-insights/hackerone-ceo-kara-sprague-on-how-ai-is-reshaping-cybersecurity?__hScId__=v710000019f34554030b82e27f4bbcfb648&__hRlId__=c2b2445090c145c60000021ef3a0bcd6&__hDId__=c2b24450-90c1-45c6-9d53-05f09dc5a1d7&__hSD__=d3d3Lm1ja2luc2V5LmNvbQ==&cid=mgp_opr-eml-alt-pub-mgp-glb--bundle&hlkid=5bf588a1075c4639897fc1614f295544&hctky=17208988&hdpid=c2b24450-90c1-45c6-9d53-05f09dc5a1d7" target="_blank" rel="noopener" style="color: rgb(34, 81, 255); font-weight: inherit; background: none; text-decoration: underline;" data-link-id="a91184e075a411f1b44227f0c520b8ca">pairing AI with human expertise</a></span> to reduce cyber risk faster. “AI is taking over the discovery of common, high-volume vulnerabilities, while researchers are increasingly focused on building tools and systems that use AI to find deeper, more complex issues,” Sprague says.&nbsp;<br><br>Reflecting on FairPrice’s mission to <span style="text-decoration: underline; line-height: 150%; color: rgb(34, 81, 255);"><a href="https://email.mckinsey.com/industries/consumer-packaged-goods/our-insights/brilliant-moves-coffee-with-fairprice-groups-vipul-chawla?__hScId__=v710000019f34554030b82e27f4bbcfb648&__hRlId__=c2b2445090c145c60000021ef3a0bcd7&__hDId__=c2b24450-90c1-45c6-9d53-05f09dc5a1d7&__hSD__=d3d3Lm1ja2luc2V5LmNvbQ==&cid=mgp_opr-eml-alt-pub-mgp-glb--bundle&hlkid=c1f6d183571d42d99100a15e40514f2c&hctky=17208988&hdpid=c2b24450-90c1-45c6-9d53-05f09dc5a1d7" target="_blank" rel="noopener" style="color: rgb(34, 81, 255); font-weight: inherit; background: none; text-decoration: underline;" data-link-id="b68b39e075a411f1b44227f0c520b8ca">build a “store of tomorrow,”</a></span> Chawla explains that Singapore’s largest supermarket chain is using AI to enhance the customer experience and make sure the shelves are stocked. “We try to put ourselves in the shoes of the customer to understand their friction points as we design the technology behind the store.”&nbsp; &nbsp;<br><br>Read on for more perspectives from CEOs who are using AI not to redefine their businesses, but to strengthen the capabilities that drive long-term value.</span></p></td> </tr> </tbody></table> </td> </tr> </tbody></table> </div> </section> <!-- End 1-009: Paragraph | P2 --> </td></tr></tbody></table></td></tr><tr><td><table role="presentation" bgcolor="#FFFFFF" width="640" border="0" align="center" cellpadding="0" cellspacing="0" class="wrap"><tbody><tr><td bgcolor="#FFFFFF"><!-- start 1-016: CTA --><section id="1016_cta" layout-row="true"><div layout-row="true"><table layout-row="true" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF"> <tbody><tr layout-row="true"> <td valign="top" align="left"> <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" class="wrap"> <tbody><tr> <td align="left" valign="top"> <!-- Start CTA Table --> <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> <td align="center" valign="top" style="padding: 0px 0px 20px 0px" class="pad20rl"> <!-- Start CTA Block -->  <!-- Start Button CTA --> <table role="presentation" border="0" cellspacing="0" cellpadding="0" width="280" class="wrap">  <tbody><tr>   <td align="center" valign="top" bgcolor="#2251FF"> <!-- Start CTA Text Block --> <table role="presentation" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> <td align="left" valign="top" style="padding: 8px 20px"> <!-- Start Inner CTA --> <table role="presentation" border="0" cellspacing="0" cellpadding="0" width="100%"> <tbody><tr> <td dir="ltr" class="wrap cta" align="center" valign="middle" style="font-weight: normal; letter-spacing: 0px; text-transform: none"><span style="color: #ffffff; font-family: Helvetica, Arial, sans-serif; font-size: 14px; mso-line-height-rule: exactly; line-height: 150%" enable-personalization="true" richtext-mode="simple" data-richtext="cta_text" data-groupid="cta"><a href="https://email.mckinsey.com/featured-insights/themes/why-leading-ceos-use-ai-to-strengthen-the-fundamentals?__hScId__=v710000019f34554030b82e27f4bbcfb648&__hRlId__=c2b2445090c145c60000021ef3a0bcd8&__hDId__=c2b24450-90c1-45c6-9d53-05f09dc5a1d7&__hSD__=d3d3Lm1ja2luc2V5LmNvbQ==&cid=mgp_opr-eml-alt-pub-mgp-glb--bundle&hlkid=0903b89e859245f6abd471b865f95a88&hctky=17208988&hdpid=c2b24450-90c1-45c6-9d53-05f09dc5a1d7" data-managed-link="cta_link_url" target="_blank" style="color: #ffffff; text-decoration: none; font-weight: normal" data-link-id="00af0d1002e211edb919bbadcc0bef42"><span style="font-size: 16px; line-height: 150%;">﻿Read more</span></a></span></td>  </tr> </tbody></table> <!-- End Inner CTA --> </td> </tr> </tbody></table> <!-- End CTA Text Block --> </td>   </tr>  </tbody></table> <!-- End Button CTA -->  <!-- End CTA Block --> </td> </tr> </tbody></table> <!-- End CTA Table --> </td> </tr> </tbody></table> </td> </tr> </tbody></table> </div> </section> <!-- end 1-016: CTA --> </td></tr></tbody></table></td></tr><tr><td bgcolor="#FFFFFF"><!-- Start 1-000: Spacer --><section id="1000" layout-row="true"><div layout-row="true"><table layout-row="true" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF"> <tbody><tr layout-row="true"> <td> <table role="presentation" width="100%" border="0" cellspacing="0"> <tbody><tr> <td height="20" align="left" valign="top" bgcolor="#FFFFFF" style="line-height: 0px; padding: 0px;"><img src="https://images.harmony.epsilon.com/ContentHandler/images?id=3f67ada7-a01e-4c02-ab71-8b46fd3106ae" height="20" style="display: block; height: 20px" border="0" alt=""></td> </tr> </tbody></table> </td> </tr> </tbody></table> </div> </section> <!-- End 1-000: Spacer --> </td></tr><tr><td><table role="presentation" bgcolor="#FFFFFF" width="640" border="0" align="center" cellpadding="0" cellspacing="0" class="wrap"><tbody><tr><td bgcolor="#ffffff"><!-- Start MCK-004: Content | 2|3 -->
+<section id="MCK004" layout-row="true"> <div layout-row="true"> <table layout-row="true" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff" class="wrap"> <tbody><tr layout-row="true"> <td> <table role="presentation" align="center" width="100%" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> <td align="left" valign="top" style="vertical-align: top; padding: 0px 20px 20px 20px; background-color: #ffffff;" bgcolor="#ffffff"> <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" align="center"> <tbody><tr>  <th align="left" valign="top" style="vertical-align: top; padding: 0px; font-weight: normal; width: 170px" class="colsplit topstack" width="170"> <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> <td align="left" valign="top" style="vertical-align: top; padding: 4px 20px 0px 0px;" class="pad0r pad20b" data-groupid="img"><a data-managed-link="img_link_url" href="https://email.mckinsey.com/capabilities/mckinsey-technology/our-insights/hackerone-ceo-kara-sprague-on-how-ai-is-reshaping-cybersecurity?stcr=95CDD2DCABD547B693206D96ABF62F22&__hScId__=v710000019f34554030b82e27f4bbcfb648&__hRlId__=c2b2445090c145c60000021ef3a0bcd9&__hDId__=c2b24450-90c1-45c6-9d53-05f09dc5a1d7&__hSD__=d3d3Lm1ja2luc2V5LmNvbQ==&cid=mgp_opr-eml-alt-pub-mgp-glb--bundle&hlkid=22700afe9f89434ab4298569d4026f86&hctky=17208988&hdpid=c2b24450-90c1-45c6-9d53-05f09dc5a1d7" target="_blank" data-link-id="bf71ff11aba711ec9cd17dc10c697280"><img agilecontent="true" src="https://www.mckinsey.com/~/media/mckinsey/business%20functions/technology/our%20insights/hackerone%20ceo%20kara%20sprague%20on%20how%20ai%20is%20reshaping%20cybersecurity/thumb-kara_sprague-1536x1536.jpg?mw=768&amp;car=16:9" alt="Kara Sprague headshot" width="170" height="auto" style="display: block;" border="0" class="wrap"></a></td> </tr> </tbody></table> </th>  <th align="left" valign="top" style="vertical-align: top; padding: 0px; font-weight: normal;" class="colsplit botstack"> <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> <td align="left" valign="top" style="vertical-align: top; padding: 2px 0px 10px 0px;"> <h4 style="font-size: 14px; mso-line-height-rule: exactly; line-height: 120%; margin: 0px; font-weight: normal; color: #000000; font-family: Helvetica, Arial, sans-serif;" enable-personalization="true" data-richtext="headline_text" data-groupid="headline" class="mobile_h4"><a style="color: #000000; text-decoration: none; font-weight: inherit;" href="https://email.mckinsey.com/capabilities/mckinsey-technology/our-insights/hackerone-ceo-kara-sprague-on-how-ai-is-reshaping-cybersecurity?stcr=95CDD2DCABD547B693206D96ABF62F22&__hScId__=v710000019f34554030b82e27f4bbcfb648&__hRlId__=c2b2445090c145c60000021ef3a0bcda&__hDId__=c2b24450-90c1-45c6-9d53-05f09dc5a1d7&__hSD__=d3d3Lm1ja2luc2V5LmNvbQ==&cid=mgp_opr-eml-alt-pub-mgp-glb--bundle&hlkid=971ff4a0c2d74489a65782e4b9ec4a29&hctky=17208988&hdpid=c2b24450-90c1-45c6-9d53-05f09dc5a1d7" target="_blank" rel="noopener" data-link-id="bf71ff12aba711ec9cd17dc10c697280"><span style="font-size: 18px; line-height: 120%;"><strong>HackerOne CEO Kara Sprague on how AI is reshaping cybersecurity</strong></span></a></h4> </td> </tr> <tr> <td align="left" valign="top" style="vertical-align: top; padding: 0px 0px 10px 0px;"> <p style="font-size: 14px; mso-line-height-rule: exactly; line-height: 150%; margin: 0px; font-weight: normal; letter-spacing: 0px; text-transform: none; color: #333333; font-family: Helvetica, Arial, sans-serif;" enable-personalization="true" data-richtext="col1_p1_text" data-groupid="col1_p1" class="mobile_p1"><span style="font-size: 14px; line-height: 150%;">HackerOne CEO Kara Sprague discusses how AI is reshaping the cybersecurity landscape and why security teams must shift from finding vulnerabilities to reducing exposure.</span></p> </td> </tr>  <tr> <td align="left" valign="top" style="vertical-align: top; padding: 0px 0px 0px 0px;"> <p style="font-size: 14px; mso-line-height-rule: exactly; line-height: 150%; margin: 0px; font-weight: normal; letter-spacing: 0px; text-transform: none; color: #333333; font-family: Helvetica, Arial, sans-serif;" enable-personalization="true" data-richtext="text_link_text" data-groupid="text_link" class="mobile_p1"><a style="color: #333333; text-decoration: none; font-weight: inherit;" href="https://email.mckinsey.com/capabilities/mckinsey-technology/our-insights/hackerone-ceo-kara-sprague-on-how-ai-is-reshaping-cybersecurity?stcr=95CDD2DCABD547B693206D96ABF62F22&__hScId__=v710000019f34554030b82e27f4bbcfb648&__hRlId__=c2b2445090c145c60000021ef3a0bcdb&__hDId__=c2b24450-90c1-45c6-9d53-05f09dc5a1d7&__hSD__=d3d3Lm1ja2luc2V5LmNvbQ==&cid=mgp_opr-eml-alt-pub-mgp-glb--bundle&hlkid=a8a7b2984620410d8ff9bc8837c19370&hctky=17208988&hdpid=c2b24450-90c1-45c6-9d53-05f09dc5a1d7" target="_blank" rel="noopener" data-link-id="9e903dc0af8f11ec8d855901c367ffa1"><strong><span style="font-size: 14px; line-height: 150%;">Accelerate your security response&nbsp;</span><img style="font-size: 2px; color: #000000; line-height: 0px; margin: 0;" src="https://images.harmony.epsilon.com/ContentHandler/images?id=cd761513-936e-4a05-8196-6fb668e6a87c" alt="" width="20" border="0" data-mce-src="https://images.harmony.epsilon.com/ContentHandler/images?id=cd761513-936e-4a05-8196-6fb668e6a87c"></strong></a></p> </td> </tr>   </tbody></table> </th>  </tr> </tbody></table> </td> </tr> </tbody></table> </td> </tr> </tbody></table> </div> </section>
+<!-- End MCK-004: Content | 2|3 --> </td></tr></tbody></table></td></tr><tr><td bgcolor="#FFFFFF"><!-- Start 1-000: Spacer --><section id="1000" layout-row="true"><div layout-row="true"><table layout-row="true" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF"> <tbody><tr layout-row="true"> <td> <table role="presentation" width="100%" border="0" cellspacing="0"> <tbody><tr> <td height="20" align="left" valign="top" bgcolor="#FFFFFF" style="line-height: 0px; padding: 0px;"><img src="https://images.harmony.epsilon.com/ContentHandler/images?id=3f67ada7-a01e-4c02-ab71-8b46fd3106ae" height="20" style="display: block; height: 20px" border="0" alt=""></td> </tr> </tbody></table> </td> </tr> </tbody></table> </div> </section> <!-- End 1-000: Spacer --> </td></tr><tr><td><table role="presentation" bgcolor="#FFFFFF" width="640" border="0" align="center" cellpadding="0" cellspacing="0" class="wrap"><tbody><tr><td bgcolor="#ffffff"><!-- Start MCK-004: Content | 2|3 -->
+<section id="MCK004" layout-row="true"> <div layout-row="true"> <table layout-row="true" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff" class="wrap"> <tbody><tr layout-row="true"> <td> <table role="presentation" align="center" width="100%" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> <td align="left" valign="top" style="vertical-align: top; padding: 0px 20px 20px 20px; background-color: #ffffff;" bgcolor="#ffffff"> <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" align="center"> <tbody><tr>  <th align="left" valign="top" style="vertical-align: top; padding: 0px; font-weight: normal; width: 170px" class="colsplit topstack" width="170"> <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> <td align="left" valign="top" style="vertical-align: top; padding: 4px 20px 0px 0px;" class="pad0r pad20b" data-groupid="img"><a data-managed-link="img_link_url" href="https://email.mckinsey.com/industries/consumer-packaged-goods/our-insights/brilliant-moves-coffee-with-fairprice-groups-vipul-chawla?stcr=364BC8DD399C46B9990E7F30A38F3E10&__hScId__=v710000019f34554030b82e27f4bbcfb648&__hRlId__=c2b2445090c145c60000021ef3a0bcdc&__hDId__=c2b24450-90c1-45c6-9d53-05f09dc5a1d7&__hSD__=d3d3Lm1ja2luc2V5LmNvbQ==&cid=mgp_opr-eml-alt-pub-mgp-glb--bundle&hlkid=1ff378ee50824b518996e894e3fae3df&hctky=17208988&hdpid=c2b24450-90c1-45c6-9d53-05f09dc5a1d7" target="_blank" data-link-id="d6115131aba711ec9cd17dc10c697280"><img agilecontent="true" src="https://www.mckinsey.com/~/media/mckinsey/industries/consumer%20packaged%20goods/our%20insights/brilliant%20moves%20coffee%20with%20fairprice%20groups%20vipul%20chawla/brilliant-moves_ceo-fairprice_page-thumb_1536x1536.jpg?mw=768&amp;car=16:9" alt="Vipul Chawla in a blue suit and glasses sits in a warmly lit store or café setting, smiling slightly, with shelves and lights blurred behind." width="170" height="auto" style="display: block;" border="0" class="wrap"></a></td> </tr> </tbody></table> </th>  <th align="left" valign="top" style="vertical-align: top; padding: 0px; font-weight: normal;" class="colsplit botstack"> <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> <td align="left" valign="top" style="vertical-align: top; padding: 2px 0px 10px 0px;"> <h4 style="font-size: 14px; mso-line-height-rule: exactly; line-height: 120%; margin: 0px; font-weight: normal; color: #000000; font-family: Helvetica, Arial, sans-serif;" enable-personalization="true" data-richtext="headline_text" data-groupid="headline" class="mobile_h4"><a style="color: #000000; text-decoration: none; font-weight: inherit;" href="https://email.mckinsey.com/industries/consumer-packaged-goods/our-insights/brilliant-moves-coffee-with-fairprice-groups-vipul-chawla?stcr=364BC8DD399C46B9990E7F30A38F3E10&__hScId__=v710000019f34554030b82e27f4bbcfb648&__hRlId__=c2b2445090c145c60000021ef3a0bcdd&__hDId__=c2b24450-90c1-45c6-9d53-05f09dc5a1d7&__hSD__=d3d3Lm1ja2luc2V5LmNvbQ==&cid=mgp_opr-eml-alt-pub-mgp-glb--bundle&hlkid=9437b648dd7d44f0a1c273158d350155&hctky=17208988&hdpid=c2b24450-90c1-45c6-9d53-05f09dc5a1d7" target="_blank" rel="noopener" data-link-id="bbfaa060af7d11ecb6b325899cb0fecc"><strong><span style="font-size: 18px; line-height: 120%;">Brilliant Moves: Coffee with FairPrice Group’s Vipul Chawla</span></strong></a></h4> </td> </tr> <tr> <td align="left" valign="top" style="vertical-align: top; padding: 0px 0px 10px 0px;"> <p style="font-size: 14px; mso-line-height-rule: exactly; line-height: 150%; margin: 0px; font-weight: normal; letter-spacing: 0px; text-transform: none; color: #333333; font-family: Helvetica, Arial, sans-serif;" enable-personalization="true" data-richtext="col1_p1_text" data-groupid="col1_p1" class="mobile_p1"><span style="font-size: 14px; line-height: 150%;">FairPrice Group’s Vipul Chawla chats with McKinsey’s Gautam Kumra about using AI to remove friction from shopping, navigating supply chain shocks, and balancing innovation with the mission to keep daily essentials affordable.</span></p> </td> </tr>  <tr> <td align="left" valign="top" style="vertical-align: top; padding: 0px 0px 0px 0px;"> <p style="font-size: 14px; mso-line-height-rule: exactly; line-height: 150%; margin: 0px; font-weight: normal; letter-spacing: 0px; text-transform: none; color: #333333; font-family: Helvetica, Arial, sans-serif;" enable-personalization="true" data-richtext="text_link_text" data-groupid="text_link" class="mobile_p1"><strong><a style="color: #333333; text-decoration: none; font-weight: inherit;" href="https://email.mckinsey.com/industries/consumer-packaged-goods/our-insights/brilliant-moves-coffee-with-fairprice-groups-vipul-chawla?stcr=364BC8DD399C46B9990E7F30A38F3E10&__hScId__=v710000019f34554030b82e27f4bbcfb648&__hRlId__=c2b2445090c145c60000021ef3a0bcde&__hDId__=c2b24450-90c1-45c6-9d53-05f09dc5a1d7&__hSD__=d3d3Lm1ja2luc2V5LmNvbQ==&cid=mgp_opr-eml-alt-pub-mgp-glb--bundle&hlkid=d5f3c6296c40499f853e6a7472365a04&hctky=17208988&hdpid=c2b24450-90c1-45c6-9d53-05f09dc5a1d7" target="_blank" rel="noopener" data-link-id="d22537b0af7d11ecb6b325899cb0fecc"><span style="font-size: 14px; line-height: 150%;"><span style="line-height: 150%;">Join the conversation</span>&nbsp;</span><span style="line-height: 150%;"><img style="font-size: 2px; color: #000000; line-height: 0px; margin: 0;" src="https://images.harmony.epsilon.com/ContentHandler/images?id=cd761513-936e-4a05-8196-6fb668e6a87c" alt="" width="20" border="0" data-mce-src="https://images.harmony.epsilon.com/ContentHandler/images?id=cd761513-936e-4a05-8196-6fb668e6a87c"></span></a></strong></p> </td> </tr>   </tbody></table> </th>  </tr> </tbody></table> </td> </tr> </tbody></table> </td> </tr> </tbody></table> </div> </section>
+<!-- End MCK-004: Content | 2|3 --> </td></tr></tbody></table></td></tr><tr><td bgcolor="#FFFFFF"><!-- Start 1-000: Spacer --><section id="1000" layout-row="true"><div layout-row="true"><table layout-row="true" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF"> <tbody><tr layout-row="true"> <td> <table role="presentation" width="100%" border="0" cellspacing="0"> <tbody><tr> <td height="20" align="left" valign="top" bgcolor="#FFFFFF" style="line-height: 0px; padding: 0px;"><img src="https://images.harmony.epsilon.com/ContentHandler/images?id=3f67ada7-a01e-4c02-ab71-8b46fd3106ae" height="20" style="display: block; height: 20px" border="0" alt=""></td> </tr> </tbody></table> </td> </tr> </tbody></table> </div> </section> <!-- End 1-000: Spacer --> </td></tr><tr><td><table role="presentation" bgcolor="#FFFFFF" width="640" border="0" align="center" cellpadding="0" cellspacing="0" class="wrap"><tbody><tr><td bgcolor="#ffffff"><!-- Start MCK-004: Content | 2|3 -->
+<section id="MCK004" layout-row="true"> <div layout-row="true"> <table layout-row="true" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff" class="wrap"> <tbody><tr layout-row="true"> <td> <table role="presentation" align="center" width="100%" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> <td align="left" valign="top" style="vertical-align: top; padding: 0px 20px 20px 20px; background-color: #ffffff;" bgcolor="#ffffff"> <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" align="center"> <tbody><tr>  <th align="left" valign="top" style="vertical-align: top; padding: 0px; font-weight: normal; width: 170px" class="colsplit topstack" width="170"> <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> <td align="left" valign="top" style="vertical-align: top; padding: 4px 20px 0px 0px;" class="pad0r pad20b" data-groupid="img"><a data-managed-link="img_link_url" href="https://email.mckinsey.com/industries/healthcare/our-insights/leslie-davis-on-serving-communities-as-both-payer-and-provider?stcr=0378EA59E0F64464832D98FC5023701A&__hScId__=v710000019f34554030b82e27f4bbcfb648&__hRlId__=c2b2445090c145c60000021ef3a0bcdf&__hDId__=c2b24450-90c1-45c6-9d53-05f09dc5a1d7&__hSD__=d3d3Lm1ja2luc2V5LmNvbQ==&cid=mgp_opr-eml-alt-pub-mgp-glb--bundle&hlkid=65a4b5b2174648a0a6f3662a9030926a&hctky=17208988&hdpid=c2b24450-90c1-45c6-9d53-05f09dc5a1d7" target="_blank" data-link-id="da117cb1aba711ec9cd17dc10c697280"><img agilecontent="true" src="https://www.mckinsey.com/~/media/mckinsey/industries/healthcare%20systems%20and%20services/our%20insights/leslie%20davis%20on%20serving%20communities%20as%20both%20payer%20and%20provider/leslie-davis_thumb-1536x1536.jpg?mw=768&amp;car=16:9" alt="Leslie Davis wearing a blue jacket, arms folded, warmly smiling." width="170" height="auto" style="display: block;" border="0" class="wrap"></a></td> </tr> </tbody></table> </th>  <th align="left" valign="top" style="vertical-align: top; padding: 0px; font-weight: normal;" class="colsplit botstack"> <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> <td align="left" valign="top" style="vertical-align: top; padding: 2px 0px 10px 0px;"> <h4 style="font-size: 14px; mso-line-height-rule: exactly; line-height: 120%; margin: 0px; font-weight: normal; color: #000000; font-family: Helvetica, Arial, sans-serif;" enable-personalization="true" data-richtext="headline_text" data-groupid="headline" class="mobile_h4"><strong><a style="color: #000000; text-decoration: none; font-weight: inherit;" href="https://email.mckinsey.com/industries/healthcare/our-insights/leslie-davis-on-serving-communities-as-both-payer-and-provider?stcr=0378EA59E0F64464832D98FC5023701A&__hScId__=v710000019f34554030b82e27f4bbcfb648&__hRlId__=c2b2445090c145c60000021ef3a0bce0&__hDId__=c2b24450-90c1-45c6-9d53-05f09dc5a1d7&__hSD__=d3d3Lm1ja2luc2V5LmNvbQ==&cid=mgp_opr-eml-alt-pub-mgp-glb--bundle&hlkid=f2f68bc776314008865b8966ac369fbd&hctky=17208988&hdpid=c2b24450-90c1-45c6-9d53-05f09dc5a1d7" target="_blank" rel="noopener" data-link-id="64d1e4a0af7e11ecb6b325899cb0fecc"><span style="font-size: 18px; line-height: 120%;">Leslie Davis on serving communities as both payer and provider</span></a></strong></h4> </td> </tr> <tr> <td align="left" valign="top" style="vertical-align: top; padding: 0px 0px 10px 0px;"> <p style="font-size: 14px; mso-line-height-rule: exactly; line-height: 150%; margin: 0px; font-weight: normal; letter-spacing: 0px; text-transform: none; color: #333333; font-family: Helvetica, Arial, sans-serif;" enable-personalization="true" data-richtext="col1_p1_text" data-groupid="col1_p1" class="mobile_p1"><span style="font-size: 14px; line-height: 150%;">Leslie Davis, president and CEO of UPMC, discusses the organization’s “payvider” model and how its emphasis on innovation has helped UPMC deliver better, more affordable care.</span></p> </td> </tr>  <tr> <td align="left" valign="top" style="vertical-align: top; padding: 0px 0px 0px 0px;"> <p style="font-size: 14px; mso-line-height-rule: exactly; line-height: 150%; margin: 0px; font-weight: normal; letter-spacing: 0px; text-transform: none; color: #333333; font-family: Helvetica, Arial, sans-serif;" enable-personalization="true" data-richtext="text_link_text" data-groupid="text_link" class="mobile_p1"><strong><a style="color: #333333; text-decoration: none; font-weight: inherit;" href="https://email.mckinsey.com/industries/healthcare/our-insights/leslie-davis-on-serving-communities-as-both-payer-and-provider?stcr=0378EA59E0F64464832D98FC5023701A&__hScId__=v710000019f34554030b82e27f4bbcfb648&__hRlId__=c2b2445090c145c60000021ef3a0bce1&__hDId__=c2b24450-90c1-45c6-9d53-05f09dc5a1d7&__hSD__=d3d3Lm1ja2luc2V5LmNvbQ==&cid=mgp_opr-eml-alt-pub-mgp-glb--bundle&hlkid=0bcc3105a41342e5b6b82e1993b7fe73&hctky=17208988&hdpid=c2b24450-90c1-45c6-9d53-05f09dc5a1d7" target="_blank" rel="noopener" data-link-id="da117cb4aba711ec9cd17dc10c697280"><span style="font-size: 14px; line-height: 150%;">Discover innovative care solutions&nbsp;</span><img style="font-size: 2px; color: #000000; line-height: 0px; margin: 0;" src="https://images.harmony.epsilon.com/ContentHandler/images?id=cd761513-936e-4a05-8196-6fb668e6a87c" alt="" width="20" border="0" data-mce-src="https://images.harmony.epsilon.com/ContentHandler/images?id=cd761513-936e-4a05-8196-6fb668e6a87c"></a></strong></p> </td> </tr>   </tbody></table> </th>  </tr> </tbody></table> </td> </tr> </tbody></table> </td> </tr> </tbody></table> </div> </section>
+<!-- End MCK-004: Content | 2|3 --> </td></tr></tbody></table></td></tr><tr><td bgcolor="#FFFFFF"><!-- Start 1-000: Spacer --><section id="1000" layout-row="true"><div layout-row="true"><table layout-row="true" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF"> <tbody><tr layout-row="true"> <td> <table role="presentation" width="100%" border="0" cellspacing="0"> <tbody><tr> <td height="20" align="left" valign="top" bgcolor="#FFFFFF" style="line-height: 0px; padding: 0px;"><img src="https://images.harmony.epsilon.com/ContentHandler/images?id=3f67ada7-a01e-4c02-ab71-8b46fd3106ae" height="20" style="display: block; height: 20px" border="0" alt=""></td> </tr> </tbody></table> </td> </tr> </tbody></table> </div> </section> <!-- End 1-000: Spacer --> </td></tr><tr><td><table role="presentation" bgcolor="#FFFFFF" width="640" border="0" align="center" cellpadding="0" cellspacing="0" class="wrap"><tbody><tr><td bgcolor="#ffffff"><!-- Start MCK-004: Content | 2|3 -->
+<section id="MCK004" layout-row="true"> <div layout-row="true"> <table layout-row="true" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff" class="wrap"> <tbody><tr layout-row="true"> <td> <table role="presentation" align="center" width="100%" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> <td align="left" valign="top" style="vertical-align: top; padding: 0px 20px 20px 20px; background-color: #ffffff;" bgcolor="#ffffff"> <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" align="center"> <tbody><tr>  <th align="left" valign="top" style="vertical-align: top; padding: 0px; font-weight: normal; width: 170px" class="colsplit topstack" width="170"> <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> <td align="left" valign="top" style="vertical-align: top; padding: 4px 20px 0px 0px;" class="pad0r pad20b" data-groupid="img"><a data-managed-link="img_link_url" href="https://email.mckinsey.com/featured-insights/leadership/what-it-takes-to-become-and-remain-an-effective-ceo?stcr=974A5EA0FD7E413AB8EDE25C86BBFF0B&__hScId__=v710000019f34554030b82e27f4bbcfb648&__hRlId__=c2b2445090c145c60000021ef3a0bce2&__hDId__=c2b24450-90c1-45c6-9d53-05f09dc5a1d7&__hSD__=d3d3Lm1ja2luc2V5LmNvbQ==&cid=mgp_opr-eml-alt-pub-mgp-glb--bundle&hlkid=2b97237a097e47008eaac659e19b9cc8&hctky=17208988&hdpid=c2b24450-90c1-45c6-9d53-05f09dc5a1d7" target="_blank" data-link-id="e1af4151aba711ec9cd17dc10c697280"><img agilecontent="true" src="https://www.mckinsey.com/~/media/mckinsey/featured%20insights/leadership/what%20it%20takes%20to%20become%20and%20remain%20an%20effective%20ceo/what-it-takes-to-become-and-remain-an-effective-1536x1536.jpg?mw=768&amp;car=16:9" alt="Businessman walks along a long, winding road holding an umbrella." width="170" height="auto" style="display: block;" border="0" class="wrap"></a></td> </tr> </tbody></table> </th>  <th align="left" valign="top" style="vertical-align: top; padding: 0px; font-weight: normal;" class="colsplit botstack"> <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> <td align="left" valign="top" style="vertical-align: top; padding: 2px 0px 10px 0px;"> <h4 style="font-size: 14px; mso-line-height-rule: exactly; line-height: 120%; margin: 0px; font-weight: normal; color: #000000; font-family: Helvetica, Arial, sans-serif;" enable-personalization="true" data-richtext="headline_text" data-groupid="headline" class="mobile_h4"><a style="color: #000000; text-decoration: none; font-weight: inherit;" href="https://email.mckinsey.com/featured-insights/leadership/what-it-takes-to-become-and-remain-an-effective-ceo?stcr=974A5EA0FD7E413AB8EDE25C86BBFF0B&__hScId__=v710000019f34554030b82e27f4bbcfb648&__hRlId__=c2b2445090c145c60000021ef3a0bce3&__hDId__=c2b24450-90c1-45c6-9d53-05f09dc5a1d7&__hSD__=d3d3Lm1ja2luc2V5LmNvbQ==&cid=mgp_opr-eml-alt-pub-mgp-glb--bundle&hlkid=e9751dc89e944f88bfbcf35a86e7d8b8&hctky=17208988&hdpid=c2b24450-90c1-45c6-9d53-05f09dc5a1d7" target="_blank" rel="noopener" data-link-id="30c5f5b0af7f11ecb6b325899cb0fecc"><strong><span style="font-size: 18px; line-height: 120%;">What it takes to become—and remain—an effective CEO</span></strong></a></h4> </td> </tr> <tr> <td align="left" valign="top" style="vertical-align: top; padding: 0px 0px 10px 0px;"> <p style="font-size: 14px; mso-line-height-rule: exactly; line-height: 150%; margin: 0px; font-weight: normal; letter-spacing: 0px; text-transform: none; color: #333333; font-family: Helvetica, Arial, sans-serif;" enable-personalization="true" data-richtext="col1_p1_text" data-groupid="col1_p1" class="mobile_p1"><span style="font-size: 14px; line-height: 150%;">Between the first 90 days and the last, here’s how leaders can successfully manage people, products, processes, and themselves.</span></p> </td> </tr>  <tr> <td align="left" valign="top" style="vertical-align: top; padding: 0px 0px 0px 0px;"> <p style="font-size: 14px; mso-line-height-rule: exactly; line-height: 150%; margin: 0px; font-weight: normal; letter-spacing: 0px; text-transform: none; color: #333333; font-family: Helvetica, Arial, sans-serif;" enable-personalization="true" data-richtext="text_link_text" data-groupid="text_link" class="mobile_p1"><strong><a style="color: #333333; text-decoration: none; font-weight: inherit;" href="https://email.mckinsey.com/featured-insights/leadership/what-it-takes-to-become-and-remain-an-effective-ceo?stcr=974A5EA0FD7E413AB8EDE25C86BBFF0B&__hScId__=v710000019f34554030b82e27f4bbcfb648&__hRlId__=c2b2445090c145c60000021ef3a0bce4&__hDId__=c2b24450-90c1-45c6-9d53-05f09dc5a1d7&__hSD__=d3d3Lm1ja2luc2V5LmNvbQ==&cid=mgp_opr-eml-alt-pub-mgp-glb--bundle&hlkid=9982eedecc2b4e7db15635d5d7953249&hctky=17208988&hdpid=c2b24450-90c1-45c6-9d53-05f09dc5a1d7" target="_blank" rel="noopener" data-link-id="46af6550af7f11ecb6b325899cb0fecc"><span style="font-size: 14px; line-height: 150%;"><span style="line-height: 150%;">Lead with impact</span>&nbsp;</span><span style="line-height: 150%;"><img style="font-size: 2px; color: #000000; line-height: 0px; margin: 0;" src="https://images.harmony.epsilon.com/ContentHandler/images?id=cd761513-936e-4a05-8196-6fb668e6a87c" alt="" width="20" border="0" data-mce-src="https://images.harmony.epsilon.com/ContentHandler/images?id=cd761513-936e-4a05-8196-6fb668e6a87c"></span></a></strong></p> </td> </tr>   </tbody></table> </th>  </tr> </tbody></table> </td> </tr> </tbody></table> </td> </tr> </tbody></table> </div> </section>
+<!-- End MCK-004: Content | 2|3 --> </td></tr></tbody></table></td></tr><tr><td bgcolor="#FFFFFF"><!-- Start 1-000: Spacer --><section id="1000" layout-row="true"><div layout-row="true"><table layout-row="true" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF"> <tbody><tr layout-row="true"> <td> <table role="presentation" width="100%" border="0" cellspacing="0"> <tbody><tr> <td height="20" align="left" valign="top" bgcolor="#FFFFFF" style="line-height: 0px; padding: 0px;"><img src="https://images.harmony.epsilon.com/ContentHandler/images?id=3f67ada7-a01e-4c02-ab71-8b46fd3106ae" height="20" style="display: block; height: 20px" border="0" alt=""></td> </tr> </tbody></table> </td> </tr> </tbody></table> </div> </section> <!-- End 1-000: Spacer --> </td></tr><tr><td><table role="presentation" bgcolor="#FFFFFF" width="640" border="0" align="center" cellpadding="0" cellspacing="0" class="wrap"><tbody><tr><td bgcolor="#ffffff"><!-- Start MCK-004: Content | 2|3 -->
+<section id="MCK004" layout-row="true"> <div layout-row="true"> <table layout-row="true" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff" class="wrap"> <tbody><tr layout-row="true"> <td> <table role="presentation" align="center" width="100%" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> <td align="left" valign="top" style="vertical-align: top; padding: 0px 20px 20px 20px; background-color: #ffffff;" bgcolor="#ffffff"> <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" align="center"> <tbody><tr>  <th align="left" valign="top" style="vertical-align: top; padding: 0px; font-weight: normal; width: 170px" class="colsplit topstack" width="170"> <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> <td align="left" valign="top" style="vertical-align: top; padding: 4px 20px 0px 0px;" class="pad0r pad20b" data-groupid="img"><a data-managed-link="img_link_url" href="https://email.mckinsey.com/mgi/our-research/how-ceos-can-navigate-the-new-era-of-trade?stcr=A8C5D42103774BF9900476ADC4E6CD39&__hScId__=v710000019f34554030b82e27f4bbcfb648&__hRlId__=c2b2445090c145c60000021ef3a0bce5&__hDId__=c2b24450-90c1-45c6-9d53-05f09dc5a1d7&__hSD__=d3d3Lm1ja2luc2V5LmNvbQ==&cid=mgp_opr-eml-alt-pub-mgp-glb--bundle&hlkid=fc8c55e0b67b40949d24dcdf8c6b48ff&hctky=17208988&hdpid=c2b24450-90c1-45c6-9d53-05f09dc5a1d7" target="_blank" data-link-id="e5e37521aba711ec9cd17dc10c697280"><img agilecontent="true" src="https://www.mckinsey.com/~/media/mckinsey/mckinsey%20global%20institute/our%20research/how%20ceos%20can%20navigate%20the%20new%20era%20of%20trade/how-ceos-can-navigate-trade-podcast-2256610572-thumb-1536x1536.jpg?mw=768&amp;car=16:9" alt="An abstract image of 3d geometric blocks forming a geographic type shape in a wavy dynamic pattern." width="170" height="auto" style="display: block;" border="0" class="wrap"></a></td> </tr> </tbody></table> </th>  <th align="left" valign="top" style="vertical-align: top; padding: 0px; font-weight: normal;" class="colsplit botstack"> <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> <td align="left" valign="top" style="vertical-align: top; padding: 2px 0px 10px 0px;"> <h4 style="font-size: 14px; mso-line-height-rule: exactly; line-height: 120%; margin: 0px; font-weight: normal; color: #000000; font-family: Helvetica, Arial, sans-serif;" enable-personalization="true" data-richtext="headline_text" data-groupid="headline" class="mobile_h4"><a style="color: #000000; text-decoration: none; font-weight: inherit;" href="https://email.mckinsey.com/mgi/our-research/how-ceos-can-navigate-the-new-era-of-trade?stcr=A8C5D42103774BF9900476ADC4E6CD39&__hScId__=v710000019f34554030b82e27f4bbcfb648&__hRlId__=c2b2445090c145c60000021ef3a0bce6&__hDId__=c2b24450-90c1-45c6-9d53-05f09dc5a1d7&__hSD__=d3d3Lm1ja2luc2V5LmNvbQ==&cid=mgp_opr-eml-alt-pub-mgp-glb--bundle&hlkid=480e225d567e4c6b99e4b69decabbe34&hctky=17208988&hdpid=c2b24450-90c1-45c6-9d53-05f09dc5a1d7" target="_blank" rel="noopener" data-link-id="e5e37522aba711ec9cd17dc10c697280"><span style="font-size: 18px; line-height: 120%;"><strong>How CEOs can navigate the new era of trade</strong></span></a></h4> </td> </tr> <tr> <td align="left" valign="top" style="vertical-align: top; padding: 0px 0px 10px 0px;"> <p style="font-size: 14px; mso-line-height-rule: exactly; line-height: 150%; margin: 0px; font-weight: normal; letter-spacing: 0px; text-transform: none; color: #333333; font-family: Helvetica, Arial, sans-serif;" enable-personalization="true" data-richtext="col1_p1_text" data-groupid="col1_p1" class="mobile_p1"><span style="font-size: 14px; line-height: 150%;">AI, geopolitical realignment, and shifting capital flows are redrawing trade corridors and reshaping competitive advantage—forcing leaders to rethink where and how they grow.</span></p> </td> </tr>  <tr> <td align="left" valign="top" style="vertical-align: top; padding: 0px 0px 0px 0px;"> <p style="font-size: 14px; mso-line-height-rule: exactly; line-height: 150%; margin: 0px; font-weight: normal; letter-spacing: 0px; text-transform: none; color: #333333; font-family: Helvetica, Arial, sans-serif;" enable-personalization="true" data-richtext="text_link_text" data-groupid="text_link" class="mobile_p1"><strong><a style="color: #333333; text-decoration: none; font-weight: inherit;" href="https://email.mckinsey.com/mgi/our-research/how-ceos-can-navigate-the-new-era-of-trade?stcr=A8C5D42103774BF9900476ADC4E6CD39&__hScId__=v710000019f34554030b82e27f4bbcfb648&__hRlId__=c2b2445090c145c60000021ef3a0bce7&__hDId__=c2b24450-90c1-45c6-9d53-05f09dc5a1d7&__hSD__=d3d3Lm1ja2luc2V5LmNvbQ==&cid=mgp_opr-eml-alt-pub-mgp-glb--bundle&hlkid=aede7f7d0a314372a9faa74a5ed2f1b2&hctky=17208988&hdpid=c2b24450-90c1-45c6-9d53-05f09dc5a1d7" target="_blank" rel="noopener" data-link-id="99f265f0af7f11ecb6b325899cb0fecc"><span style="font-size: 14px; line-height: 150%;"><span style="line-height: 150%;">Reimagine your global strategy</span>&nbsp;</span><span style="line-height: 150%;"><img style="font-size: 2px; color: #000000; line-height: 0px; margin: 0;" src="https://images.harmony.epsilon.com/ContentHandler/images?id=cd761513-936e-4a05-8196-6fb668e6a87c" alt="" width="20" border="0" data-mce-src="https://images.harmony.epsilon.com/ContentHandler/images?id=cd761513-936e-4a05-8196-6fb668e6a87c"></span></a></strong></p> </td> </tr>   </tbody></table> </th>  </tr> </tbody></table> </td> </tr> </tbody></table> </td> </tr> </tbody></table> </div> </section>
+<!-- End MCK-004: Content | 2|3 --> </td></tr></tbody></table></td></tr><tr><td bgcolor="#FFFFFF"><!-- Start 1-000: Spacer --><section id="1000" layout-row="true"><div layout-row="true"><table layout-row="true" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF"> <tbody><tr layout-row="true"> <td> <table role="presentation" width="100%" border="0" cellspacing="0"> <tbody><tr> <td height="20" align="left" valign="top" bgcolor="#FFFFFF" style="line-height: 0px; padding: 0px;"><img src="https://images.harmony.epsilon.com/ContentHandler/images?id=3f67ada7-a01e-4c02-ab71-8b46fd3106ae" height="20" style="display: block; height: 20px" border="0" alt=""></td> </tr> </tbody></table> </td> </tr> </tbody></table> </div> </section> <!-- End 1-000: Spacer --> </td></tr><tr><td><table role="presentation" bgcolor="#FFFFFF" width="640" border="0" align="center" cellpadding="0" cellspacing="0" class="wrap"><tbody><tr><td bgcolor="#ffffff"><!-- Start MCK-004: Content | 2|3 -->
+<section id="MCK004" layout-row="true"> <div layout-row="true"> <table layout-row="true" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff" class="wrap"> <tbody><tr layout-row="true"> <td> <table role="presentation" align="center" width="100%" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> <td align="left" valign="top" style="vertical-align: top; padding: 0px 20px 20px 20px; background-color: #ffffff;" bgcolor="#ffffff"> <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" align="center"> <tbody><tr>  <th align="left" valign="top" style="vertical-align: top; padding: 0px; font-weight: normal; width: 170px" class="colsplit topstack" width="170"> <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> <td align="left" valign="top" style="vertical-align: top; padding: 4px 20px 0px 0px;" class="pad0r pad20b" data-groupid="img"><a data-managed-link="img_link_url" href="https://email.mckinsey.com/capabilities/mckinsey-technology/our-insights/resolve-ai-ceo-spiros-xanthos-ais-impact-on-software-production-systems?stcr=2150A2866A684CBEB221A121FC3BB9F0&__hScId__=v710000019f34554030b82e27f4bbcfb648&__hRlId__=c2b2445090c145c60000021ef3a0bce8&__hDId__=c2b24450-90c1-45c6-9d53-05f09dc5a1d7&__hSD__=d3d3Lm1ja2luc2V5LmNvbQ==&cid=mgp_opr-eml-alt-pub-mgp-glb--bundle&hlkid=5116a4497cf54a9fa51d574c7c5fd5ae&hctky=17208988&hdpid=c2b24450-90c1-45c6-9d53-05f09dc5a1d7" target="_blank" data-link-id="ed0fb341aba711ec9cd17dc10c697280"><img agilecontent="true" src="https://www.mckinsey.com/~/media/mckinsey/business%20functions/technology/our%20insights/resolve%20ai%20ceo%20spiros%20xanthos%20ais%20impact%20on%20software%20production%20systems/resolve%20ai%20ceo%20spiros%20xanthos-thumb-1536x1536.jpg?mw=768&amp;car=16:9" alt="Portrait of Resolve AI CEO Spiros Xanthos" width="170" height="auto" style="display: block;" border="0" class="wrap"></a></td> </tr> </tbody></table> </th>  <th align="left" valign="top" style="vertical-align: top; padding: 0px; font-weight: normal;" class="colsplit botstack"> <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> <td align="left" valign="top" style="vertical-align: top; padding: 2px 0px 10px 0px;"> <h4 style="font-size: 14px; mso-line-height-rule: exactly; line-height: 120%; margin: 0px; font-weight: normal; color: #000000; font-family: Helvetica, Arial, sans-serif;" enable-personalization="true" data-richtext="headline_text" data-groupid="headline" class="mobile_h4"><a style="color: #000000; text-decoration: none; font-weight: inherit;" href="https://email.mckinsey.com/capabilities/mckinsey-technology/our-insights/resolve-ai-ceo-spiros-xanthos-ais-impact-on-software-production-systems?stcr=2150A2866A684CBEB221A121FC3BB9F0&__hScId__=v710000019f34554030b82e27f4bbcfb648&__hRlId__=c2b2445090c145c60000021ef3a0bce9&__hDId__=c2b24450-90c1-45c6-9d53-05f09dc5a1d7&__hSD__=d3d3Lm1ja2luc2V5LmNvbQ==&cid=mgp_opr-eml-alt-pub-mgp-glb--bundle&hlkid=0b9e5ad77ab1466594107ed076a4a649&hctky=17208988&hdpid=c2b24450-90c1-45c6-9d53-05f09dc5a1d7" target="_blank" rel="noopener" data-link-id="d1f36760af7f11ecb6b325899cb0fecc"><strong><span style="font-size: 18px; line-height: 120%;">Resolve AI CEO Spiros Xanthos: AI’s impact on software production systems</span></strong></a></h4> </td> </tr> <tr> <td align="left" valign="top" style="vertical-align: top; padding: 0px 0px 10px 0px;"> <p style="font-size: 14px; mso-line-height-rule: exactly; line-height: 150%; margin: 0px; font-weight: normal; letter-spacing: 0px; text-transform: none; color: #333333; font-family: Helvetica, Arial, sans-serif;" enable-personalization="true" data-richtext="col1_p1_text" data-groupid="col1_p1" class="mobile_p1"><span style="font-size: 14px; line-height: 150%;">Automating software’s deployment, production, and monitoring systems has been challenging. Resolve AI’s CEO explains how AI could improve reliability, pace, and workload.</span></p> </td> </tr>  <tr> <td align="left" valign="top" style="vertical-align: top; padding: 0px 0px 0px 0px;"> <p style="font-size: 14px; mso-line-height-rule: exactly; line-height: 150%; margin: 0px; font-weight: normal; letter-spacing: 0px; text-transform: none; color: #333333; font-family: Helvetica, Arial, sans-serif;" enable-personalization="true" data-richtext="text_link_text" data-groupid="text_link" class="mobile_p1"><strong><a style="color: #333333; text-decoration: none; font-weight: inherit;" href="https://email.mckinsey.com/capabilities/mckinsey-technology/our-insights/resolve-ai-ceo-spiros-xanthos-ais-impact-on-software-production-systems?stcr=2150A2866A684CBEB221A121FC3BB9F0&__hScId__=v710000019f34554030b82e27f4bbcfb648&__hRlId__=c2b2445090c145c60000021ef3a0bcea&__hDId__=c2b24450-90c1-45c6-9d53-05f09dc5a1d7&__hSD__=d3d3Lm1ja2luc2V5LmNvbQ==&cid=mgp_opr-eml-alt-pub-mgp-glb--bundle&hlkid=4695c5bf7ba548528c1f5666afd39e2f&hctky=17208988&hdpid=c2b24450-90c1-45c6-9d53-05f09dc5a1d7" target="_blank" rel="noopener" data-link-id="e9269510af7f11ecb6b325899cb0fecc"><span style="font-size: 14px; line-height: 150%;"><span style="line-height: 150%;">Discover AI-driven reliability solutions</span>&nbsp;</span><span style="line-height: 150%;"><img style="font-size: 2px; color: #000000; line-height: 0px; margin: 0;" src="https://images.harmony.epsilon.com/ContentHandler/images?id=cd761513-936e-4a05-8196-6fb668e6a87c" alt="" width="20" border="0" data-mce-src="https://images.harmony.epsilon.com/ContentHandler/images?id=cd761513-936e-4a05-8196-6fb668e6a87c"></span></a></strong></p> </td> </tr>   </tbody></table> </th>  </tr> </tbody></table> </td> </tr> </tbody></table> </td> </tr> </tbody></table> </div> </section>
+<!-- End MCK-004: Content | 2|3 --> </td></tr></tbody></table></td></tr><tr><td bgcolor="#FFFFFF"><!-- Start 1-000: Spacer --><section id="1000" layout-row="true"><div layout-row="true"><table layout-row="true" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF"> <tbody><tr layout-row="true"> <td> <table role="presentation" width="100%" border="0" cellspacing="0"> <tbody><tr> <td height="20" align="left" valign="top" bgcolor="#FFFFFF" style="line-height: 0px; padding: 0px;"><img src="https://images.harmony.epsilon.com/ContentHandler/images?id=3f67ada7-a01e-4c02-ab71-8b46fd3106ae" height="20" style="display: block; height: 20px" border="0" alt=""></td> </tr> </tbody></table> </td> </tr> </tbody></table> </div> </section> <!-- End 1-000: Spacer --> </td></tr><tr><td><table role="presentation" bgcolor="#FFFFFF" width="640" border="0" align="center" cellpadding="0" cellspacing="0" class="wrap"><tbody><tr><td bgcolor="#FFFFFF"><!-- Start 1-009: Paragraph | P2 --><section id="1009" layout-row="true"><div layout-row="true"><table layout-row="true" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF"> <tbody><tr layout-row="true"> <td valign="top" align="left"> <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" class="wrap"> <tbody><tr> <td align="left" style="padding: 0px 20px 16px 20px" class="pad20rl match"><p style="font-size: 14px; mso-line-height-rule: exactly; line-height: 150%; margin: 0px; font-weight: normal; letter-spacing: 0px; text-transform: none; color: #333333; font-family: Helvetica, Arial, sans-serif" enable-personalization="true" data-richtext="p2_text" data-groupid="p2" class="mobile_p1">To see more essential reading on topics that matter, visit <a style="color: #333333; text-decoration: none; font-weight: inherit;" href="https://email.mckinsey.com/featured-insights/collections?__hScId__=v710000019f34554030b82e27f4bbcfb648&__hRlId__=c2b2445090c145c60000021ef3a0bceb&__hDId__=c2b24450-90c1-45c6-9d53-05f09dc5a1d7&__hSD__=d3d3Lm1ja2luc2V5LmNvbQ==&cid=mgp_opr-eml-alt-pub-mgp-glb--bundle&hlkid=709847de6c6746b3b1df5fe4eadb82a4&hctky=17208988&hdpid=c2b24450-90c1-45c6-9d53-05f09dc5a1d7" target="_blank" rel="noopener" data-link-id="ea2e8f300eb611edbc3bfb1989f0ab1d"><span style="text-decoration: underline;"><span style="color: #2251ff; text-decoration: underline; line-height: 150%;">McKinsey Themes</span></span></a><span style="line-height: 150%;"><span style="color: #2251ff; line-height: 150%;">.</span></span></p></td> </tr> </tbody></table> </td> </tr> </tbody></table> </div> </section> <!-- End 1-009: Paragraph | P2 --> </td></tr></tbody></table></td></tr><tr><td bgcolor="#FFFFFF"><!-- Start 1-000: Spacer --><section id="1000" layout-row="true"><div layout-row="true"><table layout-row="true" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF"> <tbody><tr layout-row="true"> <td> <table role="presentation" width="100%" border="0" cellspacing="0"> <tbody><tr> <td height="20" align="left" valign="top" bgcolor="#FFFFFF" style="line-height: 0px; padding: 0px;"><img src="https://images.harmony.epsilon.com/ContentHandler/images?id=3f67ada7-a01e-4c02-ab71-8b46fd3106ae" height="20" style="display: block; height: 20px" border="0" alt=""></td> </tr> </tbody></table> </td> </tr> </tbody></table> </div> </section> <!-- End 1-000: Spacer --> </td></tr><tr><td><table role="presentation" bgcolor="#FFFFFF" width="640" border="0" align="center" cellpadding="0" cellspacing="0" class="wrap"><tbody><tr><td bgcolor="#FFFFFF"><!-- Start 1-008: Paragraph | P1 --><section id="1008_p1" layout-row="true"><div layout-row="true"><table layout-row="true" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF"> <tbody><tr layout-row="true"> <td valign="top" align="left"> <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" class="wrap"> <tbody><tr> <td align="right" style="padding: 0px 20px 36px 20px" class="pad20rl match"><p style="font-size: 14px; mso-line-height-rule: exactly; line-height: 150%; margin: 0px; font-weight: normal; letter-spacing: 0px; text-transform: none; color: #333333; font-family: Helvetica, Arial, sans-serif" enable-personalization="true" data-richtext="p1_text" data-groupid="p1" class="mobile_match"><em><span style="font-size: 16px; color: #636363; line-height: 150%;"><span style="color: rgb(117, 117, 117); line-height: 150%;">—Edited by Nadia Wynter, editor, Washington, DC</span></span></em></p></td> </tr> </tbody></table> </td> </tr> </tbody></table> </div> </section> <!-- End 1-008: Paragraph | P1 --> </td></tr></tbody></table></td></tr><tr><td><table role="presentation" bgcolor="#FFFFFF" width="640" border="0" align="center" cellpadding="0" cellspacing="0" class="wrap"><tbody><tr><td bgcolor="#FFFFFF"><!-- Start 1-001: Divider -->
+<section id="1001_divider" layout-row="true"> <div layout-row="true"> <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" layout-row="true" bgcolor="#FFFFFF"> <tbody><tr layout-row="true"> <td align="center" valign="top" class="pad20rl"> <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" class="wrap"> <tbody><tr> <td align="center" valign="top" style="padding: 0px 20px 20px 20px" class="pad20rl"> <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#000000" class="wrap"> <tbody><tr> <td style="line-height: 1px !important" align="center" valign="top"><img src="https://images.harmony.epsilon.com/ContentHandler/images?id=3f67ada7-a01e-4c02-ab71-8b46fd3106ae" height="1" style="display: block" border="0" alt=""></td> </tr> </tbody></table></td> </tr> </tbody></table></td> </tr> </tbody></table> </div> </section>
+<!-- End 1-001: Divider --> </td></tr><tr><td bgcolor="#ffffff"><!-- Start MCK-008: Footer | Logo + Social Icons -->
+<section id="MCK008" layout-row="true"> <div layout-row="true"> <table layout-row="true" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff" class="wrap"> <tbody><tr layout-row="true"> <td><table role="presentation" align="center" width="100%" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> <td align="center" style="vertical-align: top; padding: 0px 20px 20px 15px; background-color: #ffffff;" bgcolor="#ffffff" class="pad20r pad15l"><table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> <td align="center" valign="top"><table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> <th align="left" valign="middle" style="vertical-align: middle; padding: 0px; font-weight: normal; width: 245px" width="245" class="colsplit"> <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> <td align="left" valign="top" class="pad16b" data-groupid="mck_logo"><a href="https://email.mckinsey.com/homefeed?__hScId__=v710000019f34554030b82e27f4bbcfb648&__hRlId__=c2b2445090c145c60000021ef3a0bcec&__hDId__=c2b24450-90c1-45c6-9d53-05f09dc5a1d7&__hSD__=d3d3Lm1ja2luc2V5LmNvbQ==&cid=mgp_opr-eml-alt-pub-mgp-glb--bundle&hlkid=cd6847d1a0c349ffbdf8e1ec78bdfb46&hctky=17208988&hdpid=c2b24450-90c1-45c6-9d53-05f09dc5a1d7" target="_blank" style="text-decoration: none;" data-managed-link="mck_logo_link_url" data-link-id="976397c0a3d911ecbdc86f280b15f1c8"><img src="https://images.harmony.epsilon.com/ContentHandler/images?id=3471f65a-13c6-4f67-af56-8135371fa1ba" width="146" alt="McKinsey &amp; Company" border="0" style="display: block; margin: 0; padding: 0;"></a></td> </tr> </tbody></table> </th> <th align="right" valign="middle" style="vertical-align: middle; padding: 0px; font-weight: normal;" class="colsplit left"> <table role="presentation" border="0" cellspacing="0" cellpadding="0" class="wrap"> <tbody><tr> <td align="left" valign="middle" style="vertical-align: middle; text-align: left; padding: 0px 12px 0px 0px"><p style="font-size: 14px; mso-line-height-rule: exactly; line-height: 120%; margin: 0px; font-weight: normal; letter-spacing: 0px; text-transform: none; color: #000000; font-family: Helvetica, Arial, sans-serif;" enable-personalization="true" data-richtext="follow_text" data-groupid="follow" class="mobile_match"><a style="color: #000000; text-decoration: none; font-weight: inherit;" href="https://email.mckinsey.com/T/v710000019f34554030b82e27f4bbcfb648/c2b2445090c145c60000021ef3a0bced/c2b24450-90c1-45c6-9d53-05f09dc5a1d7?__dU__=v0G4RBKTXg2GsTlMa8YbE0npiPHb7Gzq29ujr-mrJsl6bcn0E30HNSquNCCrd1XNAz" target="_blank" rel="noopener" data-link-id="b13254c0d17411ecbe8c0fc7ab484278"><span style="font-size: 14px; line-height: 120% !important;"><strong>Follow our thinking</strong></span></a></p></td> <td align="right" valign="top"><table role="presentation" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> <td align="left" valign="middle" style="padding: 0px 10px 0px 0px" data-groupid="linked_logo"><a data-managed-link="linked_logo_link_url" href="https://email.mckinsey.com/T/v710000019f34554030b82e27f4bbcfb648/c2b2445090c145c60000021ef3a0bcee/c2b24450-90c1-45c6-9d53-05f09dc5a1d7?__dU__=v0G4RBKTXg2GsTlMa8YbE0npiPHb7Gzq29ujr-mrJsl6bcn0E30HNSquNCCrd1XNAz&__F__=v0fUYvjHMDjRPMSh3tviDHXIoXcPxvDgUUCCPvXMWoX_0JoZLAZABQF0G1259ZAW1Zj_UalJpFN4gjYScUNORveqqWdlNB49cPBS5o8DWw7zWFBQn1_NfoyihezoN_RS3YaWTOGTUNh6n6DhLJAN4k07dA895J5y6i8O4ZTPSdmJRS82CfrE5z_PQbTOLK6KxPP4Tk54YutfFXPCdS6hG99v8z04hh873_gx_plPlR39547n7q6d_1Av74OgiGWOUPU_lteNNc7mRmvrskt33vCJrQpTWHl3Vmn7nYzm4r6dnWxueictTIrDZ6ttOwaUQ_8qFus0VLX9tKnBhkVIWWkKJ2jq6wzGfMa4vPGo7nO4mCg2rwbQnTrbyc9WCF3_514LEscABi3QOJ3Hlwe4Dk2AwEi_zw2bVL1Sruk0CrdO_egRLMYZi6Pz6FRxQDKUlIUIMiwQfucR1DgKI09LL8EC08_i0ujrMfy_5uI4KasJUYxDpFvvtmFm-R_X-3D-F-TuYnTC-1zsA=" target="_blank" style="text-decoration: none; outline: none; color: #000001" data-link-id="976397c1a3d911ecbdc86f280b15f1c8"><img src="https://images.harmony.epsilon.com/ContentHandler/images?id=61db3abb-5906-44c8-a258-8ab3de689535" width="32" alt="LinkedIn" border="0" style="display: block; margin: 0; padding: 0;"></a></td> <td align="left" valign="middle" style="padding: 0px 10px 0px 0px" data-groupid="twitter_logo"><a data-managed-link="twitter_logo_link_url" href="https://email.mckinsey.com/T/v710000019f34554030b82e27f4bbcfb648/c2b2445090c145c60000021ef3a0bcef/c2b24450-90c1-45c6-9d53-05f09dc5a1d7?__dU__=v0G4RBKTXg2GsTlMa8YbE0npiPHb7Gzq29ujr-mrJsl6bcn0E30HNSquNCCrd1XNAz&__F__=v0fUYvjHMDjRPMSh3tviDHXIoXcPxvDgUUCCPvXMWoX_1P8SSwvgaM7Bj1wKVct32A076AqyU2wgVXHYwfm4TdSLSEWejcKq6kHvQBZg1oZwFdJTh0zTarcVFzT38OD6IKcCFFywzWrRdF1pdRXu1r-MKbJdKUIgZlquUxJcu2I9wAIMI9oQ3yD5z-J0L3uEQV3PFb-uOsfWoWSwY_b8D-HabJLnyumH5-bC4zT3PAeaNEuzDBPfXO3-8CFXFxGI4fxRXgrV1OkABlYQfNMEGvErK7kikpgg9b9QfkFey1kf_KpPFjwb-tKJqpd4bPt2G3EBvTCM2PaKqDX7zrsD6pHd-nTvJlTlJJGpCzPlo0-vsVAYrVQ7ztoRfd82_qs2jJJhC_DnsfOMZFP3gifFxxDZ26p-cJir62VH6Io0XoMus8whCpPOrU8w22vVUvQu_W7GSSSyt7KXlyz8T0N-PvoEBayUhfS9zCGgat9xUlocgfc_53mYXeRw==" target="_blank" style="text-decoration: none; outline: none; color: #000001" data-link-id="976397c2a3d911ecbdc86f280b15f1c8"><img src="https://images.harmony.epsilon.com/ContentHandler/images?id=635dc295-1b62-47cc-b9ae-f84b32d8f240" width="32" alt="X" border="0" style="display: block; margin: 0; padding: 0;"></a></td> <td align="left" valign="middle" style="padding: 0px" data-groupid="fb_logo"><a data-managed-link="fb_logo_link_url" href="https://email.mckinsey.com/T/v710000019f34554030b82e27f4bbcfb648/c2b2445090c145c60000021ef3a0bcf0/c2b24450-90c1-45c6-9d53-05f09dc5a1d7?__dU__=v0G4RBKTXg2GsTlMa8YbE0npiPHb7Gzq29ujr-mrJsl6bcn0E30HNSquNCCrd1XNAz&__F__=v0fUYvjHMDjRPMSh3tviDHXIoXcPxvDgUUCCPvXMWoX_0JoZLAZABQF9OJQbzKjWJqjvxdDSaKpQaqlnZTQePXDwUuaPA1sO81hQUJ9fzX6MooXs6Df0Ut2Glkzhk1DYep-g4SyQDeJNO3QPPeSecuovDuGUz0nZiUUvNgn6xOc_z0G0ziyuisTz-E5OeGLrXxVzwnUuoRvfb_M9OIYfO9_4Mf6ZT5Ud_eHLhnbhXd0LWs0sDNRMgLK8YGa8D9fsX7Vm8KxfbdnbIgrRqVb9_j1J-52M5uK-nZ1sbnonLUyKw2erbTsGlEP_KhbrNFS1_bSpwYZFSFlpCido6usMxnzGuLzxqO5zuJgoNq8G0J0628nPVghd_-deCxLHAAYt0Didx5cHuA5NgMBIv88Nm1S9Uq7pNAq3Tv3oESzGGYuj8-hUcUAylJSC_uku2qgK9CpxbJRR3erEmpoZLm7QPlqwXFoh7ABAe0kVvUnKJu-SVvkf1_tw_hfk7mJ0wvtc7A" target="_blank" style="text-decoration: none; outline: none; color: #000001" data-link-id="976397c3a3d911ecbdc86f280b15f1c8"><img src="https://images.harmony.epsilon.com/ContentHandler/images?id=05b3d1f4-748b-4451-be05-2527eafa544d" width="32" alt="Facebook" border="0" style="display: block; margin: 0; padding: 0;"> </a></td> </tr> </tbody></table></td> </tr> </tbody></table> </th> </tr> </tbody></table></td> </tr> </tbody></table></td> </tr> </tbody></table></td> </tr> </tbody></table> </div> </section>
+<!-- End MCK-008: Footer | Logo + Social Icons --> </td></tr></tbody></table></td></tr><tr><td><table role="presentation" bgcolor="#FFFFFF" width="640" border="0" align="center" cellpadding="0" cellspacing="0" class="wrap"><tbody><tr><td bgcolor="#FFFFFF"><!-- Start 1-001: Divider -->
+<section id="1001_divider" layout-row="true"> <div layout-row="true"> <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" layout-row="true" bgcolor="#FFFFFF"> <tbody><tr layout-row="true"> <td align="center" valign="top" class="pad20rl"> <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" class="wrap"> <tbody><tr> <td align="center" valign="top" style="padding: 0px 20px 36px 20px" class="pad20rl"> <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#000000" class="wrap"> <tbody><tr> <td style="line-height: 1px !important" align="center" valign="top"><img src="https://images.harmony.epsilon.com/ContentHandler/images?id=3f67ada7-a01e-4c02-ab71-8b46fd3106ae" height="1" style="display: block" border="0" alt=""></td> </tr> </tbody></table></td> </tr> </tbody></table></td> </tr> </tbody></table> </div> </section>
+<!-- End 1-001: Divider --> </td></tr><tr><td bgcolor="#ffffff"><!-- START MCK-007: Footer | App Store -->
+<section id="MCK007" layout-row="true"> <div layout-row="true"> <table layout-row="true" role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff" class="wrap"> <tbody><tr layout-row="true"> <td valign="top"><table class="wrap" align="center" width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation"> <tbody><tr> <td align="center" style="vertical-align: top; padding: 0px 0px 20px 0px;" bgcolor="#ffffff" class="pad20rl"><table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> <td align="left" valign="top" style="vertical-align: top; padding: 0px 20px 0px 20px;" class="pad0rl"><table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> <th align="left" valign="top" style="vertical-align: top; padding: 0px; font-weight: normal; width: 285px" class="colsplit" width="285"> <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> <td class="pad0r" align="left" valign="top" style="vertical-align: top; padding: 0px 27px 0px 0px;"><p style="font-size: 14px; mso-line-height-rule: exactly; line-height: 150%; margin: 0px; font-weight: normal; letter-spacing: 0px; text-transform: none; color: #333333; font-family: Helvetica, Arial, sans-serif;" enable-personalization="true" data-richtext="col1_p1_text" data-groupid="col1_p1" class="mobile_match"><a style="color: #333333; text-decoration: none; font-weight: inherit;" href="https://email.mckinsey.com/about-us/overview/mckinsey-insights-app?__hScId__=v710000019f34554030b82e27f4bbcfb648&__hRlId__=c2b2445090c145c60000021ef3a0bcf1&__hDId__=c2b24450-90c1-45c6-9d53-05f09dc5a1d7&__hSD__=d3d3Lm1ja2luc2V5LmNvbQ==&cid=mgp_opr-eml-alt-pub-mgp-glb--bundle&hlkid=b84e70e3ace84b5e9f09c0202aca09b8&hctky=17208988&hdpid=c2b24450-90c1-45c6-9d53-05f09dc5a1d7" target="_blank" rel="noopener" data-link-id="b7fe4a70d17411ecbe8c0fc7ab484278"><span style="font-size: 14px; color: #000000; line-height: 150%;"><strong>McKinsey Insights</strong> - Get our latest thinking on your iPhone, iPad, or Android.</span></a></p></td> </tr> </tbody></table> </th> <th align="left" valign="top" style="vertical-align: top; padding: 0px; font-weight: normal;" class="colsplit"> <table role="presentation" border="0" cellspacing="0" cellpadding="0" align="right" class="wrap"> <tbody><tr> <td align="left" valign="top" class="pad20t" style="padding: 4px 0px 0px 0px;"><table role="presentation" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> <td align="left" valign="top" style="vertical-align: top; padding: 0px" data-groupid="appStore"> <a data-managed-link="appStore_link_url" href="https://email.mckinsey.com/app/apple-store/id674902075?pt=1151701&ct=mck-eml_app-store-badge&mt=8&__hScId__=v710000019f34554030b82e27f4bbcfb648&__hRlId__=c2b2445090c145c60000021ef3a0bcf2&__hDId__=c2b24450-90c1-45c6-9d53-05f09dc5a1d7&__hSD__=YXBwcy5hcHBsZS5jb20=&cid=mgp_opr-eml-alt-pub-mgp-glb--bundle&hlkid=ab958a23b4c54774ba7237f80b4c46eb&hctky=17208988&hdpid=c2b24450-90c1-45c6-9d53-05f09dc5a1d7" target="_blank" data-link-id="8f115031a3d911ecbdc86f280b15f1c8"><img agilecontent="true" src="https://images.harmony.epsilon.com/ContentHandler/images?id=38623190-c4fe-11ed-b6f5-9b0d798d20fb" alt="Download on the App Store" width="120" height="auto" style="display: block;" border="0"> </a> </td> <td width="15" align="left" valign="top" style="vertical-align: top; padding: 0px; width: 15px; font-size: 2px; line-height: 0px;">&nbsp;</td> <td align="left" valign="top" style="vertical-align: top; padding: 0px" data-groupid="googleStore"><a data-managed-link="googleStore_link_url" href="https://email.mckinsey.com/store/apps/details?id=com.mckinsey.mckinseyinsights&referrer=utm_source%3Dmck-eml%26utm_campaign%3Dmck-eml_app-store-badge&__hScId__=v710000019f34554030b82e27f4bbcfb648&__hRlId__=c2b2445090c145c60000021ef3a0bcf3&__hDId__=c2b24450-90c1-45c6-9d53-05f09dc5a1d7&__hSD__=cGxheS5nb29nbGUuY29t&cid=mgp_opr-eml-alt-pub-mgp-glb--bundle&hlkid=84b3e3dedd2c4933ae34c9a9fc9f2157&hctky=17208988&hdpid=c2b24450-90c1-45c6-9d53-05f09dc5a1d7" target="_blank" data-link-id="8f115032a3d911ecbdc86f280b15f1c8"><img agilecontent="true" src="https://images.harmony.epsilon.com/ContentHandler/images?id=b52ee4c0-c4fe-11ed-8207-4998fe8262ff" alt="ANDROID APP ON Google play" width="134" height="auto" style="display: block;" border="0"> </a> </td> </tr> </tbody></table></td> </tr> </tbody></table> </th> </tr> </tbody></table></td> </tr> </tbody></table></td> </tr> </tbody></table></td> </tr> </tbody></table> </div> </section>
+<!-- End MCK-007: Footer | App Store --> </td></tr></tbody></table></td></tr><tr><td align="center" style="font-size:14px"><!-- Start Footer - Strategy  - HTML -->
+<table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td bgcolor="#F0F0F0"><table role="presentation" class="wrap" width="100%" cellspacing="0" cellpadding="0" border="0">
+        <tbody>
+          <tr>
+            <td style="padding: 26px 20px 10px 20px" class="pad20rl" align="left"><p style="font-size: 12px; mso-line-height-rule: exactly; line-height: 130%; margin: 0px; font-weight: normal; color: #757575; font-family: Helvetica, Arial, sans-serif">This email contains information about McKinsey&rsquo;s research, insights, services, or events. By opening our emails or clicking on links, you agree to our use of cookies and web tracking technology. For more information on how we use and protect your information, please review our <a href="https://email.mckinsey.com/T/v710000019f34554030b82e27f4bbcfb648/c2b2445090c145c60000021ef3a0bcf4/c2b24450-90c1-45c6-9d53-05f09dc5a1d7?__dU__=v0G4RBKTXg2GsTlMa8YbE0npiPHb7Gzq29ujr-mrJsl6bcn0E30HNSquNCCrd1XNAz&__F__=v0fUYvjHMDjRPMSh3tviDHXIoXcPxvDgUUCCPvXMWoX_0JoZLAZABQFzGdi2cn1iU7KJEa5whIrwZcgBGG0TPafzZjdsyV3hB6TsAY9yft30XUBxsjtje_R5v9fcf7wmIhSVHuklyh7UvAmTMwtsh4bcLthPEdPGn2jF6qVlFViVlEBoXGUGxlMAj4GKzW_BQWZhTjzGtRYn_bz3w6OXHSTEqtV57ne5YnugyVdZx96GPrqOtAbSgMU6J4iuVyYl90R5nZyxqkYYNBxGSgeqpLzLlbMluymlzH58wHZJZ9lK-4-neYZTW_7ngD9zO5kct5lPT1A7kcudl-KgiKVAgl_2Hc4sGIfaJT0j1JohRuaUxROoFDBhrUUZr6O3emVySIxkii1VUuKc7ewgQCbwel0yMDr2TQVKyWORDLRqNpo9UyA3L2s6U27mrGlJWmeyAHmbz2Ry_OO3l2ebpH7Wpe5zPy906zRdNrRnXd9mBn5WxEN7OJgaudAYEmdyFrPEBr" target="_blank" style="text-decoration: underline; color: #757575;"><span class="linkunder">privacy policy</span></a>.</p></td>
+          </tr>
+        </tbody>
+      </table></td>
+  </tr>
+  <tr>
+    <td bgcolor="#F0F0F0"><table role="presentation" class="wrap" width="100%" cellspacing="0" cellpadding="0" border="0">
+        <tbody>
+          <tr>
+            <td style="padding: 0px 20px 10px 20px" class="pad20rl" align="left"><p style="font-size: 12px; mso-line-height-rule: exactly; line-height: 130%; margin: 0px; font-weight: normal; color: #757575; font-family: Helvetica, Arial, sans-serif">You received this email because you subscribed to our Strategy alert list.</p></td>
+          </tr>
+        </tbody>
+      </table></td>
+  </tr>
+  <tr>
+    <td bgcolor="#F0F0F0"><table role="presentation" class="wrap" width="100%" cellspacing="0" cellpadding="0" border="0">
+        <tbody>
+          <tr>
+            <td style="padding: 0px 20px 10px 20px" class="pad20rl" align="left"><p style="font-size: 12px; mso-line-height-rule: exactly; line-height: 130%; margin: 0px; font-weight: normal; font-family: Helvetica, Arial, sans-serif; color: #757575"><a style="color:#757575; text-decoration: underline;" href="https://email.mckinsey.com/T/v710000019f34554030b82e27f4bbcfb648/c2b2445090c145c60000021ef3a0bcf5/c2b24450-90c1-45c6-9d53-05f09dc5a1d7?__dU__=v0G4RBKTXg2GsTlMa8YbE0npiPHb7Gzq29ujr-mrJsl6bcn0E30HNSquNCCrd1XNAz&__F__=v0fUYvjHMDjRPMSh3tviDHXIoXcPxvDgUUCCPvXMWoX_0JoZLAZABQFzGdi2cn1iU7KJEa5whIrwaATePgETgXaYi6J2tbCGBqYj85pz5zjmhkbOWsZI5uGBjag9BBVASHwWYkm-P8fn4jbQxN9px-c7SEWejcKq6kHvQBZg1oZwFdJTh0zTarcVFzT38OD6IKcCFFywzWrRdF1pdRXu1r-MKbJdKUIgZlquUxJcu2I9wAIMI9oQ3yD5z-J0L3uEQV3PFb-uOsfWoWSwY_b8D-HQKmuaNmERqmGlU4jrENrfc-TPHws6bUgCOre1nNs4IQuCU5T8vamhxlYQfNMEGvErK7kikpgg9b9QfkFey1kf_KpPFjwb-tKJqpd4bPt2G3EBvTCM2PaKqDX7zrsD6pHd-nTvJlTlJJGpCzPlo0-vsVAYrVQ7ztoRfd82_qs2jJJhC_DnsfOMZFP3gifFxxDZ26p-cJir62VH6Io0XoMus8whCpPOrU8xmnJothGuiw-dUjXxhrW25J_mqzk-nxbVkDILnajJhqvc8HB6KyUeUfc_53mYXeRw==" target="_blank"><strong style="color:#757575; text-decoration: underline; font-weight: normal">Manage&nbsp;subscriptions</strong></a>&nbsp;<span style="color:#757575;">|</span>&nbsp;<a style="color:#757575; text-decoration: underline;" href="https://email.mckinsey.com/U/v710000019f34554030b82e27f4bbcfb648/c2b2445090c145c60000021ef3a0bcf6" target="_blank"><strong  style="color:#757575; text-decoration: underline; font-weight: normal">Unsubscribe</strong></a></p></td>
+          </tr>
+        </tbody>
+      </table></td>
+  </tr>
+  <tr>
+    <td bgcolor="#F0F0F0"><table role="presentation" class="wrap" width="100%" cellspacing="0" cellpadding="0" border="0">
+        <tbody>
+          <tr>
+            <td style="padding: 0px 20px 26px 20px" class="pad20rl" align="left"><p style="font-size: 12px; mso-line-height-rule: exactly; line-height: 130%; margin: 0px; font-weight: normal; color: #757575; font-family: Helvetica, Arial, sans-serif">Copyright ©&nbsp;2026 | McKinsey &amp; Company, 3 World Trade Center, 175 Greenwich Street, New York, NY 10007</p></td>
+          </tr>
+        </tbody>
+      </table></td>
+  </tr>
+</table>
+<!-- End Footer - Strategy  - HTML --></td></tr></tbody></table>
+
+							<!--END Email Size Wrapper Table -->
+
+                        </td>
+                    </tr>
+                </table>
+
+                <!--END Email Background Color Table -->
+
+            </td>
+        </tr>
+	</table>
+    </div>
+	<!--END Page Overflow Color Table -->
+
+    
+</body>
+</html>
